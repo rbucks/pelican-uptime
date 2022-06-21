@@ -1,5 +1,5 @@
 # Development
-Run this in a tab in Terminal
+Run this command to create a development server that automatically compiles updates to the static source files and serves the output. 
 
 ```bash
 $ pelican -lr content -o docs -s pelicanconf.py
@@ -11,6 +11,7 @@ Serving site at: http://127.0.0.1:8000 - Tap CTRL-C to stop
 Done: Processed 1 article, 0 drafts, 0 hidden articles, 1 page, 0 hidden pages and 0 draft pages in 0.19 seconds.
 ```
 # Deployment to GitHub
+Since GitHub Pages requires the output to compile into the `/docs` folder, which is different than the Pelican default `/output` folder, use this command to deploy. 
 ```bash
 $ pelican content -o docs -s pelicanconf.py
 $ ghp-import docs
