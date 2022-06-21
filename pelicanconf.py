@@ -21,6 +21,11 @@ EXTRA_PATH_METADATA = {
     'extra/sitemap.xml': {'path': 'sitemap.xml'}
 }
 
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}.html'
+
+#CATEGORY_SAVE_AS = TAG_SAVE_AS = AUTHOR_SAVE_AS = DRAFT_SAVE_AS = ARTICLE_SAVE_AS = #''
+FILENAME_METADATA = '(?P<title>.*)'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
