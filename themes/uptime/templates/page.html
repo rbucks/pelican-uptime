@@ -17,15 +17,8 @@
 {% endblock %}
 
 {% block content %}
-    <h1>Blah blah blah</h1>
     {% import 'translations.html' as translations with context %}
     {{ translations.translations_for(page) }}
 
     {{ page.content }}
-
-    {% if page.modified %}
-        <p>
-        Last updated: {{ page.locale_modified }}
-        </p>
-    {% endif %}
 {% endblock %}

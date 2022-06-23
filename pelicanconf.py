@@ -21,8 +21,11 @@ EXTRA_PATH_METADATA = {
     'extra/sitemap.xml': {'path': 'sitemap.xml'}
 }
 
-PAGE_URL = '{slug}'
-PAGE_SAVE_AS = '{slug}.html'
+PATH_METADATA= '(?P<dirname>.*)/(?P<basename>.*)\..*'
+PAGE_SAVE_AS= '{dirname}/{basename}.html'
+PAGE_URL= '{dirname}/{basename}.html'
+#PAGE_URL = '{slug}'
+#PAGE_SAVE_AS = '{slug}.html'
 
 #CATEGORY_SAVE_AS = TAG_SAVE_AS = AUTHOR_SAVE_AS = DRAFT_SAVE_AS = ARTICLE_SAVE_AS = #''
 FILENAME_METADATA = '(?P<title>.*)'
@@ -38,3 +41,4 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+DELETE_OUTPUT_DIRECTORY = True 
