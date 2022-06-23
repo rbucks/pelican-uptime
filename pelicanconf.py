@@ -3,7 +3,6 @@ SITENAME = 'Uptime'
 SITEURL = 'http://127.0.0.1:8000'
 
 PATH = 'content'
-OUTPUT_PATH = 'docs'
 
 TIMEZONE = 'America/New_York'
 
