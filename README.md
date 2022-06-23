@@ -14,5 +14,6 @@ Done: Processed 1 article, 0 drafts, 0 hidden articles, 1 page, 0 hidden pages a
 Since GitHub Pages requires the output to compile into the `/docs` folder, which is different than the Pelican default `/output` folder, use this command to deploy. Note that we use `publishconf.py` to modify the settings for GitHub Pages. 
 ```bash
 $ pelican content -o docs -s publishconf.py
-$ ghp-import -op docs
+$ git push origin master
 ```
+Pushing the updated `/docs` folder to the `master` branch deploys to GitHub. 
