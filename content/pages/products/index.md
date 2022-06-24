@@ -382,7 +382,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget widget_1634020265039-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020265039" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020265039_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}betteruptime-compare.md" target="_parent" id="hs-link-widget_1634020265039_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Better_Uptime_vs_Uptime.com_Top_Monitoring_Alternative.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020265039_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}/pages/compare/better-uptime.md" target="_parent" id="hs-link-widget_1634020265039_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Better_Uptime_vs_Uptime.com_Top_Monitoring_Alternative.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -613,7 +613,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget widget_1634020290871-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020290871" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020290871_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}uptimerobot-compare.md" target="_parent" id="hs-link-widget_1634020290871_" style="border-width:0px;border:0px;"><img src="{static}/images/products/UptimeRobot_vs_Uptime.com_Top_Monitoring_Alternative%20copy.png?width=1350&amp;height=1050&amp;name=UptimeRobot_vs_Uptime.com_Top_Monitoring_Alternative%20copy.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020290871_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}/pages/compare/uptime-robot.md" target="_parent" id="hs-link-widget_1634020290871_" style="border-width:0px;border:0px;"><img src="{static}/images/products/UptimeRobot_vs_Uptime.com_Top_Monitoring_Alternative%20copy.png?width=1350&amp;height=1050&amp;name=UptimeRobot_vs_Uptime.com_Top_Monitoring_Alternative%20copy.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
