@@ -142,7 +142,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget widget_1634020121479-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020121479" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020121479_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/reporting?hsLang=en" target="_parent" id="hs-link-widget_1634020121479_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Website_Performance_Monitoring_Reporting_and_Analytics_with_Uptime.com.png"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020121479_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}reporting.md" target="_parent" id="hs-link-widget_1634020121479_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Website_Performance_Monitoring_Reporting_and_Analytics_with_Uptime.com.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -193,7 +193,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget widget_1634020192596-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020192596" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020192596_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/real-user-monitoring?hsLang=en" target="_parent" id="hs-link-widget_1634020192596_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Real_User_Monitoring_(RUM)_page_speed_errors_Uptime.com.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020192596_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}real-user-monitoring.md" target="_parent" id="hs-link-widget_1634020192596_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Real_User_Monitoring_(RUM)_page_speed_errors_Uptime.com.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -238,7 +238,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget module_16455390867332-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_module_16455390867332" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_module_16455390867332_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/status-pages?hsLang=en" target="_parent" id="hs-link-module_16455390867332_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Custom_Website_Status_Pages_Uptime.com.png"></a></span>
+                      <span id="hs_cos_wrapper_module_16455390867332_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}status-pages.md" target="_parent" id="hs-link-module_16455390867332_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Custom_Website_Status_Pages_Uptime.com.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -283,7 +283,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget widget_1634020197805-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020197805" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020197805_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/integrations?hsLang=en" target="_parent" id="hs-link-widget_1634020197805_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Website_Uptime_Performance_Monitoring_Integrations_Uptime.com.png"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020197805_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}integrations.md" target="_parent" id="hs-link-widget_1634020197805_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Website_Uptime_Performance_Monitoring_Integrations_Uptime.com.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -382,7 +382,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget widget_1634020265039-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020265039" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020265039_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/betteruptime-compare?hsLang=en" target="_parent" id="hs-link-widget_1634020265039_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Better_Uptime_vs_Uptime.com_Top_Monitoring_Alternative.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020265039_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}betteruptime-compare.md" target="_parent" id="hs-link-widget_1634020265039_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Better_Uptime_vs_Uptime.com_Top_Monitoring_Alternative.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -427,7 +427,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget widget_1634020275008-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020275008" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020275008_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/catchpoint-compare?hsLang=en" target="_parent" id="hs-link-widget_1634020275008_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Catchpoint_vs_Uptime.com_Top_Monitoring_Alternative.png"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020275008_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}catchpoint-compare.md" target="_parent" id="hs-link-widget_1634020275008_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Catchpoint_vs_Uptime.com_Top_Monitoring_Alternative.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -472,7 +472,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget dnd-module widget_1634020278236-flexbox-positioning" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020278236" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020278236_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/datadog-compare?hsLang=en" target="_parent" id="hs-link-widget_1634020278236_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Datadog_vs_Uptime.com_Top_Monitoring_Alternative.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020278236_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}datadog-compare.md" target="_parent" id="hs-link-widget_1634020278236_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Datadog_vs_Uptime.com_Top_Monitoring_Alternative.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -523,7 +523,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget widget_1634020283902-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020283902" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020283902_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/pingdom-compare?hsLang=en" target="_parent" id="hs-link-widget_1634020283902_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Pingdom_vs_Uptime.com_Top_Monitoring_Alternative.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020283902_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}pingdom-compare.md" target="_parent" id="hs-link-widget_1634020283902_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Pingdom_vs_Uptime.com_Top_Monitoring_Alternative.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -568,7 +568,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget widget_1634020287309-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020287309" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020287309_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/site24x7-compare?hsLang=en" target="_parent" id="hs-link-widget_1634020287309_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Site24x7_vs_Uptime.com_Top_Monitoring_Alternative.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020287309_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}site24x7-compare.md" target="_parent" id="hs-link-widget_1634020287309_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Site24x7_vs_Uptime.com_Top_Monitoring_Alternative.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -613,7 +613,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget widget_1634020290871-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020290871" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020290871_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/uptimerobot-compare?hsLang=en" target="_parent" id="hs-link-widget_1634020290871_" style="border-width:0px;border:0px;"><img src="{static}/images/products/UptimeRobot_vs_Uptime.com_Top_Monitoring_Alternative%20copy.png?width=1350&amp;height=1050&amp;name=UptimeRobot_vs_Uptime.com_Top_Monitoring_Alternative%20copy.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020290871_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}uptimerobot-compare.md" target="_parent" id="hs-link-widget_1634020290871_" style="border-width:0px;border:0px;"><img src="{static}/images/products/UptimeRobot_vs_Uptime.com_Top_Monitoring_Alternative%20copy.png?width=1350&amp;height=1050&amp;name=UptimeRobot_vs_Uptime.com_Top_Monitoring_Alternative%20copy.png" sizes="(max-width: 1350px) 100vw, 1350px"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -664,7 +664,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget dnd-module widget_1634020296456-flexbox-positioning" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020296456" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020296456_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/uptrends-compare?hsLang=en" target="_parent" id="hs-link-widget_1634020296456_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Uptrends_vs_Uptime.com_Top_Monitoring_Alternative.png?width=1350&amp;height=1050&amp;name=Uptrends_vs_Uptime.com_Top_Monitoring_Alternative.png"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020296456_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}uptrends-compare.md" target="_parent" id="hs-link-widget_1634020296456_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Uptrends_vs_Uptime.com_Top_Monitoring_Alternative.png?width=1350&amp;height=1050&amp;name=Uptrends_vs_Uptime.com_Top_Monitoring_Alternative.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -795,7 +795,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget module_16499660181906-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_module_16499660181906" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_module_16499660181906_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/ecommerce-websites-uptime?hsLang=en" target="_parent" id="hs-link-module_16499660181906_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Ecommerce_Businesses_Trust_Uptime.com_Monitoring.png"></a></span>
+                      <span id="hs_cos_wrapper_module_16499660181906_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}ecommerce-websites-uptime.md" target="_parent" id="hs-link-module_16499660181906_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Ecommerce_Businesses_Trust_Uptime.com_Monitoring.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -840,7 +840,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget module_16499655073506-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_module_16499655073506" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_module_16499655073506_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/edu-websites-uptime?hsLang=en" target="_parent" id="hs-link-module_16499655073506_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Education_And_Universities_trust_Uptime.com_Monitoring.png"></a></span>
+                      <span id="hs_cos_wrapper_module_16499655073506_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}edu-websites-uptime.md" target="_parent" id="hs-link-module_16499655073506_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Education_And_Universities_trust_Uptime.com_Monitoring.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -885,7 +885,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget module_16499655151696-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_module_16499655151696" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_module_16499655151696_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/financial-websites-uptime?hsLang=en" target="_parent" id="hs-link-module_16499655151696_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Financial_Industries_Trust_Uptime.com_Monitoring.png"></a></span>
+                      <span id="hs_cos_wrapper_module_16499655151696_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}financial-websites-uptime.md" target="_parent" id="hs-link-module_16499655151696_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Financial_Industries_Trust_Uptime.com_Monitoring.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -939,7 +939,7 @@ css: products.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget module_16499654824776-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_module_16499654824776" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_module_16499654824776_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/it-services-uptime?hsLang=en" target="_parent" id="hs-link-module_16499654824776_" style="border-width:0px;border:0px;"><img src="{static}/images/products/IT_Services_Trusts_Uptime.com_Monitoring.png?width=1350&amp;height=1050&amp;name=IT_Services_Trusts_Uptime.com_Monitoring.png"></a></span>
+                            <span id="hs_cos_wrapper_module_16499654824776_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}it-services-uptime.md" target="_parent" id="hs-link-module_16499654824776_" style="border-width:0px;border:0px;"><img src="{static}/images/products/IT_Services_Trusts_Uptime.com_Monitoring.png?width=1350&amp;height=1050&amp;name=IT_Services_Trusts_Uptime.com_Monitoring.png"></a></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -984,7 +984,7 @@ css: products.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget module_16499660326586-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_module_16499660326586" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_module_16499660326586_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/saas-websites-uptime?hsLang=en" target="_parent" id="hs-link-module_16499660326586_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Software_SAAS_B2B_Industries_Trust_Uptime.com_Monitoring.png"></a></span>
+                            <span id="hs_cos_wrapper_module_16499660326586_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}saas-websites-uptime.md" target="_parent" id="hs-link-module_16499660326586_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Software_SAAS_B2B_Industries_Trust_Uptime.com_Monitoring.png"></a></span>
                           </div>
                         </div>
                         <!--end widget-span -->
