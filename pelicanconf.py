@@ -39,13 +39,13 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True 
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['jinja2content']
+PLUGINS = ['plugins.jinja2content']
 
 # Jinja2content plugin
-#JINJA2CONTENT_TEMPLATES = ['content']
+JINJA2CONTENT_TEMPLATES = ['content']
 LOAD_CONTENT_CACHE = False
