@@ -97,7 +97,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget widget_1634020117677-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1634020117677" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_widget_1634020117677_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="/go/alerting?hsLang=en" target="_parent" id="hs-link-widget_1634020117677_" style="border-width:0px;border:0px;"><img src="{static}/images/products/IT_Alert_Notifications_for_Website_Outages_with_Uptime.com.png"></a></span>
+                      <span id="hs_cos_wrapper_widget_1634020117677_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}alerting.md" target="_parent" id="hs-link-widget_1634020117677_" style="border-width:0px;border:0px;"><img src="{static}/images/products/IT_Alert_Notifications_for_Website_Outages_with_Uptime.com.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
