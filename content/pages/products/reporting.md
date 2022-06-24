@@ -1,0 +1,626 @@
+Title: Reporting
+css: reporting.css
+
+<div class="container-fluid body-container">
+  <div class="row-fluid-wrapper">
+    <div class="row-fluid">
+      <div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+        <div class="row-fluid-wrapper row-depth-1 row-number-1 dnd_area-row-0-vertical-alignment dnd-section dnd_area-row-0-padding">
+          <div class="row-fluid ">
+            <div class="span6 widget-span widget-type-cell cell_1632331163300-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="0" data-w="6">
+              <div class="row-fluid-wrapper row-depth-1 row-number-2 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_widget_1632331720482" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content-01 text-left  -mb-8">
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <h1>Uptime Reporting &amp; Analytics</h1>
+                          <p>Report on website uptime, page speed, and SLA performance with anyone, anywhere, anytime.&nbsp;</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-3 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_widget_1632331163104" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-form-01  text-left  widget_1632331163104 ">
+                        <div class=" sr-invisible fadeInBottom">
+                          <span id="hs_cos_wrapper_widget_1632331163104_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="form">
+                            <h3 id="hs_cos_wrapper_form_632301325_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text"></h3>
+                            <div id="hs_form_target_form_632301325"></div>
+                          </span>
+                        </div>
+                        <div class="mt-6  sr-invisible fadeInBottom">
+                          <p><span>Have questions? </span><a href="/request-demo?hsLang=en" rel="noopener">Get a live demo.</a></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+            <div class="span6 widget-span widget-type-cell cell_16310722971862-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="6" data-w="6">
+              <div class="row-fluid-wrapper row-depth-1 row-number-4 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget widget_1631072296680-hidden dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_widget_1631072296680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-image-default flex justify-center sr-invisible fadeInBottom ">
+                        <div>
+                          <img loading="lazy" src="{static}/images/products/reporting/Web_Reporting_Real_User_Monitoring_1150x920.gif" alt="Website Performance Monitoring Reporting Dashboards with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end row-wrapper -->
+        <div class="row-fluid-wrapper row-depth-1 row-number-5 dnd_area-row-1-padding dnd_area-row-1-background-color dnd-section">
+          <div class="row-fluid ">
+            <div class="span12 widget-span widget-type-cell dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+              <div class="row-fluid-wrapper row-depth-1 row-number-6 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_widget_1631095061758" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content atmc-content-01 text-center   ">
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <h2 class="m-0"><span style="color: #14bbb9;">8</span> in <span style="color: #14bbb9;">10</span> web visitors</h2>
+                          <p>won't return to a site with performance issues.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-7 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_widget_1631074155968" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-divider-01 atmc-divider-01-solid border-b-3 border-secondary sr-invisible fadeInBottom w-20 text-center m-auto -mt-4"></div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end row-wrapper -->
+        <div class="row-fluid-wrapper row-depth-1 row-number-8 dnd_area-row-2-padding dnd-section dnd_area-row-2-vertical-alignment">
+          <div class="row-fluid ">
+            <div class="span6 widget-span widget-type-cell cell_16336387059223-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="0" data-w="6">
+              <div class="row-fluid-wrapper row-depth-1 row-number-9 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-image-default  sr-invisible fadeInBottom uptime-drop-shadow">
+                        <div>
+                          <img loading="lazy" src="{static}/images/products/reporting/Web_Uptime_Dashboard_Monitoring_1100x840.webp" alt="Website Uptime Monitoring Performance Dashboard with Uptime.com.com" width="100%" style="max-width: 550px; max-height: 420px">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+            <div class="span1 widget-span widget-type-cell cell_16336387059224-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="6" data-w="1">
+              <div class="row-fluid-wrapper row-depth-1 row-number-10 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_16336387059229" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span class="hs-horizontal-spacer"></span></div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+            <div class="span5 widget-span widget-type-cell cell_16336387059225-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="7" data-w="5">
+              <div class="row-fluid-wrapper row-depth-1 row-number-11 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_widget_1631095291433" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content atmc-content-01 text-left   -mb-8">
+                        <label class="atmc-cap sr-invisible fadeInBottom">Website Performance Monitoring</label>
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <h2>Design your ideal dashboards</h2>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-12 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_dnd_area-module-7" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content-01 text-left  ">
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <p>Display critical uptime performance data via custom monitoring dashboards and reports by alerts, check types, and SLAs -- and segment by different users and teams.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-13 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_163363870592215" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-divider-01 atmc-divider-01-solid border-b-3 border-secondary sr-invisible fadeInBottom w-20"></div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end row-wrapper -->
+        <div class="row-fluid-wrapper row-depth-1 row-number-14 dnd-section dnd_area-row-3-padding dnd_area-row-3-vertical-alignment">
+          <div class="row-fluid ">
+            <div class="span5 widget-span widget-type-cell cell_16336387740916-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="0" data-w="5">
+              <div class="row-fluid-wrapper row-depth-1 row-number-15 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_1631095355796" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content atmc-content-01 text-left   -mb-8">
+                        <label class="atmc-cap sr-invisible fadeInBottom">Performance Report Scheduling</label>
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <h2>Decide who sees what, and when</h2>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-16 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_163108019284410" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content-01 text-left  ">
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <p>Schedule reports on checks and systems you need; then deliver uptime monitoring data to the people and teams that need it via automated report links or API by day, week, month, quarter, or year -- you choose.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-17 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_163363877409114" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-divider-01 atmc-divider-01-solid border-b-3 border-secondary sr-invisible fadeInBottom w-20"></div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+            <div class="span1 widget-span widget-type-cell cell_16336387740917-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="5" data-w="1">
+              <div class="row-fluid-wrapper row-depth-1 row-number-18 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_163363877409116" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span class="hs-horizontal-spacer"></span></div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-19 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_widget_1633639927434" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div class="section-settings widget_1633639927434">
+                        <div class="atmc-custom-class" data-class="reverse-columns-on-mobile"></div>
+                        <div class="atmc-custom-id" data-id="widget_1633639927434"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+            <div class="span6 widget-span widget-type-cell cell_16336387740918-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="6" data-w="6">
+              <div class="row-fluid-wrapper row-depth-1 row-number-20 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_16310982020963" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-image-default  sr-invisible fadeInBottom ">
+                        <div>
+                          <img loading="lazy" src="{static}/images/products/reporting/New_Scheduled_Report_1150x920.gif" alt="Website Uptime Monitoring Automated Report Scheduling with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end row-wrapper -->
+        <div class="row-fluid-wrapper row-depth-1 row-number-21 dnd-section dnd_area-row-4-padding dnd_area-row-4-vertical-alignment">
+          <div class="row-fluid ">
+            <div class="span6 widget-span widget-type-cell cell_16336388332532-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="0" data-w="6">
+              <div class="row-fluid-wrapper row-depth-1 row-number-22 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_16310982122473" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-image-default  sr-invisible fadeInBottom uptime-drop-shadow">
+                        <div>
+                          <img loading="lazy" src="{static}/images/products/reporting/Page_Speed_Real_User_Monitoring_RUM_1150x748_2.webp" alt="Page Speed Real User Monitoring RUM" width="100%" style="max-width: 575px; max-height: 324px">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+            <div class="span1 widget-span widget-type-cell cell_16336388332533-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="6" data-w="1">
+              <div class="row-fluid-wrapper row-depth-1 row-number-23 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_16336388332538" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span class="hs-horizontal-spacer"></span></div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+            <div class="span5 widget-span widget-type-cell cell_16336388332534-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="7" data-w="5">
+              <div class="row-fluid-wrapper row-depth-1 row-number-24 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_1631095404322" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content atmc-content-01 text-left   -mb-8">
+                        <label class="atmc-cap sr-invisible fadeInBottom">REAL USER MONITORING (RUM)</label>
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <h2>Go deeper with RUM</h2>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-25 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_16310802535478" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content-01 text-left  ">
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <p>Don’t report on website performance without understanding website experience. Analyze real user website sessions to optimize site code, elements, and uptime. <a href="{filename}real-user-monitoring.md" rel="noopener">Learn more</a>.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-26 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_16310802535479" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-divider-01 atmc-divider-01-solid border-b-3 border-secondary sr-invisible fadeInBottom w-20"></div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end row-wrapper -->
+        <div class="row-fluid-wrapper row-depth-1 row-number-27 dnd-section dnd_area-row-5-padding dnd_area-row-5-vertical-alignment">
+          <div class="row-fluid ">
+            <div class="span5 widget-span widget-type-cell cell_16336389794004-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="0" data-w="5">
+              <div class="row-fluid-wrapper row-depth-1 row-number-28 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_1631095486154" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content atmc-content-01 text-left   -mb-8">
+                        <label class="atmc-cap sr-invisible fadeInBottom">CUSTOM HOSTED STATUS PAGES</label>
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <h2>Report on uptime and incidents</h2>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-29 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_163108029812910" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content-01 text-left  ">
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <p>Communicate downtime in the same tool you monitor uptime with. Create branded system status pages with impeccable data fidelity you'll want seen and subscribed to.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-30 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_163108029812911" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-divider-01 atmc-divider-01-solid border-b-3 border-secondary sr-invisible fadeInBottom w-20"></div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+            <div class="span1 widget-span widget-type-cell dnd-column cell_16336389794005-vertical-alignment" style="" data-widget-type="cell" data-x="5" data-w="1">
+              <div class="row-fluid-wrapper row-depth-1 row-number-31 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_163363897940014" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span class="hs-horizontal-spacer"></span></div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-32 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_widget_1633640403025" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div class="section-settings widget_1633640403025">
+                        <div class="atmc-custom-class" data-class="reverse-columns-on-mobile"></div>
+                        <div class="atmc-custom-id" data-id="widget_1633640403025"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+            <div class="span6 widget-span widget-type-cell dnd-column cell_16336389794006-vertical-alignment" style="" data-widget-type="cell" data-x="6" data-w="6">
+              <div class="row-fluid-wrapper row-depth-1 row-number-33 cell_16336389794006-row-0-vertical-alignment dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget module_16310802981295-vertical-alignment dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_16310802981295" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-image-default   uptime-drop-shadow">
+                        <div>      
+                          <img loading="lazy" src="{static}/images/products/reporting/Custom_Status_Pages_1160x834.webp" alt="Website Status Pages for Outages and Incident Communication with Uptime.com.com_1160x834" width="100%" style="max-width: 580px; max-height: 417px">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end row-wrapper -->
+        <div class="row-fluid-wrapper row-depth-1 row-number-34 dnd_area-row-6-padding dnd_area-row-6-vertical-alignment dnd-section dnd_area-row-6-background-color">
+          <div class="row-fluid ">
+            <div class="span6 widget-span widget-type-cell cell_1631658975601-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="0" data-w="6">
+              <div class="row-fluid-wrapper row-depth-1 row-number-35 cell_1631658975601-row-0-vertical-alignment dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget module_16310804433605-vertical-alignment dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-image-default   ">
+                        <div>      
+                          <img loading="lazy" src="{static}/images/products/reporting/Artboard-1-copy-16_2x.webp" alt="Page Speed Improvement Review Marco" width="100%" style="max-width: 1000px; max-height: 419px">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+            <div class="span6 widget-span widget-type-cell cell_16310804433603-padding cell_16310804433603-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="6" data-w="6">
+              <div class="row-fluid-wrapper row-depth-1 row-number-36 cell_16310804433603-row-0-vertical-alignment dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-cell cell_1631106871800-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+                    <div class="row-fluid-wrapper row-depth-1 row-number-37 dnd-row">
+                      <div class="row-fluid ">
+                        <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                          <div id="hs_cos_wrapper_module_163108044336010" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                            <div id="" class="atmc-content-01 text-left text-white ">
+                              <h2 class="mb-4 atmc-headline-default sr-invisible fadeInBottom">
+                                "Great insights"
+                              </h2>
+                              <div class="atmc-intro sr-invisible fadeInBottom">
+                                <p style="color: #000000;">"Real fidelity in data, way more accurate than other services. Nothing so far I can point out as a bad thing. Improved my client's page speed a ton."</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <!--end widget-span -->
+                      </div>
+                      <!--end row-->
+                    </div>
+                    <!--end row-wrapper -->
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end row-wrapper -->
+        <div class="row-fluid-wrapper row-depth-1 row-number-38 dnd_area-row-7-vertical-alignment dnd-section dnd_area-row-7-padding">
+          <div class="row-fluid ">
+            <div class="span6 widget-span widget-type-cell cell_16310804015202-padding cell_16310804015202-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="0" data-w="6">
+              <div class="row-fluid-wrapper row-depth-1 row-number-39 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_1631095642347" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content atmc-content-01 text-left   -mb-8">
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <h2>Report on website performance now</h2>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-40 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_16310804015208" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-content-01 text-left  ">
+                        <div class="atmc-intro sr-invisible fadeInBottom">
+                          <ul>
+                            <li>Fully customize uptime dashboards</li>
+                            <li>Enable sharing, scheduling, delivery</li>
+                            <li>Monitor and report downtime together</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+              <div class="row-fluid-wrapper row-depth-1 row-number-41 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_module_16310804015209" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-divider-01 atmc-divider-01-solid border-b-3 border-secondary sr-invisible fadeInBottom w-20"></div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+            <div class="span6 widget-span widget-type-cell cell_1631644212473-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="6" data-w="6">
+              <div class="row-fluid-wrapper row-depth-1 row-number-42 dnd-row">
+                <div class="row-fluid ">
+                  <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+                    <div id="hs_cos_wrapper_widget_1631644212348" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+                      <div id="" class="atmc-form-01  text-left  widget_1631644212348 ">
+                        <div class=" sr-invisible fadeInBottom">
+                          <span id="hs_cos_wrapper_widget_1631644212348_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="form">
+                            <h3 id="hs_cos_wrapper_form_795196452_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text"></h3>
+                            <div id="hs_form_target_form_795196452"></div>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--end widget-span -->
+                </div>
+                <!--end row-->
+              </div>
+              <!--end row-wrapper -->
+            </div>
+            <!--end widget-span -->
+          </div>
+          <!--end row-->
+        </div>
+        <!--end row-wrapper -->
+      </div>
+      <!--end widget-span -->
+    </div>
+  </div>
+</div>
