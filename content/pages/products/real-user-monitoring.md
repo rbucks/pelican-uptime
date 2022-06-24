@@ -1,3 +1,6 @@
+Title: Real User Monitoring
+css: real-user-monitoring.css
+
 <div class="container-fluid body-container">
   <div class="row-fluid-wrapper">
     <div class="row-fluid">
