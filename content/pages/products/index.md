@@ -795,7 +795,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget module_16499660181906-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_module_16499660181906" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_module_16499660181906_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}ecommerce-websites-uptime.md" target="_parent" id="hs-link-module_16499660181906_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Ecommerce_Businesses_Trust_Uptime.com_Monitoring.png"></a></span>
+                      <span id="hs_cos_wrapper_module_16499660181906_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}/pages/industries/ecommerce-websites-uptime.md" target="_parent" id="hs-link-module_16499660181906_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Ecommerce_Businesses_Trust_Uptime.com_Monitoring.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -840,7 +840,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget module_16499655073506-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_module_16499655073506" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_module_16499655073506_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}edu-websites-uptime.md" target="_parent" id="hs-link-module_16499655073506_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Education_And_Universities_trust_Uptime.com_Monitoring.png"></a></span>
+                      <span id="hs_cos_wrapper_module_16499655073506_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}/pages/industries/edu-websites-uptime.md" target="_parent" id="hs-link-module_16499655073506_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Education_And_Universities_trust_Uptime.com_Monitoring.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -885,7 +885,7 @@ css: products.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget module_16499655151696-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_module_16499655151696" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <span id="hs_cos_wrapper_module_16499655151696_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}financial-websites-uptime.md" target="_parent" id="hs-link-module_16499655151696_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Financial_Industries_Trust_Uptime.com_Monitoring.png"></a></span>
+                      <span id="hs_cos_wrapper_module_16499655151696_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}/pages/industries/financial-websites-uptime.md" target="_parent" id="hs-link-module_16499655151696_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Financial_Industries_Trust_Uptime.com_Monitoring.png"></a></span>
                     </div>
                   </div>
                   <!--end widget-span -->
@@ -939,7 +939,7 @@ css: products.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget module_16499654824776-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_module_16499654824776" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_module_16499654824776_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}it-services-uptime.md" target="_parent" id="hs-link-module_16499654824776_" style="border-width:0px;border:0px;"><img src="{static}/images/products/IT_Services_Trusts_Uptime.com_Monitoring.png?width=1350&amp;height=1050&amp;name=IT_Services_Trusts_Uptime.com_Monitoring.png"></a></span>
+                            <span id="hs_cos_wrapper_module_16499654824776_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}/pages/industries/it-services-uptime.md" target="_parent" id="hs-link-module_16499654824776_" style="border-width:0px;border:0px;"><img src="{static}/images/products/IT_Services_Trusts_Uptime.com_Monitoring.png?width=1350&amp;height=1050&amp;name=IT_Services_Trusts_Uptime.com_Monitoring.png"></a></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -984,7 +984,7 @@ css: products.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget module_16499660326586-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_module_16499660326586" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_module_16499660326586_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}saas-websites-uptime.md" target="_parent" id="hs-link-module_16499660326586_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Software_SAAS_B2B_Industries_Trust_Uptime.com_Monitoring.png"></a></span>
+                            <span id="hs_cos_wrapper_module_16499660326586_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="{filename}/pages/industries/saas-websites-uptime.md" target="_parent" id="hs-link-module_16499660326586_" style="border-width:0px;border:0px;"><img src="{static}/images/products/Software_SAAS_B2B_Industries_Trust_Uptime.com_Monitoring.png"></a></span>
                           </div>
                         </div>
                         <!--end widget-span -->
