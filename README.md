@@ -17,3 +17,6 @@ $ pelican content -o docs -s publishconf.py
 $ git push origin master
 ```
 Pushing the updated `/docs` folder to the `master` branch deploys to GitHub. 
+
+# TODO
+- Use jinja to make a better logos.html template based on the `edu-websites-uptime.md` file. 
