@@ -1,4 +1,4 @@
-Title: Education Websites Uptime
+Title: Edu Websites Uptime
 css: education.css
 
 <div class="container-fluid body-container">
