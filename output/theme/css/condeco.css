@@ -1,0 +1,76 @@
+#hs_cos_wrapper_widget_1634265070405  { display: block !important; padding-bottom: 0px !important; padding-left: 0px !important; padding-right: 0px !important; padding-top: 0px !important }
+.footer-global-row-0-force-full-width-section > .row-fluid {
+  max-width: none !important;
+}
+/* HubSpot Non-stacked Media Query Styles */
+@media (min-width:768px) {
+  .dnd_area-row-1-vertical-alignment > .row-fluid {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: row;
+    display: flex !important;
+    flex-direction: row;
+  }
+  .dnd_area-column-11-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: start !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+  }
+  .dnd_area-column-11-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+  .dnd_area-column-6-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: start !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+  }
+  .dnd_area-column-6-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+  .dnd_area-column-4-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: start !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+  }
+  .dnd_area-column-4-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+  .footer-global-row-0-vertical-alignment > .row-fluid {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: row;
+    display: flex !important;
+    flex-direction: row;
+  }
+  .footer-global-module-1-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+  }
+  .footer-global-module-1-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+}
+/* HubSpot Styles (default) */
+.dnd_area-row-0-padding {
+  padding-bottom: 20px !important;
+}
+.dnd_area-row-1-padding {
+  padding-top: 20px !important;
+}
+.footer-global-row-0-padding {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
