@@ -1,4 +1,4 @@
-Title: Uptime Team
+Title: Team
 css: team.css
 
 <div class="container-fluid body-container">

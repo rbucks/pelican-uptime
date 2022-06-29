@@ -1,4 +1,4 @@
-Title: Uptime Resources
+Title: Resources
 css: resources.css
 
 <div class="container-fluid body-container">

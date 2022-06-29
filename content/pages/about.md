@@ -1,4 +1,4 @@
-Title: About Uptime
+Title: About
 css: about.css
 
 <div class="container-fluid body-container">
