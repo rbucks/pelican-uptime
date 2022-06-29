@@ -20,3 +20,6 @@ Pushing the updated `/docs` folder to the `master` branch deploys to GitHub.
 
 # TODO
 - Use jinja to make a better logos.html template based on the `edu-websites-uptime.md` file. 
+- Use the [HubSpot forms API](https://developers.hubspot.com/docs/api/marketing/forms) on all website forms
+- Free tools API and pages
+- CSS audit and purge
