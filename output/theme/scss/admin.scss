@@ -1,0 +1,238 @@
+/*
+ * Variables
+ */
+
+$color-success:#33aa33;
+$color-warning:#dd8a14;
+$color-danger:#dc2f2a;
+$color-info:#5bc0de;
+$color-muted:#999;
+
+
+/*
+ * Admin Tools Mods
+ */
+
+#header {
+    #branding {
+        h1#site-name {
+            margin: 0;
+            padding: 0;
+            width: 200px;
+            height: 42px;
+            background: url('../img/global/logo-uptime.svg') no-repeat 14px 10px;
+            background-size: auto 25px;
+        }
+    }
+}
+
+/*
+ * Common styles
+ */
+
+.clearfix {
+    &:before,
+    &:after {
+        content: '';
+        display: block;
+    }
+    &:after {
+        clear: both;
+    }
+}
+
+.start-hidden {
+    display: none;
+}
+
+.spacer-none {
+    margin-top:0 !important;
+}
+
+.spacer-tiny {
+    margin-top:5px !important;
+}
+
+.spacer-small {
+    margin-top:10px !important;
+}
+
+.spacer-medium {
+    margin-top:20px !important;
+}
+
+.spacer-large {
+    margin-top:30px !important;
+}
+
+.spacer-extralarge {
+    margin-top:40px !important;
+}
+
+.text-danger {
+    color:$color-danger;
+}
+
+.text-warning {
+    color:$color-warning;
+}
+
+.text-success {
+    color:$color-success;
+}
+
+.text-info {
+    color:$color-info;
+}
+
+.text-muted {
+    color:$color-muted;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.nowrap {
+    white-space:nowrap;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
+/*
+ * Images
+ */
+
+img {
+    vertical-align:middle;
+}
+
+.img-line-height {
+  max-height: 20px;
+}
+
+/*
+ * Tables
+ */
+
+table.table-clean {
+  > thead, > tbody {
+      > tr {
+          > th, > td {
+              border-width: 0;
+          }
+      }
+  }
+}
+
+table.table-fullwidth {
+    width: 100%;
+}
+
+table.table-vmiddle {
+    th, td { vertical-align: middle;}
+}
+
+table.table-form {
+    th > label {
+        display: inline-block;
+        margin-top: 7px;
+        color: #333;
+        font-weight: bold;
+    }
+}
+
+table td.center,
+table th.center {
+    text-align: center;
+}
+
+table td.right,
+table th.right {
+    text-align: right;
+}
+
+/*
+ * Columns
+ */
+
+div.two-columns {
+    @extend .clearfix;
+
+    > div {
+        float: left;
+        width: 47%;
+        margin-left: 6%;
+
+        &:first-child {
+            margin-left: 0;
+        }
+    }
+}
+
+/*
+ * Forms
+ */
+span.helptext {
+    display: block;
+    font-size: 12px;
+    font-style: italic;
+    color: #666;
+}
+
+/*
+ * Lists
+ */
+dl.inline {
+    dt { display: inline; }
+    dd { display: inline; }
+}
+
+.list-unstyled {
+    margin: 0;
+    padding: 0;
+
+    > li { list-style-type: none; }
+}
+
+/*
+ * Tablesorter
+ */
+
+.tablesorter-header:not(.sorter-false) {
+    cursor: pointer;
+}
+
+.tablesorter-header.tablesorter-headerUnSorted:not(.sorter-false) > div::after {
+    content: '';
+}
+
+.tablesorter-header.tablesorter-headerAsc > div::after {
+    content: '';
+    position: relative;
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    background: url(../admin/img/sorting-icons.svg) 0 0 no-repeat;
+    background-size: 14px auto;
+    top: 2px;
+    background-position: 0 -56px;
+}
+
+.tablesorter-header.tablesorter-headerDesc > div::after {
+    content: '';
+    position: relative;
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    background: url(../admin/img/sorting-icons.svg) 0 0 no-repeat;
+    background-size: 14px auto;
+    top: 2px;
+    background-position: 0 -42px;
+}

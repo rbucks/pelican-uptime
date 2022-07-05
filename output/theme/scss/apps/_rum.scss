@@ -1,0 +1,496 @@
+$rum-divider-color: #c4c4c4;
+$default-font-family: "Rubik";
+
+div.rum-checks-list,
+div.rum-check-detail,
+div.rum-check-graphs {
+    @extend .white-block;
+    @extend .white-block-border;
+
+    .rum-checks-list-table {
+        @extend .table;
+        @extend .table-responsive-md;
+        @extend .data-table;
+        @extend .data-table-with-status;
+        @extend .mb-0;
+    }
+
+    .checks-list-header {
+        cursor: help;
+    }
+
+    i.arrow {
+        margin: 0;
+        padding-bottom: 2px;
+
+        &::before {
+            line-height: 15px;
+            padding-left: 5px;
+            padding-bottom: 2px;
+            font-size: 0.7em;
+        }
+    }
+
+    i.up-arrow {
+        &::before {
+            @extend .fas;
+            content: fa-content($fa-var-long-arrow-up);
+        }
+    }
+
+    i.down-arrow {
+        &::before {
+            @extend .fas;
+            content: fa-content($fa-var-long-arrow-down);
+        }
+    }
+
+    .baseline-comparison {
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        cursor: help;
+    }
+
+    .header-item-wrapper {
+        display: flex;
+        flex-direction: row;
+        margin: 0 -1em;
+    }
+
+    .header-item-container {
+        border-right: 1px solid $rum-divider-color;
+        flex: 1;
+        padding: 0 1em;
+        min-height: 11em;
+        display: flex;
+        flex-direction: column;
+
+        &:last-child {
+            border-right: 0;
+        }
+    }
+
+    .primary-header {
+        font-size: 16px;
+        cursor: help;
+    }
+
+    .no-views-note {
+        font-weight: bold;
+        font-size: 12px;
+        color: #e31e1e;
+        padding: 0;
+        margin: 0;
+    }
+
+    .primary-spacer {
+        flex: 1;
+        min-height: 1em;
+    }
+
+    .detail-row {
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        padding: 0.1em 0;
+        cursor: help;
+    }
+
+    .secondary-header {
+        margin: 0;
+        padding-right: 10px;
+    }
+
+    .dotted-row-spacer {
+        border-bottom: 1px dotted $rum-divider-color;
+        padding-right: 10px;
+        flex: 1;
+        height: 50%s;
+    }
+
+    .baseline-comparison-value {
+        @extend .font-16;
+        margin: 0;
+        padding-left: 0.5em;
+        cursor: help;
+    }
+
+    .change {
+        font-size: 0.9em;
+        padding-left: 2px;
+        margin: 0;
+    }
+
+    .change-success {
+        color: $green;
+    }
+
+    .change-danger {
+        color: $red;
+        font-weight: 1000;
+    }
+
+    .change-neutral {
+        color: $gray-500;
+    }
+
+    .btn-group {
+        margin-top: 1.2em;
+    }
+
+    // Overrides/specific styles
+
+    .header-item-container-errors {
+        .primary-spacer { min-height: 0.5em; }
+        .secondary-header { color: $body-color; }
+        .dotted-row-spacer { visibility: hidden;}
+        .detail-row:not(:last-child) {
+            margin-bottom: 0.6em;
+            padding-bottom: 0.6em;
+            border-bottom: 1px dotted $rum-divider-color;
+        }
+    }
+}
+
+
+div.rum-checks-list {
+    .baseline-comparison-value {
+        @extend .font-18;
+    }
+}
+
+div.rum-check-detail {
+    font-size: 14px;
+}
+
+button.rum-help-close span {
+    position: absolute;
+    bottom: -10px;
+    left: 10px;
+}
+
+button.rum-help-close:focus {
+    outline: none;
+}
+
+div.rum-help-inner-container {
+    display: flex;
+    font-size: 12px;
+    padding-left: 0.5em;
+
+    .rum-help-label {
+        margin-left: 0.5em;
+        margin-right: 0.3em;
+    }
+}
+
+
+//
+// Apexcharts formatting that can't be done via options
+//
+div.detail-trend-graph,
+div.rum-performance-distribution-graph,
+div.load-breakdown-graph {
+
+    .apexcharts-toolbar {
+        position: absolute;
+        right: 0;
+        left: auto;
+        padding-top: 30px;
+        padding-right: 20px;
+    }
+
+    .apexcharts-legend {
+        padding-right: 80px;
+    }
+
+}
+
+div.detail-trend-graph {
+
+    .apexcharts-datalabels {
+        transform: translate(0, 20px);  // Move dataLabels to xLabel position
+    }
+
+}
+
+div.load-breakdown-graph {
+
+    .apexcharts-datalabels {
+        transform: translate(10px, 0);
+    }
+
+    .apexcharts-legend-series:last-of-type {
+        display: none;
+    }
+
+    .breakdown-tooltip {
+        display: none;
+        position: absolute;
+        top: -150px;
+        padding: 0.75em;
+        filter: drop-shadow(2px 4px 6px $light-7);
+        background-color: white;
+        border: 1px solid $light-7;
+        border-radius: 4px;
+    }
+
+}
+
+div.load-breakdown-graph:hover {
+
+    .breakdown-tooltip {
+        display: block;
+    }
+
+}
+
+div.world-map-legends {
+
+    div.world-map-legend-container {
+
+        .apexcharts-inner {
+            display: none;
+        }
+
+    }
+
+    div.opacity-legend-container {
+        width: 10em;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 2em 12em 0 12em;
+    }
+
+    div.opacity-legend-title {
+        font-weight: bold;
+        font-size: 0.9em;
+        margin-bottom: 0.6em;
+    }
+
+    div.opacity-legend-lower {
+        display: flex;
+        width: 100%;
+    }
+
+    p.opacity-legend-label {
+        font-size: 0.75em;
+    }
+
+    div.opacity-gradient {
+        height: 0.8em;
+        flex: 1;
+        background-image: linear-gradient(to right, white, black);
+        margin: 0 0.3em;
+        border-radius: 0.3em;
+    }
+}
+
+
+div.donut-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+div.donut-outer-container {
+    width: 100%;
+    height: 100%;
+}
+
+
+div.no-data-container {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+}
+
+
+div.no-data-text {
+    padding: 8px 20px;
+    background-color: #eeeeee;
+    color: #6e0002;
+    font-weight: bold;
+    border-radius: 4px;
+    font-family: $default-font-family;
+    font-size: 14px;
+    max-width: 75%;
+}
+
+
+#SegTblSortPopup {
+    z-index: 30000;
+
+    background-color: white;
+    border-radius: 4px;
+    border: 1px solid $light-7;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+
+    font-size: 15px;
+    font-style: normal;
+    font-weight: normal;
+
+    > div {
+        padding: 10px 20px;
+
+        &:first-child {
+            border-bottom: 1px solid $light-7;
+        }
+    }
+
+    .form-group {
+        margin:0;
+        .custom-control {
+            margin: 10px;
+        }
+    }
+
+}
+
+
+//
+// Standalone Icons
+//
+
+i.has-schedule {
+    &::before {
+        @extend .far;
+        @extend .fa-lg;
+        content: fa-content($fa-var-clock);
+        color: $text-muted;
+    }
+}
+
+
+//
+// Specific pages
+//
+
+#rumCheckDetail {
+    .heading-container {
+
+        position: sticky;
+        top: -1px;
+        z-index: 1000;
+        padding-bottom: 10px;
+        margin: 0px 0px 20px 0px;;
+        border-top: 15px solid #f8f9fa;
+        background: #f8f9fa;
+
+        #heading-controls {
+            display: flex;
+        }
+
+        .select2-container--default .select2-selection--single {
+            background: white;
+        }
+
+        @include media-breakpoint-down(xs) {
+            .select2 { min-width: 100% !important; }
+        }
+
+        select[name=url] + .select2 { min-width: 250px; }
+    }
+
+    #url-filter-container {
+        max-width: 20em;
+        display: flex;
+        flex-direction: row;
+    }
+
+    #url-clear-button {
+        padding: 4px;
+        background: none;
+        color: gray;
+    }
+
+    .data-table-url-container {
+        display: flex;
+        align-items: center;
+
+        p {
+            padding: 0 0.5em 0 0;
+            margin: 0;
+        }
+    }
+
+    .data-table-url {
+        border-right: 1px solid lightgray;
+        margin: 0;
+        padding: 0 8px 0 0;
+    }
+
+    .open-url-button {
+        padding: 4px;
+        background: none;
+        color: #111111;
+        font-size: 0.8em;
+        outline: none;
+        border: none;
+        margin-left: 4px;
+    }
+
+    .open-url-button:focus {
+        border: none;
+        outline: none;
+    }
+
+    .data-table th {
+        cursor: pointer;
+    }
+
+    .segment-data-container {
+        min-height: 600px;
+    }
+}
+
+
+#world-map-container {
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    border: 1px solid lightgray;
+    border-radius: 1em;
+}
+
+
+#world-map-container svg {
+    border-radius: 1em;
+}
+
+
+#world-map-controls {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin: 1.25em 0;
+    text-align: center;
+    transform: translateX(-50%);
+}
+
+#world-map-controls > button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    height: 2em;
+    width: 2em;
+    background: #1276cb;
+    color: #ffffff;
+    border-radius: 100%;
+    border: 0;
+ }
+
+#world-map-controls > button:first-child {
+    margin-right: 0.25em;
+}

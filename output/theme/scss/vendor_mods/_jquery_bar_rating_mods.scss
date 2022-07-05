@@ -1,0 +1,67 @@
+.br-theme-fontawesome-stars-o .br-widget {
+  height: 28px;
+  white-space: nowrap;
+}
+.br-theme-fontawesome-stars-o .br-widget a {
+  @extend .fas;
+  @extend .fa-fw;
+  position: relative;
+  font-size: 26px;
+  line-height: 1;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  text-decoration: none;
+  margin-right: 2px;
+}
+.br-theme-fontawesome-stars-o .br-widget a:after {
+  content: '\f005';
+  color: #939a9f;
+}
+.br-theme-fontawesome-stars-o .br-widget a.br-active:after {
+  content: '\f005';
+  color: #00ce7a;
+}
+.br-theme-fontawesome-stars-o .br-widget a.br-selected:after {
+  content: '\f005';
+  color: #00ce7a;
+}
+.br-theme-fontawesome-stars-o .br-widget a.br-fractional:before {
+  content: '\f005';
+  color: #939a9f;
+}
+.br-theme-fontawesome-stars-o .br-widget a.br-fractional:after {
+  position: absolute;
+  top: 0;
+  left: 1.5px;
+  content: '\f089';
+  color: #00ce7a;
+}
+.br-theme-fontawesome-stars-o .br-widget .br-current-rating {
+  display: none;
+}
+.br-theme-fontawesome-stars-o .br-readonly a {
+  cursor: default;
+}
+.br-theme-fontawesome-stars-o .br-reverse a.br-fractional {
+  display: inline-block;
+  transform: scaleX(-1);
+  -moz-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
+}
+@media print {
+  .br-theme-fontawesome-stars-o .br-widget a:after {
+    content: '\f005';
+    color: #bbb;
+  }
+  .br-theme-fontawesome-stars-o .br-widget a.br-active:after,
+  .br-theme-fontawesome-stars-o .br-widget a.br-selected:after {
+    content: '\f005';
+    color: black;
+  }
+  .br-theme-fontawesome-stars-o .br-widget a.br-fractional:after {
+    content: '\f005';
+    color: #bbb;
+  }
+}

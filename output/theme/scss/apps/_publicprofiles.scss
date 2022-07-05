@@ -1,0 +1,38 @@
+
+//
+// Public profiles details
+//
+
+#public-profiles-details-page {
+    .empty-panel {
+        border-top-width: 0;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+
+    #panel-domain-health:not(.empty), #panel-speed-test:not(.empty) {
+        border-top: 1px solid $border-color;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+    }
+
+    #panel-user-comments > .white-block-border,
+    #panel-problem-reports > .white-block-border {
+        border-top-width: 0;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+
+    #panel-problem-reports blockquote {
+        color: $gray-800;
+
+        small { color: $text-muted; }
+    }
+
+    #panel-uptime-test #uptime-test-results > .white-block {
+        @extend .white-block-border;
+        border-top-width: 0;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+}

@@ -14,7 +14,10 @@
     <meta name="twitter:description" content="No more 404. Top-rated website performance monitor for thousands of businesses to check downtime, optimize site speed, and improve domain health. Try free.">
     <meta name="twitter:title" content="Website Performance Monitoring | Check Site Uptime | Uptime.com">
 
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
+    {% assets filters="sass", output="css/style.min.css", "scss/uptime.scss" %}
+      <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
+    {% endassets %}
+    <!-- <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" /> -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Barlow:regular,500|Roboto:regular,700|Rubik:regular,500&amp;display=swap">
@@ -23,18 +26,17 @@
   {% endblock head %}
 </head>
 
-<body class="atmc-body-header-default">
-  <div class="body-wrapper   hs-content-id-69399577170 hs-site-page page ">
-    {% include 'header.html' %}
-    
-    <div id="main-content">
-      <main class="body-container-wrapper">
-        {% block content %}
-        {% endblock %}  
-      </main>
+<body class="body-white marketing">
+  <div class="page-surface">
+    <div class="site-container">
+      {% include 'header.html' %}
+
+      {% block content %}
+      {% endblock %}  
+
+      {% include 'footer.html' %}
     </div>
     
-    {% include 'footer.html' %}
   </div>
 
 {% include 'analytics.html' %}

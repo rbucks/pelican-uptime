@@ -44,7 +44,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['plugins.jinja2content']
+PLUGINS = ['plugins.jinja2content', 'plugins.webassets']
 
 # Jinja2content plugin
 JINJA2CONTENT_TEMPLATES = ['content']
