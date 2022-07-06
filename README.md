@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 Run this command to create a development server that automatically compiles updates to the static source files and serves the output. This uses by default the `output` folder and the `pelicanconf.py` settings file.
 
 ```bash
-$ pelican -lr content
+$ pelican
 
   --- AutoReload Mode: Monitoring `content`, `theme` and `settings` for changes. ---
 Serving site at: http://127.0.0.1:8000 - Tap CTRL-C to stop

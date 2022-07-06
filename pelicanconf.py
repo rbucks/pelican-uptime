@@ -43,10 +43,6 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True
 
-# Plugins
-PLUGIN_PATHS = ['plugins']
-PLUGINS = ['plugins.jinja2content', 'plugins.webassets']
-
 # Jinja2content plugin
 JINJA2CONTENT_TEMPLATES = ['content']
 LOAD_CONTENT_CACHE = False
