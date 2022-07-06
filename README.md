@@ -12,6 +12,10 @@ source ./venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
+## Notice
+
+pelican often caches python sources, outputs, css files and sometimes troubleshooting is confusing. In order to ensure that environment is clear try to remove any `__pycache__`, `.sass-cache`, `output` folders
+
 ## How to run
 
 Run this command to create a development server that automatically compiles updates to the static source files and serves the output. This uses by default the `output` folder and the `pelicanconf.py` settings file.
