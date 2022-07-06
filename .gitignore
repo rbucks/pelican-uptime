@@ -1,3 +1,9 @@
 # created by virtualenv automatically
 .DS_Store
 .npmrc
+__pycache__
+
+# pelican related
+lib
+output
+bin
