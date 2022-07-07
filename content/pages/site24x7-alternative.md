@@ -1,5 +1,4 @@
 Title: Site24x7 Alternative
-css: site24x7-alternative.css
 
 <div class="container-fluid body-container">
   <div class="row-fluid-wrapper">

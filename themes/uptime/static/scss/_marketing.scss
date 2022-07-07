@@ -247,6 +247,17 @@ body {
     background-size: 41%;
 }
 
+.bg-image-home {
+    background-size: cover;
+    background-image: url('../images/Uptime_Monitoring_Trusted_By_Thousands_BG.webp') !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+}
+
+.trust-image-home {
+    max-height: 150px;
+}
+
 
 //
 // Headings
@@ -288,6 +299,20 @@ body {
         font-size: 24px;
         font-family: 'Barlow';
         color: black;
+    }
+
+    p.label {
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        line-height: 1;
+        font-size: 1rem;
+        opacity: 0.8;
+    }
+
+    p.quote {
+        font-size: 2.5rem;
+        font-weight: 300;
+        line-height: 1.1;
     }
 
     hr {

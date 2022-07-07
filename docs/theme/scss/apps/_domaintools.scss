@@ -1,0 +1,61 @@
+
+#domain-health-page-results {
+    .userpanel-panel-block {
+        > .white-block {
+            box-shadow: 0 0 6px 3px rgba(0, 0, 0, 0.1);
+            border-top: 4px solid $primary;
+        }
+
+        .badge {
+            min-width: 19px;
+            color: $white;
+        }
+    }
+
+    .create-checks-bar {
+        color: $white;
+        padding: $spacer-4;
+        border-radius: $border-radius;
+        box-shadow: 0 5px 10px 0 rgba(24,37,45,0.1);
+
+        h4 { color: $white; }
+        a { color: $white; text-decoration: underline; }
+    }
+
+    .results-table {
+        div.icon {
+            width: 28px;
+            height: 28px;
+            line-height: 28px;
+            margin-right: $spacer-4;
+            text-align: center;
+        }
+
+        table.listing-table {
+            color: inherit;
+
+            tr:nth-child(even) td {
+                background-color: transparent;
+            }
+
+            tr:nth-child(4n-1) {
+                background-color: rgba(244,245,247,.5);
+            }
+
+            i.OK {
+                @extend .fa-check;
+                color: $secondary;
+            }
+
+            i.WARNING {
+                @extend .fa-exclamation;
+                color: $warning;
+            }
+
+            i.CRITICAL, i.UNKNOWN {
+                @extend .fa-times;
+                color: $red;
+            }
+        }
+    }
+}
