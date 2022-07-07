@@ -56,7 +56,7 @@ css: real-user-monitoring.css
                     <div id="hs_cos_wrapper_widget_1631072296680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center sr-invisible fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/real-user-monitoring/Real_User_Monitoring_RUM_Page_Load_Trend_2.gif" alt="Real User Monitoring RUM Page Load Trend 2" width="100%" style="max-width: 900px; max-height: 600px">
+                          <img loading="lazy" src="{static}/images/Real_User_Monitoring_RUM_Page_Load_Trend_2.gif" alt="Real User Monitoring RUM Page Load Trend 2" width="100%" style="max-width: 900px; max-height: 600px">
                         </div>
                       </div>
                     </div>
@@ -119,7 +119,7 @@ css: real-user-monitoring.css
                     <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  sr-invisible fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/real-user-monitoring/Real_User_Monitoring_RUM_Dashboard_1150x748_2.webp" alt="Real User Monitoring RUM Dashboard " width="100%" style="max-width: 750px; max-height: 436px">
+                          <img loading="lazy" src="{static}/images/Real_User_Monitoring_RUM_Dashboard_1150x748_2.webp" alt="Real User Monitoring RUM Dashboard " width="100%" style="max-width: 750px; max-height: 436px">
                         </div>
                       </div>
                     </div>
@@ -281,7 +281,7 @@ css: real-user-monitoring.css
                     <div id="hs_cos_wrapper_module_16310982020963" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  sr-invisible fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/real-user-monitoring/Page_Speed_Real_User_Monitoring_RUM_1150x748_2.webp" alt="Page Speed Real User Monitoring RUM" width="100%" style="max-width: 750px; max-height: 423px">
+                          <img loading="lazy" src="{static}/images/Page_Speed_Real_User_Monitoring_RUM_1150x748_2.webp" alt="Page Speed Real User Monitoring RUM" width="100%" style="max-width: 750px; max-height: 423px">
                         </div>
                       </div>
                     </div>
@@ -306,7 +306,7 @@ css: real-user-monitoring.css
                     <div id="hs_cos_wrapper_module_16310982122473" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  sr-invisible fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/real-user-monitoring/Website_Errors_Real_User_Monitoring_RUM_1150x720_2.webp" alt="Website Errors Real User Monitoring RUM" width="100%" style="max-width: 750px; max-height: 463px">
+                          <img loading="lazy" src="{static}/images/Website_Errors_Real_User_Monitoring_RUM_1150x720_2.webp" alt="Website Errors Real User Monitoring RUM" width="100%" style="max-width: 750px; max-height: 463px">
                         </div>
                       </div>
                     </div>
@@ -468,7 +468,7 @@ css: real-user-monitoring.css
                     <div id="hs_cos_wrapper_module_16310802981295" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   uptime-drop-shadow">
                         <div>      
-                          <img loading="lazy" src="{static}/images/products/real-user-monitoring/Website_Bounce_Rate_Real_User_Monitoring_RUM_1150x548.webp" alt="Website Bounce Rate Real User Monitoring RUM" width="100%" style="max-width: 750px; max-height: 357px">
+                          <img loading="lazy" src="{static}/images/Website_Bounce_Rate_Real_User_Monitoring_RUM_1150x548.webp" alt="Website Bounce Rate Real User Monitoring RUM" width="100%" style="max-width: 750px; max-height: 357px">
                         </div>
                       </div>
                     </div>
@@ -493,7 +493,7 @@ css: real-user-monitoring.css
                     <div id="hs_cos_wrapper_module_1644258770177" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  sr-invisible fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/real-user-monitoring/Real_User_Monitoring_Synthetic_Transaction_Checks_RUM_920x1000.gif" alt="Real User Monitoring Synthetic Transaction Checks RUM " width="100%" style="max-width: 460px; max-height: 500px">
+                          <img loading="lazy" src="{static}/images/Real_User_Monitoring_Synthetic_Transaction_Checks_RUM_920x1000.gif" alt="Real User Monitoring Synthetic Transaction Checks RUM " width="100%" style="max-width: 460px; max-height: 500px">
                         </div>
                       </div>
                     </div>
@@ -579,7 +579,7 @@ css: real-user-monitoring.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/products/real-user-monitoring/Uptime_Performance_Monitoring_User_Review_Emanuel_1000px.webp" alt="Uptime Performance Monitoring User Review Emanuel" width="100%" style="max-width: 1000px; max-height: 419px">
+                          <img loading="lazy" src="{static}/images/Uptime_Performance_Monitoring_User_Review_Emanuel_1000px.webp" alt="Uptime Performance Monitoring User Review Emanuel" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
                     </div>

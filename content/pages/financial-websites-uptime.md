@@ -89,7 +89,7 @@ css: financial.css
                     <div id="hs_cos_wrapper_widget_1649271977963" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   fadeInBottom ">
                         <div class="inline-block">
-                          <img src="{static}/images/industries/Finance_Banking_Industries_Trust_Uptime.com_Monitoring_Uptime_1150.webp" alt="Banking and financial services website uptime monitoring for speed, downtime, availability, and user experience performance with Uptime.com" style="max-width: 100%; height: auto;">
+                          <img src="{static}/images/Finance_Banking_Industries_Trust_Uptime.com_Monitoring_Uptime_1150.webp" alt="Banking and financial services website uptime monitoring for speed, downtime, availability, and user experience performance with Uptime.com" style="max-width: 100%; height: auto;">
                         </div>
                       </div>
                     </div>
@@ -175,7 +175,7 @@ css: financial.css
                     <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Customizable_Website_Uptime_Performance_Monitoring_Dashboards_with_Uptime.com_1100x840.webp" alt="Customizable Website Uptime Performance Monitoring Dashboards with Uptime.com" width="100%" style="max-width: 550px; max-height: 420px">
+                          <img loading="lazy" src="{static}/images/Customizable_Website_Uptime_Performance_Monitoring_Dashboards_with_Uptime.com_1100x840.webp" alt="Customizable Website Uptime Performance Monitoring Dashboards with Uptime.com" width="100%" style="max-width: 550px; max-height: 420px">
                         </div>
                       </div>
                     </div>
@@ -337,7 +337,7 @@ css: financial.css
                     <div id="hs_cos_wrapper_module_16310982020963" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Alerting_Maintenance_Schedule_960x1002.gif" alt="Downtime incident alerts set up maintenance alerting schedule " width="100%" style="max-width: 480px; max-height: 501px">
+                          <img loading="lazy" src="{static}/images/Alerting_Maintenance_Schedule_960x1002.gif" alt="Downtime incident alerts set up maintenance alerting schedule " width="100%" style="max-width: 480px; max-height: 501px">
                         </div>
                       </div>
                     </div>
@@ -362,7 +362,7 @@ css: financial.css
                     <div id="hs_cos_wrapper_module_16310982122473" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Enterprise_SubAccount_Main_Account_1148x530.gif" alt="Manage Monitoring Platform usage with Uptime.com subaccounts and user permissions" width="100%" style="max-width: 570px; max-height: 263px">
+                          <img loading="lazy" src="{static}/images/Enterprise_SubAccount_Main_Account_1148x530.gif" alt="Manage Monitoring Platform usage with Uptime.com subaccounts and user permissions" width="100%" style="max-width: 570px; max-height: 263px">
                         </div>
                       </div>
                     </div>
@@ -524,7 +524,7 @@ css: financial.css
                     <div id="hs_cos_wrapper_module_16310802981295" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   uptime-drop-shadow">
                         <div>      
-                          <img loading="lazy" src="{static}/images/industries/Add_Web_Monitoring_Checks_900x1020.webp" alt="Add Basic or Advanced website monitoring check " width="100%" style="max-width: 450px; max-height: 510px">
+                          <img loading="lazy" src="{static}/images/Add_Web_Monitoring_Checks_900x1020.webp" alt="Add Basic or Advanced website monitoring check " width="100%" style="max-width: 450px; max-height: 510px">
                         </div>
                       </div>
                     </div>
@@ -549,7 +549,7 @@ css: financial.css
                     <div id="hs_cos_wrapper_module_16310982219593" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Website_Status_Pages_for_Outage_Incident_and_Scheduled_Maintenance_Communication_Uptime.com%20_1160x834.webp" alt="Website Status Pages for Outage Incident and Scheduled Maintenance Communication Uptime.com" width="100%" style="max-width: 580px; max-height: 417px">
+                          <img loading="lazy" src="{static}/images/Website_Status_Pages_for_Outage_Incident_and_Scheduled_Maintenance_Communication_Uptime.com%20_1160x834.webp" alt="Website Status Pages for Outage Incident and Scheduled Maintenance Communication Uptime.com" width="100%" style="max-width: 580px; max-height: 417px">
                         </div>
                       </div>
                     </div>
@@ -711,7 +711,7 @@ css: financial.css
                     <div id="hs_cos_wrapper_module_16322542454343" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="Best Technical Support Team for Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 550px; max-height: 398px">
+                          <img loading="lazy" src="{static}/images/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="Best Technical Support Team for Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 550px; max-height: 398px">
                         </div>
                       </div>
                     </div>
@@ -736,7 +736,7 @@ css: financial.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/industries/Comprehensive_Reliable_Full_Site_Monitoring_Uptime.com_Review_Mike.webp" alt="Comprehensive Reliable Full Site Monitoring Uptime.com Review Mike" style="max-width: 100%; height: auto;">
+                          <img loading="lazy" src="{static}/images/Comprehensive_Reliable_Full_Site_Monitoring_Uptime.com_Review_Mike.webp" alt="Comprehensive Reliable Full Site Monitoring Uptime.com Review Mike" style="max-width: 100%; height: auto;">
                         </div>
                       </div>
                     </div>

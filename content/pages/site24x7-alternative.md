@@ -58,7 +58,7 @@ Title: Site24x7 Alternative
                           <div id="hs_cos_wrapper_widget_1631072296680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                             <div id="" class="atmc-image-default  fadeInBottom ">
                               <div>
-                                <img loading="lazy" src="{static}/images/compare/Site24x7_Alternative_1150x920.gif" alt="Best Website Uptime Performance Monitoring Alternatives to Site24x7 with Uptime.com " width="100%" style="max-width: 1150px; max-height: 920px">
+                                <img loading="lazy" src="{static}/images/Site24x7_Alternative_1150x920.gif" alt="Best Website Uptime Performance Monitoring Alternatives to Site24x7 with Uptime.com " width="100%" style="max-width: 1150px; max-height: 920px">
                               </div>
                             </div>
                           </div>
@@ -284,7 +284,7 @@ Title: Site24x7 Alternative
                     <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Best_Website_Uptime_Monitoring_Services_with_Uptime.com_890x750.webp" alt="Best Rated Website Uptime Performance Monitoring Services with Uptime.com" width="100%" style="max-width: 445px; max-height: 375px">
+                          <img loading="lazy" src="{static}/images/Best_Website_Uptime_Monitoring_Services_with_Uptime.com_890x750.webp" alt="Best Rated Website Uptime Performance Monitoring Services with Uptime.com" width="100%" style="max-width: 445px; max-height: 375px">
                         </div>
                       </div>
                     </div>
@@ -447,7 +447,7 @@ Title: Site24x7 Alternative
                     <div id="hs_cos_wrapper_module_163176223651111" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/home/Add_HTTP(S)_Check_400x508.gif" alt="Website Uptime Monitoring Checks for HTTPs and SSL with Uptime.com" width="100%" style="max-width: 400px; max-height: 508px">
+                          <img loading="lazy" src="{static}/images/Add_HTTP(S)_Check_400x508.gif" alt="Website Uptime Monitoring Checks for HTTPs and SSL with Uptime.com" width="100%" style="max-width: 400px; max-height: 508px">
                         </div>
                       </div>
                     </div>
@@ -472,7 +472,7 @@ Title: Site24x7 Alternative
                     <div id="hs_cos_wrapper_module_16318511166985" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Reduce_False_Website_Downtime_Outage_False_Positives_with%20_Uptime.com_1160x680.webp" alt="Reduce Website Downtime Alert Notifications False Positives with Uptime.com" width="100%" style="max-width: 580px; max-height: 340px">
+                          <img loading="lazy" src="{static}/images/Reduce_False_Website_Downtime_Outage_False_Positives_with%20_Uptime.com_1160x680.webp" alt="Reduce Website Downtime Alert Notifications False Positives with Uptime.com" width="100%" style="max-width: 580px; max-height: 340px">
                         </div>
                       </div>
                     </div>
@@ -634,7 +634,7 @@ Title: Site24x7 Alternative
                     <div id="hs_cos_wrapper_module_16317622258765" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Best_Customer_Support_Website_Uptime_Performance_Monitoring_Uptime.com1160x684.webp" alt="Best Customer Support for Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 580px; max-height: 342px">
+                          <img loading="lazy" src="{static}/images/Best_Customer_Support_Website_Uptime_Performance_Monitoring_Uptime.com1160x684.webp" alt="Best Customer Support for Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 580px; max-height: 342px">
                         </div>
                       </div>
                     </div>
@@ -659,7 +659,7 @@ Title: Site24x7 Alternative
                     <div id="hs_cos_wrapper_module_16317621385184" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Enterprise_Multiple_Subaccounts.gif" alt="Segmented Website Uptime Performance Monitoring Subaccounts with Uptime.com" width="100%" style="max-width: 1300px; max-height: 600px">
+                          <img loading="lazy" src="{static}/images/Enterprise_Multiple_Subaccounts.gif" alt="Segmented Website Uptime Performance Monitoring Subaccounts with Uptime.com" width="100%" style="max-width: 1300px; max-height: 600px">
                         </div>
                       </div>
                     </div>
@@ -821,7 +821,7 @@ Title: Site24x7 Alternative
                     <div id="hs_cos_wrapper_module_16318529568695" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="Website Uptime Performance Monitoring Customer Support Reviews with Uptime.com" width="100%" style="max-width: 550px; max-height: 398px">
+                          <img loading="lazy" src="{static}/images/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="Website Uptime Performance Monitoring Customer Support Reviews with Uptime.com" width="100%" style="max-width: 550px; max-height: 398px">
                         </div>
                       </div>
                     </div>
@@ -871,7 +871,7 @@ Title: Site24x7 Alternative
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/compare/Uptime.com_User_Review_for_Website_Uptime_Performance_Monitoring.webp" alt="Uptime.com User Review for Website Uptime Performance Monitoring" width="100%" style="max-width: 1000px; max-height: 419px">
+                          <img loading="lazy" src="{static}/images/Uptime.com_User_Review_for_Website_Uptime_Performance_Monitoring.webp" alt="Uptime.com User Review for Website Uptime Performance Monitoring" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
                     </div>
@@ -922,7 +922,7 @@ Title: Site24x7 Alternative
                     <div id="hs_cos_wrapper_module_1634768063354" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/compare/Site24x7_User_Review_for_Website_Uptime_Performance_Monitoring.webp" alt="Site24x7_User_Review_for_Website_Uptime_Performance_Monitoring" width="100%" style="max-width: 1000px; max-height: 419px">
+                          <img loading="lazy" src="{static}/images/Site24x7_User_Review_for_Website_Uptime_Performance_Monitoring.webp" alt="Site24x7_User_Review_for_Website_Uptime_Performance_Monitoring" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
                     </div>

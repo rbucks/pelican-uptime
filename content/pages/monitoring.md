@@ -10,7 +10,7 @@ Title: Monitoring
       </div>
     </div>
     <div class="col-sm">
-      <img loading="lazy" src="{static}/images/products/monitoring/Web_Monitoring_Software_1150x920.gif" alt="Website Uptime Performance Monitoring Checker with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
+      <img loading="lazy" src="{static}/images/Web_Monitoring_Software_1150x920.gif" alt="Website Uptime Performance Monitoring Checker with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
     </div>
   </div>
 </div>
@@ -22,7 +22,7 @@ Title: Monitoring
 <div class="container bg-white p-5 mt-5">
   <div class="row">
     <div class="col-sm my-auto">
-      <img loading="lazy" src="{static}/images/products/monitoring/Add_Web_Monitoring_Checks_900x1020.webp" alt="Add Website Performance Monitoring Checks with Uptime.com" width="100%" style="max-width: 450px; max-height: 510px" class="shadow">
+      <img loading="lazy" src="{static}/images/Add_Web_Monitoring_Checks_900x1020.webp" alt="Add Website Performance Monitoring Checks with Uptime.com" width="100%" style="max-width: 450px; max-height: 510px" class="shadow">
     </div>
     <div class="col-sm my-auto">
       <p class="label mb-0">WEBSITE UPTIME MONITORING</p>
@@ -41,14 +41,14 @@ Title: Monitoring
       <hr class="mt-5 ml-0">
     </div>
     <div class="col-sm my-auto">
-       <img loading="lazy" src="{static}/images/products/monitoring/Synthetic_Transaction_Monitoring_920x1000.gif" alt="Synthetic Transaction Monitoring Checks with Uptime.com" width="100%" style="max-width: 460px; max-height: 500px">
+       <img loading="lazy" src="{static}/images/Synthetic_Transaction_Monitoring_920x1000.gif" alt="Synthetic Transaction Monitoring Checks with Uptime.com" width="100%" style="max-width: 460px; max-height: 500px">
     </div>
   </div>
 </div>
 <div class="container bg-white p-5 mt-5">
   <div class="row">
     <div class="col-sm my-auto">
-      <img loading="lazy" src="{static}/images/products/monitoring/Global_Monitoring_Probe_Severs_900x760_1.webp" alt="Website Performance Monitoring Global Probe Severs with Uptime.com" width="100%" style="max-width: 450px; max-height: 380px" class="shadow">
+      <img loading="lazy" src="{static}/images/Global_Monitoring_Probe_Severs_900x760_1.webp" alt="Website Performance Monitoring Global Probe Severs with Uptime.com" width="100%" style="max-width: 450px; max-height: 380px" class="shadow">
     </div>
     <div class="col-sm my-auto">
       <p class="label mb-0">EXTERNAL &amp; PRIVATE PROBE SERVERS</p>
@@ -67,14 +67,14 @@ Title: Monitoring
       <hr class="mt-5 ml-0">
     </div>
     <div class="col-sm my-auto">
-      <img loading="lazy" src="{static}/images/products/monitoring/Web_Dashboard_Notifications_1160x870_1.webp" alt="Website Performance Monitoring Dashboard with Uptime.com" width="100%" style="max-width: 580px; max-height: 435px" class="shadow">
+      <img loading="lazy" src="{static}/images/Web_Dashboard_Notifications_1160x870_1.webp" alt="Website Performance Monitoring Dashboard with Uptime.com" width="100%" style="max-width: 580px; max-height: 435px" class="shadow">
     </div>
   </div>
 </div>
 <div class="container bg-white p-5 mt-5">
   <div class="row">
     <div class="col-sm my-auto">
-      <img loading="lazy" src="{static}/images/products/monitoring/Add_Web_Monitoring_Checks_900x1020.webp" alt="Add Website Performance Monitoring Checks with Uptime.com" width="100%" style="max-width: 450px;max-height: 510px" class="shadow">
+      <img loading="lazy" src="{static}/images/Add_Web_Monitoring_Checks_900x1020.webp" alt="Add Website Performance Monitoring Checks with Uptime.com" width="100%" style="max-width: 450px;max-height: 510px" class="shadow">
     </div>
     <div class="col-sm my-auto">
       <p class="label mb-0">WEBSITE PERFORMANCE REPORTING</p>
@@ -93,14 +93,14 @@ Title: Monitoring
       <hr class="mt-5 ml-0">
     </div>
     <div class="col-sm my-auto">
-      <img loading="lazy" src="{static}/images/products/monitoring/Uptime_Monitoring_Customer_Support_1160x684.webp" alt="Uptime Performance Monitoring Customer Support" width="100%" style="max-width: 580px; max-height: 342px" class="shadow">
+      <img loading="lazy" src="{static}/images/Uptime_Monitoring_Customer_Support_1160x684.webp" alt="Uptime Performance Monitoring Customer Support" width="100%" style="max-width: 580px; max-height: 342px" class="shadow">
     </div>
   </div>
 </div>
 <div class="container-fluid bg-warning p-5 mt-5">
   <div class="row">
     <div class="col-sm">
-      <img loading="lazy" src="{static}/images/products/monitoring/Uptime.com_User_Review_for_Website_Uptime_Performance%20Monitoring_Mike.webp" alt="Uptime.com_User_Review_for_Website_Uptime_Performance Monitoring_Mike" width="100%" style="max-width: 1000px; max-height: 420px">
+      <img loading="lazy" src="{static}/images/Uptime.com_User_Review_for_Website_Uptime_Performance%20Monitoring_Mike.webp" alt="Uptime.com_User_Review_for_Website_Uptime_Performance Monitoring_Mike" width="100%" style="max-width: 1000px; max-height: 420px">
     </div>
     <div class="col-sm my-auto">
       <p class="quote text-white font-weight-medium">"Clean and simple yet robust set of monitoring tools - from a very happy user!"</p>

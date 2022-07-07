@@ -10,7 +10,7 @@ Title: Group Checks
       </div>
     </div>
     <div class="col-sm">
-      <img loading="lazy" src="{static}/images/products/group-checks/Group_Checks_Monitor_Overall_Performance_x1000px.gif" alt="Website Uptime Performance Monitoring Checker with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
+      <img loading="lazy" src="{static}/images/Group_Checks_Monitor_Overall_Performance_x1000px.gif" alt="Website Uptime Performance Monitoring Checker with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
     </div>
   </div>
 </div>
@@ -22,7 +22,7 @@ Title: Group Checks
 <div class="container bg-white p-5 mt-5">
   <div class="row">
     <div class="col-sm my-auto">
-      <img loading="lazy" src="{static}/images/products/group-checks/Group_Monitoring_Checks_Uptime_Performance_Tracking_Uptime.com.png" alt="Group Monitoring Checks for Uptime Performance Tracking with Uptime.com" width="100%" style="max-width: 400px; max-height: 397px" class="shadow">
+      <img loading="lazy" src="{static}/images/Group_Monitoring_Checks_Uptime_Performance_Tracking_Uptime.com.png" alt="Group Monitoring Checks for Uptime Performance Tracking with Uptime.com" width="100%" style="max-width: 400px; max-height: 397px" class="shadow">
     </div>
     <div class="col-sm my-auto">
       <p class="label mb-0">GROUP MONITORING CHECKS</p>
@@ -41,14 +41,14 @@ Title: Group Checks
       <hr class="mt-5 ml-0 bg-success">
     </div>
     <div class="col-sm my-auto">
-      <img loading="lazy" src="{static}/images/products/group-checks/Uptime_Report_for_Group_Checks_on_Website_System_Monitoring_Uptime.com.png" alt="Uptime_Report_for_Group_Checks_on_Website_System_Monitoring_Uptime.com" width="100%" style="max-width: 1150px; max-height: 704px" class="shadow">
+      <img loading="lazy" src="{static}/images/Uptime_Report_for_Group_Checks_on_Website_System_Monitoring_Uptime.com.png" alt="Uptime_Report_for_Group_Checks_on_Website_System_Monitoring_Uptime.com" width="100%" style="max-width: 1150px; max-height: 704px" class="shadow">
     </div>
   </div>
 </div>
 <div class="container bg-white p-5 mt-5">
   <div class="row">
     <div class="col-sm my-auto">
-      <img loading="lazy" src="{static}/images/products/group-checks/GC_gif_1-1.gif" alt="Add Group Check Monitoring for Uptime Performance" width="100%" style="max-width: 450px; max-height: 557px" class="shadow">
+      <img loading="lazy" src="{static}/images/GC_gif_1-1.gif" alt="Add Group Check Monitoring for Uptime Performance" width="100%" style="max-width: 450px; max-height: 557px" class="shadow">
     </div>
     <div class="col-sm my-auto">
       <p class="label mb-0">SYSTEM DOWNTIME NOTIFICATIONS</p>
@@ -67,14 +67,14 @@ Title: Group Checks
       <hr class="mt-5 ml-0 bg-success">
     </div>
     <div class="col-sm my-auto">
-      <img loading="lazy" src="{static}/images/products/group-checks/Uptime_and_SLA_Reporting_Service_for_Group_Monitoring_Checks_Uptime.com.png" alt="Uptime and SLA Reporting Service for Group Monitoring Checks with Uptime.com" width="100%" style="max-width: 575px; max-height: 317px" class="shadow">
+      <img loading="lazy" src="{static}/images/Uptime_and_SLA_Reporting_Service_for_Group_Monitoring_Checks_Uptime.com.png" alt="Uptime and SLA Reporting Service for Group Monitoring Checks with Uptime.com" width="100%" style="max-width: 575px; max-height: 317px" class="shadow">
     </div>
   </div>
 </div>
 <div class="container bg-white p-5 mt-5">
   <div class="row">
     <div class="col-sm my-auto">
-      <img loading="lazy" src="{static}/images/products/group-checks/Website_Downtime_and_Incident_Data_for_Uptime_Monitoring_Uptime.com.png" alt="Website Downtime and Incident Data for Uptime Monitoring with Uptime.com" width="100%" style="max-width: 575px; max-height: 344px" class="shadow">
+      <img loading="lazy" src="{static}/images/Website_Downtime_and_Incident_Data_for_Uptime_Monitoring_Uptime.com.png" alt="Website Downtime and Incident Data for Uptime Monitoring with Uptime.com" width="100%" style="max-width: 575px; max-height: 344px" class="shadow">
     </div>
     <div class="col-sm my-auto">
       <p class="label mb-0">SYSTEM INCIDENT RESOLUTION</p>
@@ -87,7 +87,7 @@ Title: Group Checks
 <div class="container-fluid bg-warning p-5 mt-5">
   <div class="row">
     <div class="col-sm">
-      <img loading="lazy" src="{static}/images/products/group-checks/Feature_Rich_Monitoring_Tool_Uptime.com_User_Review_Pieter.webp" alt="Feature Rich Monitoring Tool Uptime.com User Review Pieter" style="max-width: 100%; height: auto;">
+      <img loading="lazy" src="{static}/images/Feature_Rich_Monitoring_Tool_Uptime.com_User_Review_Pieter.webp" alt="Feature Rich Monitoring Tool Uptime.com User Review Pieter" style="max-width: 100%; height: auto;">
     </div>
     <div class="col-sm my-auto">
       <p class="quote text-white font-weight-medium">"The one monitoring tool we have been waiting for."</p>

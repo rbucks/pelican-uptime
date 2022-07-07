@@ -56,7 +56,7 @@ css: status-pages.css
                     <div id="hs_cos_wrapper_widget_1631072296680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center sr-invisible fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/status-pages/Web_Status_page_Tools_resize.gif" alt="Website Uptime Monitoring Status Pages for Outage Communication with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
+                          <img loading="lazy" src="{static}/images/Web_Status_page_Tools_resize.gif" alt="Website Uptime Monitoring Status Pages for Outage Communication with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
                         </div>
                       </div>
                     </div>
@@ -119,7 +119,7 @@ css: status-pages.css
                     <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  sr-invisible fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/status-pages/Website_Uptime_Monitoring%20Status_Page_Builder_with_Uptime.com_1000x768.webp" alt="Website Uptime Monitoring Status Page Builder with Uptime.com" width="100%" style="max-width: 500px; max-height: 384px">
+                          <img loading="lazy" src="{static}/images/Website_Uptime_Monitoring%20Status_Page_Builder_with_Uptime.com_1000x768.webp" alt="Website Uptime Monitoring Status Page Builder with Uptime.com" width="100%" style="max-width: 500px; max-height: 384px">
                         </div>
                       </div>
                     </div>
@@ -281,7 +281,7 @@ css: status-pages.css
                     <div id="hs_cos_wrapper_module_16310982020963" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  sr-invisible fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/status-pages/Custom_Website_Status_Page_Builder_Downtime_Communication_1160x834.webp" alt="Custom Website Status Page Builder for Downtime Communication with Uptime.com" width="100%" style="max-width: 575px; max-height: 413px">
+                          <img loading="lazy" src="{static}/images/Custom_Website_Status_Page_Builder_Downtime_Communication_1160x834.webp" alt="Custom Website Status Page Builder for Downtime Communication with Uptime.com" width="100%" style="max-width: 575px; max-height: 413px">
                         </div>
                       </div>
                     </div>
@@ -306,7 +306,7 @@ css: status-pages.css
                     <div id="hs_cos_wrapper_module_16310982122473" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  sr-invisible fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/status-pages/Subscribe_Web_Status_Page_1150x960.gif" alt="Website Status Pages for Subscriber Incident Communication with Uptime.com" width="100%" style="max-width: 1150px; max-height: 690px">
+                          <img loading="lazy" src="{static}/images/Subscribe_Web_Status_Page_1150x960.gif" alt="Website Status Pages for Subscriber Incident Communication with Uptime.com" width="100%" style="max-width: 1150px; max-height: 690px">
                         </div>
                       </div>
                     </div>
@@ -468,7 +468,7 @@ css: status-pages.css
                     <div id="hs_cos_wrapper_module_16310802981295" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   uptime-drop-shadow">
                         <div>      
-                          <img loading="lazy" src="{static}/images/products/status-pages/Private_Password_Protected_Website_Status_Pages_for_Outage_Communication_1150x680.webp" alt="Private Password Protected Website Status Pages for Outage Communication with Uptime.com " width="100%" style="max-width: 575px; max-height: 340px">
+                          <img loading="lazy" src="{static}/images/Private_Password_Protected_Website_Status_Pages_for_Outage_Communication_1150x680.webp" alt="Private Password Protected Website Status Pages for Outage Communication with Uptime.com " width="100%" style="max-width: 575px; max-height: 340px">
                         </div>
                       </div>
                     </div>
@@ -493,7 +493,7 @@ css: status-pages.css
                     <div id="hs_cos_wrapper_module_16310982219593" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  sr-invisible fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/status-pages/Sharable_Website_Status_Pages_Downtime_and_Outage_Communication_1150x742.webp" alt="Sharable Website Status Pages for Downtime and Outage Communication with Uptime.com" width="100%" style="max-width: 575px; max-height: 371px">
+                          <img loading="lazy" src="{static}/images/Sharable_Website_Status_Pages_Downtime_and_Outage_Communication_1150x742.webp" alt="Sharable Website Status Pages for Downtime and Outage Communication with Uptime.com" width="100%" style="max-width: 575px; max-height: 371px">
                         </div>
                       </div>
                     </div>
@@ -655,7 +655,7 @@ css: status-pages.css
                     <div id="hs_cos_wrapper_module_16316692513215" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   uptime-drop-shadow">
                         <div>      
-                          <img loading="lazy" src="{static}/images/products/status-pages/Website_Performance_Monitoring_SLA_Status_Pages_150x816.webp" alt="Website Performance Monitoring SLA Status Pages with Uptime.com" width="100%" style="max-width: 575px; max-height: 408px">
+                          <img loading="lazy" src="{static}/images/Website_Performance_Monitoring_SLA_Status_Pages_150x816.webp" alt="Website Performance Monitoring SLA Status Pages with Uptime.com" width="100%" style="max-width: 575px; max-height: 408px">
                         </div>
                       </div>
                     </div>
@@ -680,7 +680,7 @@ css: status-pages.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/products/status-pages/Professional_Looking_Status_Page_Review_Rob_1000px.webp" alt="Professional Looking Status Page Review Rob" width="100%" style="max-width: 1000px; max-height: 419px">
+                          <img loading="lazy" src="{static}/images/Professional_Looking_Status_Page_Review_Rob_1000px.webp" alt="Professional Looking Status Page Review Rob" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
                     </div>

@@ -89,7 +89,7 @@ css: education.css
                     <div id="hs_cos_wrapper_widget_1649344874070" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   fadeInBottom ">
                         <div class="inline-block">
-                          <img src="{static}/images/industries/Higher_Education_Industries_Trust_Uptime.com_Monitoring_Uptime.webp" alt="School and university website uptime monitoring for speed, downtime, and availability performance with Uptime.com" width="100%" style="max-width: 575px; max-height: 442px">
+                          <img src="{static}/images/Higher_Education_Industries_Trust_Uptime.com_Monitoring_Uptime.webp" alt="School and university website uptime monitoring for speed, downtime, and availability performance with Uptime.com" width="100%" style="max-width: 575px; max-height: 442px">
                         </div>
                       </div>
                     </div>
@@ -218,7 +218,7 @@ css: education.css
                     <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Add_Website_Monitoring_Checks_HTTP(S)_SSL_Uptime_Testing_University%20Sites_Uptime.com.webp" alt="Add Website Monitoring Checks for HTTP(S), SSL and Uptime Testing on University Sites with Uptime.com" width="100%" style="max-width: 450px; max-height: 510px">
+                          <img loading="lazy" src="{static}/images/Add_Website_Monitoring_Checks_HTTP(S)_SSL_Uptime_Testing_University%20Sites_Uptime.com.webp" alt="Add Website Monitoring Checks for HTTP(S), SSL and Uptime Testing on University Sites with Uptime.com" width="100%" style="max-width: 450px; max-height: 510px">
                         </div>
                       </div>
                     </div>
@@ -380,7 +380,7 @@ css: education.css
                     <div id="hs_cos_wrapper_module_16310982020963" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Uptime_University_API_Check_1100x1194.gif" alt="Monitor 3rd Party APIs and University Website Services for Uptime Performance with Uptime.com" width="100%" style="max-width: 550px; max-height: 597px">
+                          <img loading="lazy" src="{static}/images/Uptime_University_API_Check_1100x1194.gif" alt="Monitor 3rd Party APIs and University Website Services for Uptime Performance with Uptime.com" width="100%" style="max-width: 550px; max-height: 597px">
                         </div>
                       </div>
                     </div>
@@ -405,7 +405,7 @@ css: education.css
                     <div id="hs_cos_wrapper_module_16310982122473" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Deliver_Website_Outage_Alerts_via_SMS_Call_Email_University_IT_Admins_SREs.webp" alt="Deliver Website Outage Alerts via SMS, Call, Email to University IT Admins and SREs" width="100%" style="max-width: 475px; max-height: 400px">
+                          <img loading="lazy" src="{static}/images/Deliver_Website_Outage_Alerts_via_SMS_Call_Email_University_IT_Admins_SREs.webp" alt="Deliver Website Outage Alerts via SMS, Call, Email to University IT Admins and SREs" width="100%" style="max-width: 475px; max-height: 400px">
                         </div>
                       </div>
                     </div>
@@ -567,7 +567,7 @@ css: education.css
                     <div id="hs_cos_wrapper_module_16310802981295" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   uptime-drop-shadow">
                         <div>      
-                          <img loading="lazy" src="{static}/images/industries/Use_Real_User_Monitoring_RUM_to_monitor_speed_errors_and_availability_University_resources_around_world.webp" alt="Use Real User Monitoring (RUM) to monitor speed, errors, and availability of University resources from around the world" width="100%" style="max-width: 575px; max-height: 408px">
+                          <img loading="lazy" src="{static}/images/Use_Real_User_Monitoring_RUM_to_monitor_speed_errors_and_availability_University_resources_around_world.webp" alt="Use Real User Monitoring (RUM) to monitor speed, errors, and availability of University resources from around the world" width="100%" style="max-width: 575px; max-height: 408px">
                         </div>
                       </div>
                     </div>
@@ -592,7 +592,7 @@ css: education.css
                     <div id="hs_cos_wrapper_module_16310982219593" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Create_branded_website_status_pages_downtime_incident_scheduled_website_maintenance_windows.webp" alt="Create branded website status pages for downtime, incident, and scheduled website maintenance windows" width="100%" style="max-width: 575px; max-height: 386px">
+                          <img loading="lazy" src="{static}/images/Create_branded_website_status_pages_downtime_incident_scheduled_website_maintenance_windows.webp" alt="Create branded website status pages for downtime, incident, and scheduled website maintenance windows" width="100%" style="max-width: 575px; max-height: 386px">
                         </div>
                       </div>
                     </div>
@@ -754,7 +754,7 @@ css: education.css
                     <div id="hs_cos_wrapper_module_16322542454343" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="University students and IT admins trust Uptime.com technical support to resolve outages and issues" width="100%" style="max-width: 550px; max-height: 398px">
+                          <img loading="lazy" src="{static}/images/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="University students and IT admins trust Uptime.com technical support to resolve outages and issues" width="100%" style="max-width: 550px; max-height: 398px">
                         </div>
                       </div>
                     </div>
@@ -779,7 +779,7 @@ css: education.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/industries/Uptime.com_User_Review_for_Website_Uptime_Performance_Monitoring.webp" alt="G2 Uptime.com review on uptime monitoring software and support" style="max-width: 100%; height: auto;">
+                          <img loading="lazy" src="{static}/images/Uptime.com_User_Review_for_Website_Uptime_Performance_Monitoring.webp" alt="G2 Uptime.com review on uptime monitoring software and support" style="max-width: 100%; height: auto;">
                         </div>
                       </div>
                     </div>

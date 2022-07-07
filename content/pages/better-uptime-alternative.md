@@ -74,7 +74,7 @@ css: better-uptime.css
                           <div id="hs_cos_wrapper_widget_1631072296680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                             <div id="" class="atmc-image-default  fadeInBottom " data-sr-id="8" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                               <div>
-                                <img loading="lazy" src="{static}/images/compare/BetterUptime_Alternative_1150x920.gif" alt="Top Better Uptime Alternatives for Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
+                                <img loading="lazy" src="{static}/images/BetterUptime_Alternative_1150x920.gif" alt="Top Better Uptime Alternatives for Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
                               </div>
                             </div>
                           </div>
@@ -305,7 +305,7 @@ css: better-uptime.css
                     <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow" data-sr-id="15">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Best_Website_Uptime_Monitoring_Services_with_Uptime.com_890x750.webp" alt="Top Rated Website Uptime Performance Monitoring Platforms with Uptime.com" width="100%" style="max-width: 445px; max-height: 375px">
+                          <img loading="lazy" src="{static}/images/Best_Website_Uptime_Monitoring_Services_with_Uptime.com_890x750.webp" alt="Top Rated Website Uptime Performance Monitoring Platforms with Uptime.com" width="100%" style="max-width: 445px; max-height: 375px">
                         </div>
                       </div>
                     </div>
@@ -468,7 +468,7 @@ css: better-uptime.css
                     <div id="hs_cos_wrapper_module_16310982020963" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom " data-sr-id="24">
                         <div>
-                          <img loading="lazy" src="{static}/images/home/Add_HTTP(S)_Check_400x508.gif" alt="Website Performance Monitoring Checks to Test Uptime with Uptime.com" width="100%" style="max-width: 400px; max-height: 508px">
+                          <img loading="lazy" src="{static}/images/Add_HTTP(S)_Check_400x508.gif" alt="Website Performance Monitoring Checks to Test Uptime with Uptime.com" width="100%" style="max-width: 400px; max-height: 508px">
                         </div>
                       </div>
                     </div>
@@ -496,7 +496,7 @@ css: better-uptime.css
                           <div id="hs_cos_wrapper_module_16317621385184" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                             <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow" data-sr-id="25">
                               <div>
-                                <img loading="lazy" src="{static}/images/compare/Reduce_False_Website_Downtime_Outage_False_Positives_with%20_Uptime.com_1160x680.webp" alt="Global Website Performance Probe Servers to Check Global Website Performance with Uptime.com _Uptime.com_1160x680" width="100%" style="max-width: 580px; max-height: 340px">
+                                <img loading="lazy" src="{static}/images/Reduce_False_Website_Downtime_Outage_False_Positives_with%20_Uptime.com_1160x680.webp" alt="Global Website Performance Probe Servers to Check Global Website Performance with Uptime.com _Uptime.com_1160x680" width="100%" style="max-width: 580px; max-height: 340px">
                               </div>
                             </div>
                           </div>
@@ -689,7 +689,7 @@ css: better-uptime.css
                     <div id="hs_cos_wrapper_module_16317622258765" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow" data-sr-id="35">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="Best Technical Customer Service for IT Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 550px; max-height: 398px">
+                          <img loading="lazy" src="{static}/images/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="Best Technical Customer Service for IT Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 550px; max-height: 398px">
                         </div>
                       </div>
                     </div>
@@ -800,7 +800,7 @@ css: better-uptime.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/compare/Uptime.com_User_Review_Website_Uptime_Performance_Monitoring_Saransh_.webp" alt="Uptime.com User Review for Website Uptime Performance Monitoring" width="100%" style="max-width: 1000px; max-height: 419px">
+                          <img loading="lazy" src="{static}/images/Uptime.com_User_Review_Website_Uptime_Performance_Monitoring_Saransh_.webp" alt="Uptime.com User Review for Website Uptime Performance Monitoring" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
                     </div>
@@ -851,7 +851,7 @@ css: better-uptime.css
                     <div id="hs_cos_wrapper_module_16318494065095" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/compare/Better_Uptime_User_Review_Website_Uptime_Performance_Monitoring_Mark.webp" alt="Better Uptime User Review for Website Uptime Performance Monitoring" width="100%" style="max-width: 1000px; max-height: 419px">
+                          <img loading="lazy" src="{static}/images/Better_Uptime_User_Review_Website_Uptime_Performance_Monitoring_Mark.webp" alt="Better Uptime User Review for Website Uptime Performance Monitoring" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
                     </div>

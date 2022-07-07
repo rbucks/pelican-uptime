@@ -14,7 +14,7 @@ css: team.css
                     <div id="hs_cos_wrapper_widget_1631072296680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/home/Uptime.com_Leadership_Team_Website_Uptime_Performance_Monitoring_Strategy_Solutions.webp" alt="Uptime.com Leadership Team For Website Uptime Performance Monitoring Strategy and Solutions " width="100%" style="max-width: 800px; max-height: 285px">
+                          <img loading="lazy" src="{static}/images/Uptime.com_Leadership_Team_Website_Uptime_Performance_Monitoring_Strategy_Solutions.webp" alt="Uptime.com Leadership Team For Website Uptime Performance Monitoring Strategy and Solutions " width="100%" style="max-width: 800px; max-height: 285px">
                         </div>
                       </div>
                     </div>
@@ -78,7 +78,7 @@ css: team.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget widget_1634843146918-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_widget_1634843146918" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_widget_1634843146918_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/home/Mike_Welsh_CEO_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Mike Welsh, CEO of Uptime.com Website Performance Monitoring Solution" title="Mike Welsh, CEO of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_widget_1634843146918_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Mike_Welsh_CEO_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Mike Welsh, CEO of Uptime.com Website Performance Monitoring Solution" title="Mike Welsh, CEO of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -140,7 +140,7 @@ css: team.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget widget_1634843173233-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_widget_1634843173233" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_widget_1634843173233_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/home/Daniel_Gershuni_COO_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Daniel Gershuni COO Uptime.com Website Performance Monitoring Solution" title="Daniel Gershuni COO Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_widget_1634843173233_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Daniel_Gershuni_COO_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Daniel Gershuni COO Uptime.com Website Performance Monitoring Solution" title="Daniel Gershuni COO Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -202,7 +202,7 @@ css: team.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget widget_1634843168857-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_widget_1634843168857" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_widget_1634843168857_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/home/Barak_Shohat_CTO_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Barak Shohat, CTO of Uptime.com Website Performance Monitoring Solution" title="Barak Shohat, CTO of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_widget_1634843168857_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Barak_Shohat_CTO_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Barak Shohat, CTO of Uptime.com Website Performance Monitoring Solution" title="Barak Shohat, CTO of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -270,7 +270,7 @@ css: team.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget widget_1634843131915-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_widget_1634843131915" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_widget_1634843131915_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/home/Elias_Laham_VP_Customer_Support_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Elias Laham, VP Customer Support of Uptime.com Website Performance Monitoring Solution" title="Elias Laham, VP Customer Support of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_widget_1634843131915_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Elias_Laham_VP_Customer_Support_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Elias Laham, VP Customer Support of Uptime.com Website Performance Monitoring Solution" title="Elias Laham, VP Customer Support of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -332,7 +332,7 @@ css: team.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget module_16481484324835-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_module_16481484324835" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_module_16481484324835_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/home/Oleksii_Solianik_Director_of_Engineering_Uptime.com_leadership.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Oleksii Solianik, Director of Software Engineering at Uptime.com Website Performance Monitoring Solution" title="Oleksii Solianik, Director of Software Engineering at Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_module_16481484324835_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Oleksii_Solianik_Director_of_Engineering_Uptime.com_leadership.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Oleksii Solianik, Director of Software Engineering at Uptime.com Website Performance Monitoring Solution" title="Oleksii Solianik, Director of Software Engineering at Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -394,7 +394,7 @@ css: team.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget module_1637131285210-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_module_1637131285210" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_module_1637131285210_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/home/Ben_Byrne_Director_System_Ops_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Ben Byrne Director of System Ops of Uptime.com Website Performance Monitoring Solution" title="Ben Byrne Director of System Ops of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_module_1637131285210_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Ben_Byrne_Director_System_Ops_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Ben Byrne Director of System Ops of Uptime.com Website Performance Monitoring Solution" title="Ben Byrne Director of System Ops of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -462,7 +462,7 @@ css: team.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget widget_1634843137504-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_widget_1634843137504" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_widget_1634843137504_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/home/Michael_Esposito_Chief_Strategy_Officer_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Michael Esposito, Chief Strategy Officer of Uptime.com Website Performance Monitoring Solution" title="Michael Esposito, Chief Strategy Officer of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_widget_1634843137504_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Michael_Esposito_Chief_Strategy_Officer_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Michael Esposito, Chief Strategy Officer of Uptime.com Website Performance Monitoring Solution" title="Michael Esposito, Chief Strategy Officer of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -613,7 +613,7 @@ css: team.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/home/User_Review_Uptime.com_Website_Performance_Monitoring_Downtime_Outage_Checks.webp" alt="Uptime.com Glassdoor Employee Review of Website Uptime Performance Monitoring Company" width="100%" style="max-width: 1000px; max-height: 419px">
+                          <img loading="lazy" src="{static}/images/User_Review_Uptime.com_Website_Performance_Monitoring_Downtime_Outage_Checks.webp" alt="Uptime.com Glassdoor Employee Review of Website Uptime Performance Monitoring Company" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
                     </div>

@@ -89,7 +89,7 @@ css: it.css
                     <div id="hs_cos_wrapper_widget_1649272072525" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   fadeInBottom ">
                         <div class="inline-block">
-                          <img src="{static}/images/industries/Tech_IT_Industries_Trust_Uptime.com_Monitoring_Uptime.webp" alt="IT professional services uptime monitoring for speed, downtime, and infrastructure performance with Uptime.com" style="max-width: 100%; height: auto;">
+                          <img src="{static}/images/Tech_IT_Industries_Trust_Uptime.com_Monitoring_Uptime.webp" alt="IT professional services uptime monitoring for speed, downtime, and infrastructure performance with Uptime.com" style="max-width: 100%; height: auto;">
                         </div>
                       </div>
                     </div>
@@ -175,7 +175,7 @@ css: it.css
                     <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/home/Add_HTTP(S)_Check_400x508.gif" alt="IT teams use Uptime.com software to configure dozens of website performance monitoring checks" width="100%" style="max-width: 400px; max-height: 508px">
+                          <img loading="lazy" src="{static}/images/Add_HTTP(S)_Check_400x508.gif" alt="IT teams use Uptime.com software to configure dozens of website performance monitoring checks" width="100%" style="max-width: 400px; max-height: 508px">
                         </div>
                       </div>
                     </div>
@@ -337,7 +337,7 @@ css: it.css
                     <div id="hs_cos_wrapper_module_16310982020963" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Website_Downtime_Alert_Notification_Setup_Uptime.com_900x814.webp" alt="IT teams and SREs use Uptime.com software to configure outage alert escalations" width="100%" style="max-width: 450px; max-height: 407px">
+                          <img loading="lazy" src="{static}/images/Website_Downtime_Alert_Notification_Setup_Uptime.com_900x814.webp" alt="IT teams and SREs use Uptime.com software to configure outage alert escalations" width="100%" style="max-width: 450px; max-height: 407px">
                         </div>
                       </div>
                     </div>
@@ -362,7 +362,7 @@ css: it.css
                     <div id="hs_cos_wrapper_module_16310982122473" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Reduce_False_Website_Downtime_Outage_False_Positives_with%20_Uptime.com_1160x680.webp" alt="IT teams use Uptime.com monitoring tools to minimize false downtime alarms" width="100%" style="max-width: 580px; max-height: 340px">
+                          <img loading="lazy" src="{static}/images/Reduce_False_Website_Downtime_Outage_False_Positives_with%20_Uptime.com_1160x680.webp" alt="IT teams use Uptime.com monitoring tools to minimize false downtime alarms" width="100%" style="max-width: 580px; max-height: 340px">
                         </div>
                       </div>
                     </div>
@@ -524,7 +524,7 @@ css: it.css
                     <div id="hs_cos_wrapper_module_16310802981295" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   uptime-drop-shadow">
                         <div>      
-                          <img loading="lazy" src="{static}/images/industries/Uptime_Performance_Monitoring_Traceroute_Diagnostics_for_Downtime_Outages_1150x618.webp" alt="IT teams use Uptime.com monitoring tools to minimize false downtime alarms" width="100%" style="max-width: 575px; max-height: 309px">
+                          <img loading="lazy" src="{static}/images/Uptime_Performance_Monitoring_Traceroute_Diagnostics_for_Downtime_Outages_1150x618.webp" alt="IT teams use Uptime.com monitoring tools to minimize false downtime alarms" width="100%" style="max-width: 575px; max-height: 309px">
                         </div>
                       </div>
                     </div>
@@ -549,7 +549,7 @@ css: it.css
                     <div id="hs_cos_wrapper_module_16310982219593" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Customizable_Website_Uptime_Performance_Monitoring_Dashboards_with_Uptime.com_1100x840.webp" alt="IT teams use Uptime.com to customize reporting dashboards for uptime performance monitoring" width="100%" style="max-width: 550px; max-height: 420px">
+                          <img loading="lazy" src="{static}/images/Customizable_Website_Uptime_Performance_Monitoring_Dashboards_with_Uptime.com_1100x840.webp" alt="IT teams use Uptime.com to customize reporting dashboards for uptime performance monitoring" width="100%" style="max-width: 550px; max-height: 420px">
                         </div>
                       </div>
                     </div>
@@ -711,7 +711,7 @@ css: it.css
                     <div id="hs_cos_wrapper_module_16322542454343" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="IT teams trust Uptime.com software and technical support for 24/7 help" width="100%" style="max-width: 550px; max-height: 398px">
+                          <img loading="lazy" src="{static}/images/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="IT teams trust Uptime.com software and technical support for 24/7 help" width="100%" style="max-width: 550px; max-height: 398px">
                         </div>
                       </div>
                     </div>
@@ -736,7 +736,7 @@ css: it.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/industries/Uptime.com_Reliable_Site_Monitoring_User_Review_Andrea.webp" alt="Uptime.com G2 user reviews of website uptime monitoring software" style="max-width: 100%; height: auto;">
+                          <img loading="lazy" src="{static}/images/Uptime.com_Reliable_Site_Monitoring_User_Review_Andrea.webp" alt="Uptime.com G2 user reviews of website uptime monitoring software" style="max-width: 100%; height: auto;">
                         </div>
                       </div>
                     </div>

@@ -152,7 +152,7 @@ css: quickstart.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget widget_1640626608986-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_widget_1640626608986" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_widget_1640626608986_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/home/Website_Uptime_Monitoring_Software_Onboarding_Guide.webp" class="hs-image-widget " width="300" height="300" style="max-width: 100%; height: auto;" alt="Website Uptime Monitoring Software Onboarding Guide" title="Website Uptime Monitoring Software Onboarding Guide" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_widget_1640626608986_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Website_Uptime_Monitoring_Software_Onboarding_Guide.webp" class="hs-image-widget " width="300" height="300" style="max-width: 100%; height: auto;" alt="Website Uptime Monitoring Software Onboarding Guide" title="Website Uptime Monitoring Software Onboarding Guide" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -235,12 +235,12 @@ css: quickstart.css
                               </h3>
                               <div class="atmc-content-01_content  fadeInBottom" data-sr-id="15" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                                 <hr>
-                                <p><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> <a href="https://support.uptime.com/hc/en-us/articles/360001020389-HTTP-S-Check-Basics" rel="noopener" target="_blank"><span>HTTP(S)</span></a></p>
-                                <p><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"><a href="https://support.uptime.com/hc/en-us/articles/360000984785-Transaction-Check-Basics" rel="noopener" target="_blank"> Transaction</a>&nbsp;</span></p>
-                                <p><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"><a href="https://support.uptime.com/hc/en-us/articles/360001311589-API-Check-Basics" rel="noopener" target="_blank"> API</a><a href="https://support.uptime.com/hc/en-us/articles/360000984785-Transaction-Check-Basics"></a></span></p>
-                                <p><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> <a href="https://support.uptime.com/hc/en-us/articles/4415869187346-RUM-Setup-and-Basics" rel="noopener" target="_blank">Real User Monitoring</a><a href="https://support.uptime.com/hc/en-us/articles/360001311589-API-Check-Basics"></a></span></p>
-                                <p><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;">&nbsp;<a href="https://support.uptime.com/hc/en-us/articles/360001310925-Malware-Virus-Check-Basics" rel="noopener" target="_blank">Malware/Virus</a><a href="https://support.uptime.com/hc/en-us/articles/360001311589-API-Check-Basics"></a></span></p>
-                                <p><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"><a href="https://support.uptime.com/hc/en-us/articles/360001349165-SSL-Certificate-Expiry-Check-Basics" rel="noopener" target="_blank"> SSL Certificate/Expiry</a></span></p>
+                                <p><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> <a href="https://support.uptime.com/hc/en-us/articles/360001020389-HTTP-S-Check-Basics" rel="noopener" target="_blank"><span>HTTP(S)</span></a></p>
+                                <p><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"><a href="https://support.uptime.com/hc/en-us/articles/360000984785-Transaction-Check-Basics" rel="noopener" target="_blank"> Transaction</a>&nbsp;</span></p>
+                                <p><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"><a href="https://support.uptime.com/hc/en-us/articles/360001311589-API-Check-Basics" rel="noopener" target="_blank"> API</a><a href="https://support.uptime.com/hc/en-us/articles/360000984785-Transaction-Check-Basics"></a></span></p>
+                                <p><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> <a href="https://support.uptime.com/hc/en-us/articles/4415869187346-RUM-Setup-and-Basics" rel="noopener" target="_blank">Real User Monitoring</a><a href="https://support.uptime.com/hc/en-us/articles/360001311589-API-Check-Basics"></a></span></p>
+                                <p><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;">&nbsp;<a href="https://support.uptime.com/hc/en-us/articles/360001310925-Malware-Virus-Check-Basics" rel="noopener" target="_blank">Malware/Virus</a><a href="https://support.uptime.com/hc/en-us/articles/360001311589-API-Check-Basics"></a></span></p>
+                                <p><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"><a href="https://support.uptime.com/hc/en-us/articles/360001349165-SSL-Certificate-Expiry-Check-Basics" rel="noopener" target="_blank"> SSL Certificate/Expiry</a></span></p>
                               </div>
                             </div>
                           </div>
@@ -263,12 +263,12 @@ css: quickstart.css
                               </h3>
                               <div class="atmc-content-01_content  fadeInBottom" data-sr-id="17" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                                 <hr>
-                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001349245-Whois-Domain-Expiry-Check-Basics"><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> </span></a><a href="https://support.uptime.com/hc/en-us/articles/360001349245-Whois-Domain-Expiry-Check-Basics" rel="noopener" target="_blank">Domain Whois/Expiry</a></p>
-                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001366189-DNS-Server-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> DNS</span></a></p>
-                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001310905-Ping-ICMP-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> Ping (ICMP)</span></a></p>
-                                <p><a href="https://support.uptime.com/hc/en-us/articles/360005618719-NTP-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> NTP</span></a></p>
-                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001241389-SSH-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> SSH</span></a></p>
-                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001273005-TCP-UDP-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> TCP/UDP</span></a></p>
+                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001349245-Whois-Domain-Expiry-Check-Basics"><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> </span></a><a href="https://support.uptime.com/hc/en-us/articles/360001349245-Whois-Domain-Expiry-Check-Basics" rel="noopener" target="_blank">Domain Whois/Expiry</a></p>
+                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001366189-DNS-Server-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> DNS</span></a></p>
+                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001310905-Ping-ICMP-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> Ping (ICMP)</span></a></p>
+                                <p><a href="https://support.uptime.com/hc/en-us/articles/360005618719-NTP-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> NTP</span></a></p>
+                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001241389-SSH-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> SSH</span></a></p>
+                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001273005-TCP-UDP-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> TCP/UDP</span></a></p>
                               </div>
                             </div>
                           </div>
@@ -291,8 +291,8 @@ css: quickstart.css
                               </h3>
                               <div class="atmc-content-01_content  fadeInBottom" data-sr-id="19" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                                 <hr>
-                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001242825-Email-Server-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> SMTP/POP/IMAP</span></a></p>
-                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001307089-Domain-Blacklist-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> Domain Blacklist</span></a></p>
+                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001242825-Email-Server-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> SMTP/POP/IMAP</span></a></p>
+                                <p><a href="https://support.uptime.com/hc/en-us/articles/360001307089-Domain-Blacklist-Check-Basics" rel="noopener" target="_blank"><span><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> Domain Blacklist</span></a></p>
                                 <p>&nbsp;</p>
                                 <p>&nbsp;</p>
                                 <p>&nbsp;</p>
@@ -319,8 +319,8 @@ css: quickstart.css
                               </h3>
                               <div class="atmc-content-01_content  fadeInBottom" data-sr-id="21" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                                 <hr>
-                                <p><a href="https://support.uptime.com/hc/en-us/articles/360014269679-Custom-Checks-for-Process-Monitoring#incoming_webhook_setup" rel="noopener" target="_blank"><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> Webhook</a></p>
-                                <p><a href="https://support.uptime.com/hc/en-us/articles/360014269679-Custom-Checks-for-Process-Monitoring#heartbeat_setup" rel="noopener" target="_blank"><img src="{static}/images/home/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> Heartbeat</a></p>
+                                <p><a href="https://support.uptime.com/hc/en-us/articles/360014269679-Custom-Checks-for-Process-Monitoring#incoming_webhook_setup" rel="noopener" target="_blank"><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> Webhook</a></p>
+                                <p><a href="https://support.uptime.com/hc/en-us/articles/360014269679-Custom-Checks-for-Process-Monitoring#heartbeat_setup" rel="noopener" target="_blank"><img src="{static}/images/Uptime.com_Favicon.svg" alt="Uptime.com_Favicon" width="15" loading="lazy" style="width: 15px;"> Heartbeat</a></p>
                                 <p>&nbsp;</p>
                                 <p>&nbsp;</p>
                                 <p>&nbsp;</p>
@@ -403,7 +403,7 @@ css: quickstart.css
                     <div id="hs_cos_wrapper_widget_1640792300118" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  fadeInBottom uptime-drop-shadow" data-sr-id="25" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                         <div class="inline-block">
-                          <img src="{static}/images/home/Check_Domain_Uptime_and_Availability_with_Uptime.com.webp" alt="Check Domain Uptime and Availability with Uptime.com" width="100%" style="max-width: 1100px; max-height: 503px">
+                          <img src="{static}/images/Check_Domain_Uptime_and_Availability_with_Uptime.com.webp" alt="Check Domain Uptime and Availability with Uptime.com" width="100%" style="max-width: 1100px; max-height: 503px">
                         </div>
                       </div>
                     </div>
@@ -444,7 +444,7 @@ css: quickstart.css
                     <div id="hs_cos_wrapper_widget_1640792311759" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  fadeInBottom uptime-drop-shadow" data-sr-id="27" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                         <div class="inline-block">
-                          <img src="{static}/images/home/Monitor_Entire_Site_for_DNS_Uptime_Web_Server_Performance.webp" alt="Monitor Entire Site for DNS Uptime and Web Server Performance" width="100%" style="max-width: 1100px; max-height: 530px">
+                          <img src="{static}/images/Monitor_Entire_Site_for_DNS_Uptime_Web_Server_Performance.webp" alt="Monitor Entire Site for DNS Uptime and Web Server Performance" width="100%" style="max-width: 1100px; max-height: 530px">
                         </div>
                       </div>
                     </div>
@@ -505,7 +505,7 @@ css: quickstart.css
                           <div id="hs_cos_wrapper_widget_1640792325373" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                             <div id="" class="atmc-image-default   fadeInBottom uptime-drop-shadow" data-sr-id="29" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                               <div class="inline-block">
-                                <img src="{static}/images/home/Test_Website_Uptime_Checks_From_Global_Probe_Server_Locations_Uptime.com.webp" alt="Test Website Uptime Checks From Global Probe Server Locations with Uptime.com" width="100%" style="max-width: 550px; max-height: 309px">
+                                <img src="{static}/images/Test_Website_Uptime_Checks_From_Global_Probe_Server_Locations_Uptime.com.webp" alt="Test Website Uptime Checks From Global Probe Server Locations with Uptime.com" width="100%" style="max-width: 550px; max-height: 309px">
                               </div>
                             </div>
                           </div>
@@ -543,7 +543,7 @@ css: quickstart.css
                     <div id="hs_cos_wrapper_widget_1640792347818" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  fadeInBottom uptime-drop-shadow" data-sr-id="31" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                         <div class="inline-block">
-                          <img src="{static}/images/home/Test_HTTP(S)_SSL_Certificates_and_APIs_on_Website_Uptime.com_Checks.webp" alt="Test HTTP(S), SSL Certificates, and APIs on Website with Uptime.com Checks" width="100%" style="max-width: 1100px; max-height: 545px">
+                          <img src="{static}/images/Test_HTTP(S)_SSL_Certificates_and_APIs_on_Website_Uptime.com_Checks.webp" alt="Test HTTP(S), SSL Certificates, and APIs on Website with Uptime.com Checks" width="100%" style="max-width: 1100px; max-height: 545px">
                         </div>
                       </div>
                     </div>
@@ -653,7 +653,7 @@ css: quickstart.css
                     <div id="hs_cos_wrapper_widget_1640792359128" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  fadeInBottom uptime-drop-shadow" data-sr-id="36" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                         <div class="inline-block">
-                          <img src="{static}/images/home/Create_Custom_Website_Uptime_Performance_Monitoring_Dashboard_Uptime.com.webp" alt="Create Custom Website Uptime Performance Monitoring Dashboard with Uptime.com" width="100%" style="max-width: 1100px; max-height: 315px">
+                          <img src="{static}/images/Create_Custom_Website_Uptime_Performance_Monitoring_Dashboard_Uptime.com.webp" alt="Create Custom Website Uptime Performance Monitoring Dashboard with Uptime.com" width="100%" style="max-width: 1100px; max-height: 315px">
                         </div>
                       </div>
                     </div>
@@ -792,7 +792,7 @@ css: quickstart.css
                           <div id="hs_cos_wrapper_widget_1640792372644" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                             <div id="" class="atmc-image-default flex justify-center  fadeInBottom uptime-drop-shadow" data-sr-id="43" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                               <div class="inline-block">
-                                <img src="{static}/images/home/Add_Website_Downtime_Alerts_Notifications_Escalations_Uptime.com.webp" alt="Add Website Downtime Alerts Notifications and Escalations with Uptime.com" width="100%" style="max-width: 1100px; max-height: 395px">
+                                <img src="{static}/images/Add_Website_Downtime_Alerts_Notifications_Escalations_Uptime.com.webp" alt="Add Website Downtime Alerts Notifications and Escalations with Uptime.com" width="100%" style="max-width: 1100px; max-height: 395px">
                               </div>
                             </div>
                           </div>
@@ -856,7 +856,7 @@ css: quickstart.css
                           <div id="hs_cos_wrapper_widget_1640792396375" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                             <div id="" class="atmc-image-default   fadeInBottom uptime-drop-shadow" data-sr-id="46" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                               <div class="inline-block">
-                                <img src="{static}/images/home/Add_Users_Uptime.com_Website_Uptime_Performance_Monitoring_Software_Platform.webp" alt="Add Users to Uptime.com Website Uptime Performance Monitoring Software Platform" width="100%" style="max-width: 525px; max-height: 429px">
+                                <img src="{static}/images/Add_Users_Uptime.com_Website_Uptime_Performance_Monitoring_Software_Platform.webp" alt="Add Users to Uptime.com Website Uptime Performance Monitoring Software Platform" width="100%" style="max-width: 525px; max-height: 429px">
                               </div>
                             </div>
                           </div>
@@ -961,7 +961,7 @@ css: quickstart.css
                           <div id="hs_cos_wrapper_widget_1640792404171" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                             <div id="" class="atmc-image-default flex justify-end  fadeInBottom uptime-drop-shadow" data-sr-id="51" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                               <div class="inline-block">
-                                <img src="{static}/images/home/Website_Down_Check_Alert_Results_Uptime.com.webp" alt="Website Down Check Alert Results with Uptime.com" width="100%" style="max-width: 525px; max-height: 429px">
+                                <img src="{static}/images/Website_Down_Check_Alert_Results_Uptime.com.webp" alt="Website Down Check Alert Results with Uptime.com" width="100%" style="max-width: 525px; max-height: 429px">
                               </div>
                             </div>
                           </div>
@@ -1057,7 +1057,7 @@ css: quickstart.css
                           <div id="hs_cos_wrapper_widget_1640792412345" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                             <div id="" class="atmc-image-default flex justify-center  fadeInBottom uptime-drop-shadow" data-sr-id="56" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                               <div class="inline-block">
-                                <img src="{static}/images/home/Website_Downtime_Failed_Check_Alert_History_Uptime.com.webp" alt="Website Downtime Failed Check Alert History with Uptime.com" width="100%" style="max-width: 1100px; max-height: 356px">
+                                <img src="{static}/images/Website_Downtime_Failed_Check_Alert_History_Uptime.com.webp" alt="Website Downtime Failed Check Alert History with Uptime.com" width="100%" style="max-width: 1100px; max-height: 356px">
                               </div>
                             </div>
                           </div>
@@ -1100,7 +1100,7 @@ css: quickstart.css
                           <div id="hs_cos_wrapper_widget_1640792419980" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                             <div id="" class="atmc-image-default   fadeInBottom uptime-drop-shadow" data-sr-id="58" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                               <div class="inline-block">
-                                <img src="{static}/images/home/Customize_Reporting_Dashboards_Website_Uptime_Performance_Uptime.com.webp" alt="Customize Reporting Dashboards for Website Uptime Performance with Uptime.com" width="100%" style="max-width: 550px; max-height: 325px">
+                                <img src="{static}/images/Customize_Reporting_Dashboards_Website_Uptime_Performance_Uptime.com.webp" alt="Customize Reporting Dashboards for Website Uptime Performance with Uptime.com" width="100%" style="max-width: 550px; max-height: 325px">
                               </div>
                             </div>
                           </div>
@@ -1158,7 +1158,7 @@ css: quickstart.css
                     <div id="hs_cos_wrapper_widget_1640792428650" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  fadeInBottom uptime-drop-shadow" data-sr-id="61" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                         <div class="inline-block">
-                          <img src="{static}/images/home/Website_Uptime_Monitoring_Software_Dashboard_Uptime.com_Platform.webp" alt="Website Uptime Monitoring Software Dashboard in Uptime.com Platform" width="100%" style="max-width: 1100px; max-height: 639px">
+                          <img src="{static}/images/Website_Uptime_Monitoring_Software_Dashboard_Uptime.com_Platform.webp" alt="Website Uptime Monitoring Software Dashboard in Uptime.com Platform" width="100%" style="max-width: 1100px; max-height: 639px">
                         </div>
                       </div>
                     </div>
@@ -1190,7 +1190,7 @@ css: quickstart.css
                     <div id="hs_cos_wrapper_widget_1640792440342" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  fadeInBottom uptime-drop-shadow" data-sr-id="63" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                         <div class="inline-block">
-                          <img src="{static}/images/home/Scheduled_Reports_on_Website_SLA_Performance_through_Uptime.com_Monitoring_Software.webp" alt="Scheduled Reports on Website SLA Performance through Uptime.com Monitoring Software" width="100%" style="max-width: 1100px; max-height: 581px">
+                          <img src="{static}/images/Scheduled_Reports_on_Website_SLA_Performance_through_Uptime.com_Monitoring_Software.webp" alt="Scheduled Reports on Website SLA Performance through Uptime.com Monitoring Software" width="100%" style="max-width: 1100px; max-height: 581px">
                         </div>
                       </div>
                     </div>

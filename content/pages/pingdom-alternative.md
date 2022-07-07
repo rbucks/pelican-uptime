@@ -56,7 +56,7 @@ css: pingdom-alternative.css
                     <div id="hs_cos_wrapper_widget_1631072296680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/pingdom_Alternative_1150x920.gif" alt="Pingdom Alternatives for Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
+                          <img loading="lazy" src="{static}/images/pingdom_Alternative_1150x920.gif" alt="Pingdom Alternatives for Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
                         </div>
                       </div>
                     </div>
@@ -281,7 +281,7 @@ css: pingdom-alternative.css
                     <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Best_Website_Uptime_Monitoring_Services_with_Uptime.com_890x750.webp" alt="Best Website Uptime Performance Monitoring Services with Uptime.com.com_890x750" width="100%" style="max-width: 445px; max-height: 375px">
+                          <img loading="lazy" src="{static}/images/Best_Website_Uptime_Monitoring_Services_with_Uptime.com_890x750.webp" alt="Best Website Uptime Performance Monitoring Services with Uptime.com.com_890x750" width="100%" style="max-width: 445px; max-height: 375px">
                         </div>
                       </div>
                     </div>
@@ -444,7 +444,7 @@ css: pingdom-alternative.css
                     <div id="hs_cos_wrapper_module_163176223651111" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/home/Add_HTTP(S)_Check_400x508.gif" alt="Less Expensive Website Uptime Performance Monitoring Than Pingdom with Uptime.com" width="100%" style="max-width: 400px; max-height: 508px">
+                          <img loading="lazy" src="{static}/images/Add_HTTP(S)_Check_400x508.gif" alt="Less Expensive Website Uptime Performance Monitoring Than Pingdom with Uptime.com" width="100%" style="max-width: 400px; max-height: 508px">
                         </div>
                       </div>
                     </div>
@@ -472,7 +472,7 @@ css: pingdom-alternative.css
                           <div id="hs_cos_wrapper_module_16318511166985" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                             <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                               <div>
-                                <img loading="lazy" src="{static}/images/compare/Reduce_False_Website_Downtime_Outage_False_Positives_with%20_Uptime.com_1160x680.webp" alt="More Reliable Website Uptime Performance Monitoring Than Pingdom with Uptime.com " width="100%" style="max-width: 580px; max-height: 340px">
+                                <img loading="lazy" src="{static}/images/Reduce_False_Website_Downtime_Outage_False_Positives_with%20_Uptime.com_1160x680.webp" alt="More Reliable Website Uptime Performance Monitoring Than Pingdom with Uptime.com " width="100%" style="max-width: 580px; max-height: 340px">
                               </div>
                             </div>
                           </div>
@@ -640,7 +640,7 @@ css: pingdom-alternative.css
                     <div id="hs_cos_wrapper_module_16310982020963" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Uptime_Performance_Monitoring_Traceroute_Diagnostics_for_Downtime_Outages_1150x618.webp" alt="Website Downtime Monitoring Traceroute Diagnostics with Uptime.com " width="100%" style="max-width: 575px; max-height: 309px">
+                          <img loading="lazy" src="{static}/images/Uptime_Performance_Monitoring_Traceroute_Diagnostics_for_Downtime_Outages_1150x618.webp" alt="Website Downtime Monitoring Traceroute Diagnostics with Uptime.com " width="100%" style="max-width: 575px; max-height: 309px">
                         </div>
                       </div>
                     </div>
@@ -665,7 +665,7 @@ css: pingdom-alternative.css
                     <div id="hs_cos_wrapper_module_16317622258765" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Best_Customer_Support_Website_Uptime_Performance_Monitoring_Uptime.com1160x684.webp" alt="Top-Rated Website Uptime Performance Monitoring Customer Support with Uptime.com.com1160x684" width="100%" style="max-width: 580px; max-height: 342px">
+                          <img loading="lazy" src="{static}/images/Best_Customer_Support_Website_Uptime_Performance_Monitoring_Uptime.com1160x684.webp" alt="Top-Rated Website Uptime Performance Monitoring Customer Support with Uptime.com.com1160x684" width="100%" style="max-width: 580px; max-height: 342px">
                         </div>
                       </div>
                     </div>
@@ -827,7 +827,7 @@ css: pingdom-alternative.css
                     <div id="hs_cos_wrapper_module_16317621385184" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Web_Uptime_Dashboard_Monitoring_1100x840.webp" alt="Custom Website Uptime Performance Monitoring Dashboards with Uptime.com " width="100%" style="max-width: 550px; max-height: 420px">
+                          <img loading="lazy" src="{static}/images/Web_Uptime_Dashboard_Monitoring_1100x840.webp" alt="Custom Website Uptime Performance Monitoring Dashboards with Uptime.com " width="100%" style="max-width: 550px; max-height: 420px">
                         </div>
                       </div>
                     </div>
@@ -852,7 +852,7 @@ css: pingdom-alternative.css
                     <div id="hs_cos_wrapper_module_16318529568695" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/compare/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="Top Rated Website Uptime Performance Monitoring Customer Support with Uptime.com.com_1100x796" width="100%" style="max-width: 550px; max-height: 398px">
+                          <img loading="lazy" src="{static}/images/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="Top Rated Website Uptime Performance Monitoring Customer Support with Uptime.com.com_1100x796" width="100%" style="max-width: 550px; max-height: 398px">
                         </div>
                       </div>
                     </div>
@@ -963,7 +963,7 @@ css: pingdom-alternative.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/compare/Uptime.com_User_Review_for_Website_Uptime_Performance%20Monitoring_Mike.webp" alt="Uptime.Uptime.com User Review for Website Uptime Performance Monitoring Monitoring_Mike" width="100%" style="max-width: 1000px; max-height: 420px">
+                          <img loading="lazy" src="{static}/images/Uptime.com_User_Review_for_Website_Uptime_Performance%20Monitoring_Mike.webp" alt="Uptime.Uptime.com User Review for Website Uptime Performance Monitoring Monitoring_Mike" width="100%" style="max-width: 1000px; max-height: 420px">
                         </div>
                       </div>
                     </div>
@@ -1014,7 +1014,7 @@ css: pingdom-alternative.css
                     <div id="hs_cos_wrapper_module_16318494065095" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/compare/Pingdom_User_Review_for_Website_Uptime_Performance_Monitoring_Saransh.webp" alt="Pingdom User Review for Website Uptime Performance Monitoring" width="100%" style="max-width: 1000px; max-height: 419px">
+                          <img loading="lazy" src="{static}/images/Pingdom_User_Review_for_Website_Uptime_Performance_Monitoring_Saransh.webp" alt="Pingdom User Review for Website Uptime Performance Monitoring" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
                     </div>

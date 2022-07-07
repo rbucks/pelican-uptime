@@ -56,7 +56,7 @@ css: reporting.css
                     <div id="hs_cos_wrapper_widget_1631072296680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center sr-invisible fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/reporting/Web_Reporting_Real_User_Monitoring_1150x920.gif" alt="Website Performance Monitoring Reporting Dashboards with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
+                          <img loading="lazy" src="{static}/images/Web_Reporting_Real_User_Monitoring_1150x920.gif" alt="Website Performance Monitoring Reporting Dashboards with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
                         </div>
                       </div>
                     </div>
@@ -119,7 +119,7 @@ css: reporting.css
                     <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  sr-invisible fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/reporting/Web_Uptime_Dashboard_Monitoring_1100x840.webp" alt="Website Uptime Monitoring Performance Dashboard with Uptime.com.com" width="100%" style="max-width: 550px; max-height: 420px">
+                          <img loading="lazy" src="{static}/images/Web_Uptime_Dashboard_Monitoring_1100x840.webp" alt="Website Uptime Monitoring Performance Dashboard with Uptime.com.com" width="100%" style="max-width: 550px; max-height: 420px">
                         </div>
                       </div>
                     </div>
@@ -281,7 +281,7 @@ css: reporting.css
                     <div id="hs_cos_wrapper_module_16310982020963" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  sr-invisible fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/reporting/New_Scheduled_Report_1150x920.gif" alt="Website Uptime Monitoring Automated Report Scheduling with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
+                          <img loading="lazy" src="{static}/images/New_Scheduled_Report_1150x920.gif" alt="Website Uptime Monitoring Automated Report Scheduling with Uptime.com" width="100%" style="max-width: 1150px; max-height: 920px">
                         </div>
                       </div>
                     </div>
@@ -306,7 +306,7 @@ css: reporting.css
                     <div id="hs_cos_wrapper_module_16310982122473" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  sr-invisible fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/products/reporting/Page_Speed_Real_User_Monitoring_RUM_1150x748_2.webp" alt="Page Speed Real User Monitoring RUM" width="100%" style="max-width: 575px; max-height: 324px">
+                          <img loading="lazy" src="{static}/images/Page_Speed_Real_User_Monitoring_RUM_1150x748_2.webp" alt="Page Speed Real User Monitoring RUM" width="100%" style="max-width: 575px; max-height: 324px">
                         </div>
                       </div>
                     </div>
@@ -468,7 +468,7 @@ css: reporting.css
                     <div id="hs_cos_wrapper_module_16310802981295" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   uptime-drop-shadow">
                         <div>      
-                          <img loading="lazy" src="{static}/images/products/reporting/Custom_Status_Pages_1160x834.webp" alt="Website Status Pages for Outages and Incident Communication with Uptime.com.com_1160x834" width="100%" style="max-width: 580px; max-height: 417px">
+                          <img loading="lazy" src="{static}/images/Custom_Status_Pages_1160x834.webp" alt="Website Status Pages for Outages and Incident Communication with Uptime.com.com_1160x834" width="100%" style="max-width: 580px; max-height: 417px">
                         </div>
                       </div>
                     </div>
@@ -493,7 +493,7 @@ css: reporting.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/products/reporting/Artboard-1-copy-16_2x.webp" alt="Page Speed Improvement Review Marco" width="100%" style="max-width: 1000px; max-height: 419px">
+                          <img loading="lazy" src="{static}/images/Artboard-1-copy-16_2x.webp" alt="Page Speed Improvement Review Marco" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
                     </div>

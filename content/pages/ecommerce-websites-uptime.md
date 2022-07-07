@@ -89,7 +89,7 @@ css: ecommerce.css
                     <div id="hs_cos_wrapper_widget_1649274537154" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   fadeInBottom ">
                         <div class="inline-block">
-                          <img src="{static}/images/industries/Ecommerce_Industries_Trust_Uptime.com_Monitoring_Uptime.webp" alt="Ecommerce website uptime monitoring for speed, downtime, and availability performance with Uptime.com" width="100%" style="max-width: 575px; max-height: 442px">
+                          <img src="{static}/images/Ecommerce_Industries_Trust_Uptime.com_Monitoring_Uptime.webp" alt="Ecommerce website uptime monitoring for speed, downtime, and availability performance with Uptime.com" width="100%" style="max-width: 575px; max-height: 442px">
                         </div>
                       </div>
                     </div>
@@ -175,7 +175,7 @@ css: ecommerce.css
                     <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Synthetic_Transaction_Monitoring_resize.gif" alt="Run synthetic Check, Check Steps HTTP(s) " width="100%" style="max-width: 460px; max-height: 500px">
+                          <img loading="lazy" src="{static}/images/Synthetic_Transaction_Monitoring_resize.gif" alt="Run synthetic Check, Check Steps HTTP(s) " width="100%" style="max-width: 460px; max-height: 500px">
                         </div>
                       </div>
                     </div>
@@ -337,7 +337,7 @@ css: ecommerce.css
                     <div id="hs_cos_wrapper_module_16310982020963" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/SMS_Email_Phone_Call_Website_Downtime_Monitoring_Alerts_950x800.webp" alt="Website Downtime Alert Notification Setup Uptime.com" width="100%" style="max-width: 475px; max-height: 400px">
+                          <img loading="lazy" src="{static}/images/SMS_Email_Phone_Call_Website_Downtime_Monitoring_Alerts_950x800.webp" alt="Website Downtime Alert Notification Setup Uptime.com" width="100%" style="max-width: 475px; max-height: 400px">
                         </div>
                       </div>
                     </div>
@@ -362,7 +362,7 @@ css: ecommerce.css
                     <div id="hs_cos_wrapper_module_16310982122473" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Real_User_Monitoring_RUM_Dashboard_1150x748_2.webp" alt="Real User Monitoring RUM Dashboard" width="100%" style="max-width: 575px; max-height: 334px">
+                          <img loading="lazy" src="{static}/images/Real_User_Monitoring_RUM_Dashboard_1150x748_2.webp" alt="Real User Monitoring RUM Dashboard" width="100%" style="max-width: 575px; max-height: 334px">
                         </div>
                       </div>
                     </div>
@@ -524,7 +524,7 @@ css: ecommerce.css
                     <div id="hs_cos_wrapper_module_16310802981295" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   uptime-drop-shadow">
                         <div>      
-                          <img loading="lazy" src="{static}/images/industries/Create_branded_website_status_pages_ecommerce_business.webp" alt="Create branded website status pages ecommerce business" width="100%" style="max-width: 575px; max-height: 355px">
+                          <img loading="lazy" src="{static}/images/Create_branded_website_status_pages_ecommerce_business.webp" alt="Create branded website status pages ecommerce business" width="100%" style="max-width: 575px; max-height: 355px">
                         </div>
                       </div>
                     </div>
@@ -549,7 +549,7 @@ css: ecommerce.css
                     <div id="hs_cos_wrapper_module_16310982219593" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/industries/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="Best Technical Support Team for Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 550px; max-height: 398px">
+                          <img loading="lazy" src="{static}/images/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp" alt="Best Technical Support Team for Website Uptime Performance Monitoring with Uptime.com" width="100%" style="max-width: 550px; max-height: 398px">
                         </div>
                       </div>
                     </div>
@@ -635,7 +635,7 @@ css: ecommerce.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/industries/Reliable_Monitoring_With_Exceptional_Customer_Support_Uptime.com_Review_OlegS.webp" alt="Reliable Monitoring With Exceptional Customer Support Uptime.com Review Oleg" width="100%" style="max-width: 1000px; max-height: 419px">
+                          <img loading="lazy" src="{static}/images/Reliable_Monitoring_With_Exceptional_Customer_Support_Uptime.com_Review_OlegS.webp" alt="Reliable Monitoring With Exceptional Customer Support Uptime.com Review Oleg" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
                     </div>
