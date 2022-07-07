@@ -13,7 +13,7 @@
    </div>
  </div>
  <div class="container-fluid bg-white p-5 mb-5">
-   <p class="subheading text-center text-success font-weight-medium">Trusted for years to stay up</p>
+   <p class="subheading text-center text-success font-weight-bold">Trusted for years to stay up</p>
    <p class="subheading text-center">By industry experts like <a href="https://www.g2.com/products/uptime-com/reviews" target="_blank">G2</a> & <a href="https://www.techradar.com/best/best-website-monitoring-software#2-uptime-com" target="_blank">TechRadar</a> as<br> 
      one of the world's best monitoring solutions.</p>
    <p class="subheading text-center">By thousands of customers for our reliable,<br> 
@@ -27,42 +27,61 @@
   <p class="subheading text-center text-white">for visitors to decide to bounce from your website.</p>
   <hr class="mt-5 bg-success">
 </div>
- {% endblock %}
+{% from 'image_block.html' import image_block %}
+{{ image_block("left", "/images/home/Add_HTTP(S)_Check_400x508.gif",
+"WEBSITE MONITORING CHECKS",
+"Check uptime, all the time, from anywhere",
+"Simplicity is our superpower. Choose domains and configure checks to start monitoring web, network, and email performance at global scale.",
+"bg-success") }}
 
- {% block javascripts %}
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.js"></script>
-  <script type="text/javascript">
-  $(document).ready(function() {
+{{ image_block("right", "/images/home/Reduce_False_Website_Downtime_Outage_False_Positives_with_Uptime.webp",
+"DOWNTIME INCIDENT ALERTS",
+"Get notified only when necessary",
+"We're positive you'll see less false positives. Each check is tested from 5+ locations at no extra cost for accurate alerts to any device or DevOps software.",
+"bg-success") }}
 
-  if ($('.brands_slider').length) {
-      var brandsSlider = $('.brands_slider');
+{{ image_block("left", "/images/home/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp",
+"UPTIME MONITORING SUPPORT",
+"Count on top-rated support",
+"Products alone don't solve problems -- people do. Our 100% human support team is the industry's best and available 24/7, so you spend less time finding help and more time resolving incidents.",
+"bg-success") }}
 
-      brandsSlider.owlCarousel({
-          loop: true,
-          autoplay: true,
-          autoplayTimeout: 5000,
-          nav: false,
-          dots: false,
-          autoWidth: true,
-          items: 8,
-          margin: 42
-      });
+{{ image_block("right", "/images/home/Web_Uptime_Dashboard_Monitoring_1100x840.webp",
+"WEBSITE REPORTING & ANALYTICS",
+"Define, design, and display data",
+"Customize system monitoring dashboards to report on critical data across alerts, check types, and SLAs -- segmented by account user or subaccount ",
+"bg-success") }}
 
-      if ($('.brands_prev').length) {
-          var prev = $('.brands_prev');
-          prev.on('click', function() {
-              brandsSlider.trigger('prev.owl.carousel');
-          });
-      }
+{{ image_block("left", "/images/home/Real_User_Monitoring_RUM_Dashboard_1150x748_2.webp",
+"REAL USER MONITORING (RUM)",
+"Monitor user experience",
+"Use real data from previous sessions to improve future visits. Define performance benchmarks for page speed, errors, bounce rates, and satisfaction to optimize frontend user experience.",
+"bg-success") }}
 
-      if ($('.brands_next').length) {
-          var next = $('.brands_next');
-          next.on('click', function() {
-              brandsSlider.trigger('next.owl.carousel');
-          });
-      }
-  }
+{{ image_block("right", "/images/home/Website_Status_Pages_for_Outage_Incident_and_Scheduled_Maintenance_Communication_Uptime.com_1160x834.webp",
+"SYSTEM STATUS PAGES",
+"Build trust when incidents happen",
+"Quickly and professionally communicate downtime and outage statuses in the same tool you monitor website performance with.",
+"bg-success") }}
 
-  });
-  </script>
+{{ image_block("left", "/images/home/Web_Monitoring_Integration_Partners_1000x854.gif",
+"UPTIME MONITORING INTEGRATIONS",
+"Connect to leading DevOps tools",
+"Easily deliver Uptime.com web monitoring data like alert notifications and response time metrics into your team's go-to tools and applications.",
+"bg-success") }}
+
+
+{% from 'testimonial.html' import testimonial %}
+{{ testimonial("/images/home/Easy_To_Configure_Uptime_Checks_Review_Fabian_1000px.webp",
+  "bg-success",
+  "Perfect monitoring provider",
+  "We have tested a few solutions and uptime.com is the best in price performance. The transactions and checks are easy to configure and it is a pleasure to work with. Alerting is available via e-mail, sms, and also phonecall. It monitors everything from real user monitoring, to transactions and certificates.")}}
+
+
+{% from 'cta_form.html' import cta_form %} 
+{{ cta_form("Try before you buy, 100% free",
+  ("No credit card required free trial", 
+  "Flexible monitoring subscriptions",
+  "Top-rated uptime software & support")
+  )}}
 {% endblock %}

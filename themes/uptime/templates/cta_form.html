@@ -1,0 +1,20 @@
+{% macro cta_form(title, bullets) -%}
+<div class="container-fluid mt-5 bg-white">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col-5">
+        <h2 class="text-success">{{ title }}</h2>
+        <ul class="subheading">
+          {% for bullet in bullets %}
+          <li>{{ bullet }}</li>
+          {% endfor %}
+        </ul>
+        <hr class="mt-5 ml-0 bg-success">
+      </div>
+      <div class="col my-auto">
+        <h1>Form goes here</h1>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endmacro %}

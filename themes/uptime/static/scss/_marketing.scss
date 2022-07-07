@@ -295,7 +295,12 @@ body {
         }
     }
 
-    p.subheading {
+    h2.lead {
+        line-height: 44px;
+        font-size: 40px;
+    }
+
+    .subheading {
         font-size: 24px;
         font-family: 'Barlow';
         color: black;
