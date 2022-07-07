@@ -17,6 +17,10 @@
     {% assets filters="libsass,cssmin", output="css/style.min.css", "scss/uptime.scss" %}
       <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
     {% endassets %}
+
+    {% assets output="js/packed.js", "js/jquery-3.2.1.slim.min.js", "js/popper.min.js", "js/bootstrap.min.js", "js/owl.carousel.js" %}
+      <script src="{{SITEURL}}/{{ASSET_URL}}"></script>
+   {% endassets %}
     <!-- <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" /> -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -40,7 +44,8 @@
   </div>
 
 {% include 'analytics.html' %}
-{% include 'javascript.html' %}
 
+{% block javascripts %}
+{% endblock %}
 </body>
 </html>

@@ -1,0 +1,47 @@
+{
+  "name": "uptime.com",
+  "version": "1.0.0",
+  "description": "Uptime.com NPM Dependencies",
+  "main": "",
+  "dependencies": {
+    "@fortawesome/fontawesome-pro": "^5.13.0",
+    "apexcharts": "3.26.x",
+    "bootstrap": "4.0.x",
+    "bootstrap-daterangepicker": "2.1.x",
+    "bootstrap-slider": "10.0.x",
+    "chart.js": "2.7.x",
+    "d3": "6.7.x",
+    "flag-icon-css": "3.4.x",
+    "floatthead": "2.1.x",
+    "highlight.js": "9.12.x",
+    "intl-tel-input": "12.1.x",
+    "jquery": "3.6.x",
+    "jquery-bar-rating": "1.2.x",
+    "memoize-one": "5.1.x",
+    "moment": "2.20.x",
+    "moment-timezone": "0.5.x",
+    "popper.js": "1.12.x",
+    "react": "16.8.x",
+    "react-apexcharts": "1.3.x",
+    "react-dom": "16.8.x",
+    "react-simple-maps": "2.3.x",
+    "react-tooltip": "4.2.x",
+    "select2": "4.0.13",
+    "swagger-ui": "~2.0.24",
+    "tablesorter": "2.31.x",
+    "tempusdominus-bootstrap-4": "5.0.x",
+    "tempusdominus-core": "5.0.x",
+    "underscore": "1.8.x",
+    "swagger-ui-dist": "3.51.x"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "eslint-plugin-react": "^7.12.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "repository": "n/a"
+}
