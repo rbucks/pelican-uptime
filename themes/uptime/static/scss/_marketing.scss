@@ -247,6 +247,17 @@ body {
     background-size: 41%;
 }
 
+.bg-image-home {
+    background-size: cover;
+    background-image: url('../images/Uptime_Monitoring_Trusted_By_Thousands_BG.webp') !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+}
+
+.trust-image-home {
+    max-height: 150px;
+}
+
 
 //
 // Headings

@@ -16,7 +16,7 @@ Title: Monitoring
 </div>
 <div class="container-fluid bg-light-gray p-5 mt-5">
   <h2 class="text-center">1 in 4 visitors</h2>
-  <p class="subheading text-center">will abandon your site for a competitor’s after just one failed web transaction.</p>
+  <p class="subheading text-center">will abandon your site for a competitor's after just one failed web transaction.</p>
   <hr class="mt-5">
 </div>
 <div class="container bg-white p-5 mt-5">

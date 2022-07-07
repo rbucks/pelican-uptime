@@ -1,0 +1,84 @@
+{% block extra_head %}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css">
+{% endblock %}
+
+<div class="brands">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="brands_slider_container">
+          <div class="owl-carousel owl-theme brands_slider">
+            <div class="owl-item">
+              <div class="brands_item d-flex flex-column justify-content-center">
+                <img src="{{ SITEURL }}/images/home/BNP-Paribas-v2.png" alt="BNP Paribas" width="100%" style="max-width: 268px; max-height: 66px">
+              </div>
+            </div>
+            <div class="owl-item">
+              <div class="brands_item d-flex flex-column justify-content-center">
+                <img src="{{ SITEURL }}/images/home/IBM-v2.png" alt="IBM" width="100%" style="max-width: 159px; max-height: 66px">
+              </div>
+            </div>
+            <div class="owl-item">
+              <div class="brands_item d-flex flex-column justify-content-center">
+                <img src="{{ SITEURL }}/images/home/WordPress-v2.png" alt="WordPress" width="100%" style="max-width: 159px; max-height: 66px">
+              </div>
+            </div>
+            <div class="owl-item">
+              <div class="brands_item d-flex flex-column justify-content-center">
+                <img src="{{ SITEURL }}/images/home/lending-page-v2.png" alt="lending page" width="100%" style="max-width: 214px; max-height: 66px">
+              </div>
+            </div>
+            <div class="owl-item">
+              <div class="brands_item d-flex flex-column justify-content-center">
+                <img src="{{ SITEURL }}/images/home/Heinz-v2.png" alt="Heinz" width="100%" style="max-width: 288px; max-height: 66px">
+              </div>
+            </div>
+            <div class="owl-item">
+              <div class="brands_item d-flex flex-column justify-content-center">
+                <img src="{{ SITEURL }}/images/home/Reuters-v2.png" alt="Reuters" width="100%" style="max-width: 261px; max-height: 66px">
+              </div>
+            </div>
+            <div class="owl-item">
+              <div class="brands_item d-flex flex-column justify-content-center">
+                <img src="{{ SITEURL }}/images/home/Apple-v2.png" alt="Apple" width="100%" style="max-width: 191px; max-height: 66px">
+              </div>
+            </div>
+            <div class="owl-item">
+              <div class="brands_item d-flex flex-column justify-content-center">
+                <img src="{{ SITEURL }}/images/home/Microsoft-v2.png" alt="Microsoft" width="100%" style="max-width: 262px; max-height: 66px">
+              </div>
+            </div>
+            <div class="owl-item">
+              <div class="brands_item d-flex flex-column justify-content-center">
+                <img src="{{ SITEURL }}/images/home/Ford-v2.png" alt="Ford" width="100%" style="max-width: 182px; max-height: 66px">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% block javascripts %}
+  <script type="text/javascript">
+  $(document).ready(function() {
+
+  if ($('.brands_slider').length) {
+      var brandsSlider = $('.brands_slider');
+
+      brandsSlider.owlCarousel({
+          loop: true,
+          autoplay: true,
+          nav: false,
+          dots: false,
+          autoWidth: true,
+          items: 4,
+          margin: 42
+      });
+  }
+
+  });
+  </script>
+{% endblock %}

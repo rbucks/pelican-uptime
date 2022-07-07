@@ -8,4 +8,10 @@ __pycache__
 lib
 output
 bin
-venv/
+.bin
+
+.sass-cache
+.webassets-cache
+
+# python
+venv
