@@ -963,7 +963,7 @@ css: pingdom-alternative.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center  ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/Uptime.com_User_Review_for_Website_Uptime_Performance%20Monitoring_Mike.webp" alt="Uptime.Uptime.com User Review for Website Uptime Performance Monitoring Monitoring_Mike" width="100%" style="max-width: 1000px; max-height: 420px">
+                          <img loading="lazy" src="{static}/images/Uptime.com_User_Review_for_Website_Uptime_Performance_Monitoring_Mike.webp" alt="Uptime.Uptime.com User Review for Website Uptime Performance Monitoring Monitoring_Mike" width="100%" style="max-width: 1000px; max-height: 420px">
                         </div>
                       </div>
                     </div>
