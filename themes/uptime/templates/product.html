@@ -1,0 +1,9 @@
+{% macro product(link, src, title, subheading) -%}
+  <div class="col p-3 m-1">
+    <a href="{{ link }}">
+      <img src="{{ src }}" class="img-fluid mb-4">
+    </a>
+    <h2 class="text-center">{{ title }}</h2>
+    <p class="subheading text-center">{{ subheading }}</p>
+  </div>
+{%- endmacro %}

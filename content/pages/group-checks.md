@@ -14,7 +14,7 @@ Title: Group Checks
 )}}
 
 {% from 'image_block.html' import image_block %}
-{{ image_block("left", "{static}/images/Group_Monitoring_Checks_Uptime_Performance_Tracking_Uptime.com.png",
+{{ image_block("left", "{static}/images/Group_Monitoring_Checks_Uptime_Performance_Tracking_Uptime.png",
 "GROUP MONITORING CHECKS",
 "Nest individual checks into groups",
 "Get a bird’s-eye-view into system-wide uptime performance or custom groupings by service, customers, geographies and more.",

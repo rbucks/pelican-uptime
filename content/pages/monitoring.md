@@ -6,12 +6,14 @@ Title: Monitoring
   "{static}/images/Web_Monitoring_Software_1150x920.gif"
 )}}
 
+
 {% from 'banner.html' import banner %} 
 {{ banner("1 in 4 visitors",
   "will abandon your site for a competitor's after just one failed web transaction.",
   "bg-light-gray",
   "bg-warning"
 )}}
+
 
 {% from 'image_block.html' import image_block %}
 {{ image_block("left", "{static}/images/Add_Web_Monitoring_Checks_900x1020.webp",

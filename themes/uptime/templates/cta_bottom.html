@@ -1,4 +1,4 @@
-{% macro cta_bottom(title, bullets) -%}
+{% macro cta_bottom(title, bullets, bg_color='bg-success') -%}
 <div class="container-fluid mt-5 bg-white">
   <div class="container py-5">
     <div class="row">
@@ -9,7 +9,7 @@
           <li>{{ bullet }}</li>
           {% endfor %}
         </ul>
-        <hr class="mt-5 ml-0 bg-success">
+        <hr class="mt-5 ml-0 {{ bg_color }}">
       </div>
       <div class="col my-auto">
         <h1>Form goes here</h1>
