@@ -248,10 +248,14 @@ body {
 }
 
 .bg-image-home {
-    background-size: contain;
+    background-size: cover;
     background-image: url('../images/Uptime_Monitoring_Trusted_By_Thousands_BG.webp') !important;
     background-position: center center !important;
     background-repeat: no-repeat !important;
+}
+
+.trust-image-home {
+    max-height: 150px;
 }
 
 
@@ -291,7 +295,12 @@ body {
         }
     }
 
-    p.subheading {
+    h2.lead {
+        line-height: 44px;
+        font-size: 40px;
+    }
+
+    .subheading {
         font-size: 24px;
         font-family: 'Barlow';
         color: black;
@@ -317,6 +326,10 @@ body {
         margin-right: auto;
         height: 3px;
         background-color:#efc41a;
+    }
+
+    .card-deck {
+        min-height: 100px;
     }
 }
 
