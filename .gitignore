@@ -12,6 +12,7 @@ bin
 
 .sass-cache
 .webassets-cache
+node_modules
 
 # python
 venv
