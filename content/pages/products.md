@@ -4,7 +4,7 @@ Title: Products
 {{ banner("Uptime Monitoring Products",
   "Explore our top-rated website performance monitoring tools.",
   "bg-white",
-  "bg-white"
+  "bg-success"
 )}}
 
 {% from 'product.html' import product %} 
@@ -46,5 +46,51 @@ Title: Products
       "Integrations",
       "Integrate with dozens of DevOps tools like Slack and PagerDuty."
     )}}  
+  </div>
+</div>
+
+
+{{ banner("Uptime Monitoring For Industries",
+  "Learn how Uptime.com helps various industries with website performance.",
+  "bg-white",
+  "bg-success"
+)}}
+
+
+<div class="container bg-white mb-5">
+  <div class="row mb-5">
+    {{ product("{filename}ecommerce-websites-uptime.md",
+      "{static}/images/Ecommerce_Businesses_Trust_Uptime.com_Monitoring.png",
+      "Ecommerce Website Monitoring",
+      "Used by online sellers to test site reliability, speed, and transactions."
+    )}}
+
+    {{ product("{filename}edu-websites-uptime.md",
+      "{static}/images/Education_And_Universities_trust_Uptime.com_Monitoring.png",
+      "Education Website Monitoring",
+      "Used by .edu websites monitor downtime and user experience."
+    )}}
+
+    {{ product("{filename}financial-websites-uptime.md",
+      "{static}/images/Financial_Industries_Trust_Uptime.com_Monitoring.png",
+      "Financial Services Website Monitoring",
+      "Trusted to securely check website speed, errors, and performance."
+    )}}  
+  </div>
+  <div class="row mb-5">
+    {{ product("{filename}it-services-uptime.md",
+      "{static}/images/IT_Services_Trusts_Uptime.com_Monitoring.png",
+      "IT Pro Services Monitoring",
+      "Trusted by leading IT companies to monitor infrastructure uptime."
+    )}}
+
+    {{ product("{filename}saas-websites-uptime.md",
+      "{static}/images/Software_SAAS_B2B_Industries_Trust_Uptime.com_Monitoring.png",
+      "SaaS Website Monitoring",
+      "Trusted by SaaS brands to monitor website speed and performance."
+    )}} 
+
+     <div class="col p-3 m-1">
+     </div> 
   </div>
 </div>

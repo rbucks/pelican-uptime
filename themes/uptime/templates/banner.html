@@ -1,7 +1,7 @@
-{% macro banner(title, subheading, bg_color='bg-light-gray', hr_color='bg-success' ) -%}
+{% macro banner(title, subheading, bg_color='bg-light-gray', hr_color='bg-success', text_color='text-dark' ) -%}
 <div class="container-fluid p-5 mt-5 {{ bg_color }}">
-  <h2 class="text-center">{{ title }}</h2>
-  <p class="subheading text-center">{{ subheading }}</p>
+  <h2 class="text-center {{ text_color }}">{{ title }}</h2>
+  <p class="subheading text-center {{ text_color }}">{{ subheading }}</p>
   <hr class="mt-5 {{ hr_color }}">
 </div>
 {%- endmacro %}
