@@ -50,6 +50,68 @@ Title: Products
 </div>
 
 
+{{ banner("Uptime Monitoring Alternatives",
+  "Compare Uptime.com to website monitoring software alternatives.",
+  "bg-white",
+  "bg-success"
+)}}
+
+
+<div class="container bg-white mb-5">
+  <div class="row mb-5">
+    {{ product("{filename}better-uptime-alternative.md",
+      "{static}/images/Better_Uptime_vs_Uptime.com_Top_Monitoring_Alternative.png",
+      "Better Uptime Alternative",
+      "Why us? Enterprise monitoring, advanced tools, human support."
+    )}}
+
+    {{ product("{filename}catchpoint-alternative.md",
+      "{static}/images/Catchpoint_vs_Uptime.com_Top_Monitoring_Alternative.png",
+      "Catchpoint Alternative",
+      "Why us? Minimal false alarms, less clutter, more savings."
+    )}}
+
+    {{ product("{filename}datadog-alternative.md",
+      "{static}/images/Datadog_vs_Uptime.com_Top_Monitoring_Alternative.png",
+      "DataDog Alternative",
+      "Why us? Lower costs, user friendly tools, less false alarms."
+    )}}  
+  </div>
+  <div class="row mb-5">
+    {{ product("{filename}pingdom-alternative.md",
+      "{static}/images/Pingdom_vs_Uptime.com_Top_Monitoring_Alternative.png",
+      "Pingdom Alternative",
+      "Why us? Better monitoring, alerts, support, and affordability."
+    )}}
+
+    {{ product("{filename}site24x7-alternative.md",
+      "{static}/images/Site24x7_vs_Uptime.com_Top_Monitoring_Alternative.png",
+      "Site24x7 Alternative",
+      "Why us? Easier setup, less false alarms, more responsive support."
+    )}} 
+
+    {{ product("{filename}uptime-robot-alternative.md",
+      "{static}/images/UptimeRobot_vs_Uptime.com_Top_Monitoring_Alternative.png",
+      "Uptime Robot Alternative",
+      "Why us? Advanced tools, better support, less false alarms."
+    )}}  
+  </div>
+  <div class="row mb-5">
+    {{ product("{filename}uptrends-alternative.md",
+      "{static}/images/Uptrends_vs_Uptime.com_Top_Monitoring_Alternative.png",
+      "Uptrends Alternative",
+      "Why us? Easier setup, less false alarms, top-rated support."
+    )}}
+
+     <div class="col p-3 m-1">
+     </div> 
+
+     <div class="col p-3 m-1">
+     </div> 
+  </div>
+</div>
+
+
 {{ banner("Uptime Monitoring For Industries",
   "Learn how Uptime.com helps various industries with website performance.",
   "bg-white",

@@ -13,7 +13,7 @@ Title: Better Uptime Alternative
 
 
 {% from 'banner.html' import banner %} 
-{{ banner("<span class='text-success'>Don't just take our word for it",
+{{ banner("<span class='text-success'>Don't just take our word for it</span>",
   "See how we compare in functionality and user feedback.",
   "bg-light-gray",
   "bg-success"
@@ -42,7 +42,7 @@ Title: Better Uptime Alternative
       ("Product Direction", "✓", ""),
       ("Quality of Support", "✓", ""),
       ("Multi-Site Monitoring", "✓", ""),
-      ("Alerting", "✓", "")
+      ("Multi-Channel Alerting", "✓", "")
     )
   )}}
   <hr class="mt-5 bg-success">
@@ -55,7 +55,7 @@ Title: Better Uptime Alternative
 "Trusted to stay up",
 "By thousands of customers who love the quality, stability, and reliability of our award-winning platform and people.
 
-<br/>By industry experts like G2 and TechRadar who have named us one of the world’s best web monitoring solutions.",
+<br/><br/>By industry experts like G2 and TechRadar who have named us one of the world’s best web monitoring solutions.",
 "bg-success") }}
 
 {{ image_block("right", "{static}/images/Add_HTTP(S)_Check_400x508.gif",
