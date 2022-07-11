@@ -1,0 +1,23 @@
+{% macro testimonial_compare(tuple_left, tuple_right) -%}
+<div class="container-fluid mt-5 bg-success">
+  <div class="container py-5">
+    <div class="row my-5">
+      <div class="col">
+        <h2 class="text-white text-center">Compare Peer Reviews</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <img loading="lazy" src="{{ tuple_left[0] }}" class="img-fluid">
+        <p class="subheading text-white font-weight-medium text-center">"{{ tuple_left[1] }}"</p>
+        <p class="subheading text-dark">"{{ tuple_left[2] }}"</p>
+      </div>
+      <div class="col">
+        <img loading="lazy" src="{{ tuple_right[0] }}" class="img-fluid">
+        <p class="subheading text-white font-weight-medium text-center">"{{ tuple_right[1] }}"</p>
+        <p class="subheading text-dark">"{{ tuple_right[2] }}"</p>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endmacro %}

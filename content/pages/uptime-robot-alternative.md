@@ -620,7 +620,7 @@ css: uptime-robot.css
                     <div id="hs_cos_wrapper_module_16317622258765" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src={static}/images/Reduce_False_Website_Downtime_Outage_False_Positives_with%20_Uptime.com_1160x680.webp" alt="Reduce Website Uptime Monitoring False Alarms for Outages with Uptime.com" width="100%" style="max-width: 580px; max-height: 340px">
+                          <img loading="lazy" src={static}/images/Reduce_False_Website_Downtime_Outage_False_Positives_with_Uptime.webp" alt="Reduce Website Uptime Monitoring False Alarms for Outages with Uptime.com" width="100%" style="max-width: 580px; max-height: 340px">
                         </div>
                       </div>
                     </div>

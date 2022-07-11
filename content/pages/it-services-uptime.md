@@ -32,7 +32,7 @@ Title: IT Services Uptime
 "Designate who gets immediately notified of downtime and if/when escalations occur via call, SMS, email, and tools like Slack and Microsoft Teams.",
 "bg-success") }}
 
-{{ image_block("left", "{static}/images/Reduce_False_Website_Downtime_Outage_False_Positives_with%20_Uptime.com_1160x680.webp",
+{{ image_block("left", "{static}/images/Reduce_False_Website_Downtime_Outage_False_Positives_with_Uptime.webp",
 "ACCURATE OUTAGE NOTIFICATIONS",
 "Minimize false alarms",
 "Trust that our monitoring checks are double-checked from a minimum of 5 locations and won’t alert during maintenance windows. If you’re notified – there’s a reason.",

@@ -9,6 +9,7 @@ lib
 output
 bin
 .bin
+docs/theme/scss
 
 .sass-cache
 .webassets-cache
