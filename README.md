@@ -41,6 +41,15 @@ $ git push origin master
 
 Pushing the updated `/docs` folder to the `master` branch deploys to GitHub.
 
+# Before release
+
+## Include missing filters
+
+The following filters will minify assets and increase build time dramatically
+
+- `jsmin` for js assets
+- `cssmin` for css assets
+
 # TODO
 
 - Use jinja to make a better logos.html template based on the `edu-websites-uptime.md` file.
