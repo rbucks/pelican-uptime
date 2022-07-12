@@ -7,9 +7,11 @@ __pycache__
 # pelican related
 lib
 output
+output/*
 bin
 .bin
 docs/theme/scss
+docs/theme/scss/*
 
 .sass-cache
 .webassets-cache
