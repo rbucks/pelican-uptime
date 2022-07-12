@@ -373,6 +373,24 @@ body {
     }
 }
 
+.sidebar {
+    background-color: $brand-light-gray;
+    font-size: 15px;
+    font-family: Barlow;
+    line-height: 25.5px;
+
+    h3 {
+        font-size: 1.2rem;
+        font-style: normal;
+        font-weight: normal;
+        font-family: Barlow;
+        color: #000;
+        text-decoration: none;
+        margin-bottom: 15px;
+        margin-top: 40px;
+    }
+}
+
 //
 // Banners
 //
