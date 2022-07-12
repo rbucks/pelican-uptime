@@ -17765,6 +17765,21 @@ body.body-white {
   font-size: 16px;
   line-height: 24px; }
 
+.sidebar {
+  background-color: #e9e7f3;
+  font-size: 15px;
+  font-family: Barlow;
+  line-height: 25.5px; }
+  .sidebar h3 {
+    font-size: 1.2rem;
+    font-style: normal;
+    font-weight: normal;
+    font-family: Barlow;
+    color: #000;
+    text-decoration: none;
+    margin-bottom: 15px;
+    margin-top: 40px; }
+
 .banner {
   min-height: 370px; }
 
