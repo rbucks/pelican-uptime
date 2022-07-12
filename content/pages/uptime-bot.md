@@ -1,12 +1,7 @@
 Title: Uptime Bot
 
-{% from 'banner.html' import banner %} 
-{{ banner("What is Uptimebot?",
-  "",
-  "bg-white",
-  "bg-success"
-)}}
-
+<h1 class="mt-5 text-center">What is Uptimebot?</h1>
+<hr class="my-5 bg-success w-25">
 <div class="container bg-white my-5">
   <p>Uptimebot was Uptime.com&rsquo;s autonomous uptime detection robot, which used to periodically visit websites across the web and check the uptime of each site. This bot crawled the web from a cluster of computers, accessing thousands of websites each day.</p>
   <p>This data enabled companies and website owners alike to better understand the uptime and response time of their site(s). This bot was decommissioned on June 27, 2019.</p>

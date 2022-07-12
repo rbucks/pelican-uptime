@@ -1,12 +1,7 @@
 Title: GDPR
 
-{% from 'banner.html' import banner %} 
-{{ banner("Protecting Your Data Privacy and Security",
-  "",
-  "bg-white",
-  "bg-success"
-)}}
-
+<h1 class="mt-5 text-center">Protecting Your Data Privacy and Security</h1>
+<hr class="my-5 bg-success w-25">
 <div class="container bg-white mb-5">
   <p>As of May 25, 2018,&nbsp;<a href="https://ec.europa.eu/info/law/law-topic/data-protection_en" target="_blank" rel="noopener">General Data Protection Regulation</a>&nbsp;(GDPR) became fully enforceable across the European Union (EU). We are taking important steps to become GDPR compliant as we value the data of our users irrespective of their geographical location. GDPR compliance is also not restricted to only EU companies.</p>
   <p>This page outlines important details of GDPR, as well as the steps Uptime.com has taken to become compliant.</p>

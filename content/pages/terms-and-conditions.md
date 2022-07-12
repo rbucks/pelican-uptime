@@ -1,12 +1,7 @@
 Title: Terms And Conditions
 
-{% from 'banner.html' import banner %} 
-{{ banner("Uptime.com Terms &amp; Conditions",
-  "",
-  "bg-white",
-  "bg-success"
-)}}
-
+<h1 class="mt-5 text-center">Uptime.com Terms &amp; Conditions</h1>
+<hr class="my-5 bg-success w-25">
 <div class="container bg-white my-5">
   <p>These Uptime.com LLC Service Terms (these &ldquo;<strong>Service Terms</strong>&rdquo;) are between Uptime.com LLC, a Delaware limited liability company (&ldquo;Uptime.com&rdquo;) and the Uptime.com customer who submits an Order for Uptime.com&rsquo;s services (&ldquo;<strong>Customer</strong>&rdquo;).</p>
   <p>Capitalized words in these Service Terms have special meanings given in the Section where they are first used or in Section 11 (<em>Definitions)</em>.</p>

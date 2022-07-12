@@ -1,12 +1,7 @@
 Title: Privacy Policy
 
-{% from 'banner.html' import banner %} 
-{{ banner("Uptime.com Privacy Policy",
-  "",
-  "bg-white",
-  "bg-success"
-)}}
-
+<h1 class="mt-5 text-center">Uptime.com Privacy Policy</h1>
+<hr class="my-5 bg-success w-25">
 <div class="container bg-white my-5">
   <p>Here at Uptime.com, we take your privacy seriously and will only collect and/or use the information below in accordance with this Privacy Policy (&ldquo;Policy&rdquo;). By visiting our website and/or enrolling in our services, you agree to be bound by the terms of this Policy.</p>
   <p>This Privacy Policy explains how we collect, use, share and protect your personal data.</p>
