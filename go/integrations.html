@@ -451,5 +451,70 @@ s.parentNode.insertBefore(b, s);})(window.lintrk);
 <script>(function(w,d,s){w._uptime_rum={};w._uptime_rum.uuid='72S7-2FCD991A96C9060C';w._uptime_rum.url='https://rum.uptime.com/rum/record-data';s=document.createElement('script');s.async=1;s.src='https://uptime.com/static/rum/compiled/rum.js';d.getElementsByTagName('head')[0].appendChild(s);})(window,document);</script>
 <script>(function(w,d,s){w._uptime_rum2={};w._uptime_rum2.errors=[];w._uptime_rum2.uuid='NAOP-AD7104F1986BAE0E';w._uptime_rum2.url='https://rumcollector.uptime.com';s=document.createElement('script');s.async=1;s.src='https://rum.uptime.com/static/rum/compiled/v2/rum.js';d.getElementsByTagName('head')[0].appendChild(s);w.addEventListener('error',function(e){w._uptime_rum2.errors.push({t:new Date(),err:e})});})(window,document);</script>
 
+
+/**
+ * This is a Javascript snippet for use inside Hubspot CMS templates, which
+ * makes an Ajax call to the Django platform with any ad tracking parameters
+ * (e.g. utm_source, gclid etc) so they can be saved by `SignupAnalyticsMiddleware`.
+ *
+ * Add this to the HEADER sections of the relevant base templates in Hubspot CMS:
+ * <script src="https://uptime.com/static/js/hubspot/uptime-hubspot-cms-analytics.js" async></script>
+ */
+ <script>
+(function() {
+    var fields = [
+        'source',
+        'referer',
+        'keyword',
+        'placement',
+        'gclid',
+        'msclkid',
+        'fbclid',
+        'utm_campaign',
+        'utm_source'
+    ];
+    var baseURL = window.location.protocol + '//' + window.location.host;
+    var qs = window.location.search.substr(1).split('&');
+    var matches = qs.filter(function(param) { return fields.indexOf(param.split('=')[0]) >= 0; });
+    var hasReferrer = document.referrer && !document.referrer.startsWith(baseURL);
+    if (!matches.length && !hasReferrer) {
+        return;
+    }
+    var url = (baseURL + '/accounts/login?referer=' +
+                 encodeURIComponent(document.referrer) +
+                 '&' + window.location.search.substr(1));
+    var r = new XMLHttpRequest();
+    r.open('GET', url);
+    r.setRequestHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+    r.send();
+}());
+</script>
+
+/**
+ * This is a Javascript snippet for use inside Hubspot CMS templates, copies
+ * submitted form parameters (email, name, etc) to a cookie for transfer to
+ * the main platform's register page.
+ *
+ * Add this to the FOOTER sections of the relevant base templates in Hubspot CMS:
+ * <script src="https://uptime.com/static/js/hubspot/uptime-hubspot-cms-forms.js" defer></script>
+ */
+<script>
+$(window).on('load', function() {
+    $('form.hs-form').on('submit.uptime', function(e) {
+        var formData = $(this).serializeArray();
+        var objData = {};
+        formData.forEach(function(kvp) {
+            if (kvp.name.indexOf('hs_') !== 0) {
+                objData[kvp.name] = kvp.value;
+            }
+        });
+        var date = new Date();
+        date.setTime(date.getTime() + 5 * 60 * 1000);
+        var cookie = 'hubspot_cms_form_submission=' + encodeURIComponent(JSON.stringify(objData)) + '; expires=' + date.toGMTString() + '; path=/; SameSite=Lax';
+        //console.log(cookie);
+        document.cookie = cookie;
+    });
+});
+</script>
 </body>
 </html>
