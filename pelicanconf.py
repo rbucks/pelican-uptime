@@ -34,6 +34,7 @@ PAGE_URL = 'go/{slug}'
 PAGE_SAVE_AS = 'go/{slug}.html'
 
 # CATEGORY_SAVE_AS = TAG_SAVE_AS = AUTHOR_SAVE_AS = DRAFT_SAVE_AS = ARTICLE_SAVE_AS = #''
+# title does not always correspond to URL
 FILENAME_METADATA = '(?P<title>.*)'
 
 # Feed generation is usually not desired when developing
