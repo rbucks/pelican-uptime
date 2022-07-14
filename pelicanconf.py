@@ -51,4 +51,4 @@ RELATIVE_URLS = False
 
 # Jinja2content plugin
 JINJA2CONTENT_TEMPLATES = ['content']
-LOAD_CONTENT_CACHE = True
+LOAD_CONTENT_CACHE = False
