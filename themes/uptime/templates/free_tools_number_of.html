@@ -1,13 +1,39 @@
-{% macro free_tools_top(note, title, desc, content, img) -%}
+{% macro free_tools_number_of(title, subtitle, start, rate) -%}
+<script>
+function initializeCounters() {
+  $('[data-counter]').each(function () {
+    var container = $(this);
+    var cssClass = container.data('class') || 'banner-counter-digit';
+    var start = parseFloat(container.data('start')) || 0;
+    var rate = parseFloat(container.data('rate')) || 1;
+    var hoursSince2015 = (moment.utc() - moment.utc('20150101')) / 1000 / 60 / 60;
+    var value = Math.round(start + rate * hoursSince2015);
+
+    for (var i = 1; value > 0; i++) {
+      var elem = $('<span/>').addClass(cssClass).text(parseInt(value % 10));
+
+      if (i % 3 == 0) {
+        elem.addClass('ml-3');
+      }
+
+      container.prepend(elem);
+      value = Math.floor(value / 10);
+    }
+  });
+}
+
+$(document).ready(initializeCounters);
+</script>
 <div class="bg-green py-5">
     <div class="container">
       <div class="row">
         <div class="col-md-5 mb-4 mb-md-0" style="padding: 2px 0;">
-          <h2 class="font-24 font-weight-semibold text-white"># of pages analyzed (and counting)...</h2>
-          <p class="text-white mb-0" style="opacity: 0.65;">ensure your site is optimized for the speed visitors expect.</p>
+          <h2 class="font-24 font-weight-semibold text-white">{{title}}.</h2>
+          <p class="text-white mb-0" style="opacity: 0.65;">{{subtitle}}</p>
         </div>
         <div class="col-md-7">
-          <div data-counter="" data-start="231000000" data-rate="1767.34" class="d-flex h-100 justify-content-md-end align-items-center"><span class="banner-counter-digit ml-3">3</span><span class="banner-counter-digit">4</span><span class="banner-counter-digit">7</span><span class="banner-counter-digit ml-3">7</span><span class="banner-counter-digit">4</span><span class="banner-counter-digit">4</span><span class="banner-counter-digit ml-3">0</span><span class="banner-counter-digit">6</span><span class="banner-counter-digit">1</span></div>
+          <div data-counter="" data-start="{{start}}" data-rate="{{rate}}" class="d-flex h-100 justify-content-md-end align-items-center">
+          </div>
         </div>
       </div>
     </div>

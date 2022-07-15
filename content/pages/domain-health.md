@@ -17,6 +17,7 @@ Title: Domain Health
 <div class="body-marketing">
 {% include 'free_tools_navigation.html' %}
 {% from 'free_tools_top.html' import free_tools_top %}
+{% from 'free_tools_number_of.html' import free_tools_number_of %}
 {{
   free_tools_top(
     "WEBSITE PERFORMANCE MONITORING",
@@ -25,5 +26,13 @@ Title: Domain Health
     "<div id=\"dcontent\"></div>",
     "{static}/images/FreeTools_Domain_Health_Test.gif",
     )
+}}
+{{
+  free_tools_number_of(
+    "# of domains analyzed (and counting)...",
+    "ensure every facet of your site is up and operational.",
+    0,
+    373.37,
+  )
 }}
 </div>
