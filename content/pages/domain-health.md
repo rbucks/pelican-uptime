@@ -23,9 +23,25 @@ Title: Domain Health
     "WEBSITE PERFORMANCE MONITORING",
     "Free domain health test for any website",
     "Get peace of mind by monitoring your domain in its entirety, web, DNS, email, blacklist and more.",
-    "<div id=\"dcontent\"></div>",
+    '<form method="post" class="mb-6">
+     <input type="hidden" name="csrfmiddlewaretoken" value="ZCxmaIeYUrGWkCg3qdyhyzWoVIa0rMHw7POWr7TUd4UkVuhicoTVAzEKSyjyiAfq">
+    <div class="form-group">
+    <div class="input-group ">
+    <input type="text" name="url" class="form-control " value="http://">         
+  <input type="hidden" name="abt_tm" value="1657875786">
+  <label style="display: none;"><input type="checkbox" name="abt_accept_terms" value="1">
+  I am an electronic being and I accept the terms &amp; conditions for electronic beings only.</label>
+
+  <div class="input-group-append">
+  <input type="submit" class="btn btn-secondary px-4" value="Start Testing">
+   </div>
+  </div>
+  <div class="invalid-feedback d-block"></div>
+</div>
+    </form>',
     "{static}/images/FreeTools_Domain_Health_Test.gif",
     )
+
 }}
 {{
   free_tools_number_of(
@@ -35,4 +51,34 @@ Title: Domain Health
     373.37,
   )
 }}
+
+<div class="container">
+  <div class="row">
+  <div class="col-md-5 py-6">
+          
+  <h3 class="mb-4">Test global uptime for</h3>
+  <div>
+      <dl class="spaced">
+        <dt>Remote IP</dt>
+        <dd>See what IP your website is served from in a particular region.</dd>
+        <dt>DNS Lookup</dt>
+        <dd>Monitor how long  DNS name resolution took from start to finish.</dd>
+        <dt>Connect</dt>
+        <dd>Monitor how long it took for the TCP connection to your server to complete.</dd>
+        <dt>Redirect Time</dt>
+        <dd>Get the total time for how long all redirection steps (such as name lookup, connection, pre-transfer and transfer) took before the final transaction began.</dd>
+        <dt>TLS Connect</dt>
+        <dd>Monitor how long it took to complete the  SSL/SSH handshake to your server.</dd>
+        <dt>Request Time</dt>
+        <dd>Measure how long it took for file transfers to begin, including all pre-transfer commands and negotiations specific to the particular protocol(s) involved.</dd>
+        <dt>First Byte</dt>
+        <dd>See how long it took for the first byte to transfer, including the time the server needed to calculate the result.</dd>
+        <dt>Total Time</dt>
+        <dd>Get the total time it took to download the URL.</dd>
+      </dl>
+    </div>
+    </div>
+  </div>
+   <div class="col-md-5 py-6">
+   </div>
 </div>
