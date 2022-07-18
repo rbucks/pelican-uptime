@@ -1,19 +1,17 @@
 Title: Monitoring
 
-{% from 'cta_top.html' import cta_top %} 
+{% from 'cta_top.html' import cta_top %}
 {{ cta_top("Website Monitoring Checks",
   "Configure sophisticated uptime monitoring checks without sacrificing simplicity.",
   "{static}/images/Web_Monitoring_Software_1150x920.gif"
 )}}
 
-
-{% from 'banner.html' import banner %} 
+{% from 'banner.html' import banner %}
 {{ banner("1 in 4 visitors",
   "will abandon your site for a competitor's after just one failed web transaction.",
   "bg-light-gray",
   "bg-warning"
 )}}
-
 
 {% from 'image_block.html' import image_block %}
 {{ image_block("left", "{static}/images/Add_Web_Monitoring_Checks_900x1020.webp",
@@ -52,17 +50,15 @@ Title: Monitoring
 "We've got your back. Our 100% human support team is rated web monitoring's best and available 24/7/365 so you spend less time finding help and more time solving problems.",
 "bg-warning") }}
 
-
 {% from 'testimonial.html' import testimonial %}
 {{ testimonial("{static}/images/Uptime.com_User_Review_for_Website_Uptime_Performance_Monitoring_Mike.webp",
   "bg-success",
   "Clean and simple yet robust set of monitoring tools - from a very happy user!",
   "Don’t mistake their simplicity for lack of features. Their platform is extremely robust and they have features that allow monitoring on items I didn’t even know was possible.")}}
 
-
-{% from 'cta_bottom.html' import cta_bottom %} 
+{% from 'cta_bottom.html' import cta_bottom %}
 {{ cta_bottom("Check website performance now",
-  ("Add monitoring checks in minutes", 
+  ("Add monitoring checks in minutes",
   "Easily set up synthetic monitoring",
   "Test via external and private locations")
   )}}
