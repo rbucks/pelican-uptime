@@ -3,19 +3,19 @@
 
 // Font Awesome
 $fa-font-path: '../fonts';
-@import './node_modules/@fortawesome/fontawesome-pro/scss/fontawesome';
-@import './node_modules/@fortawesome/fontawesome-pro/scss/brands';
-@import './node_modules/@fortawesome/fontawesome-pro/scss/regular';
-@import './node_modules/@fortawesome/fontawesome-pro/scss/solid';
-@import './node_modules/@fortawesome/fontawesome-pro/scss/light';
+@import './fortawesome/fontawesome-pro/scss/fontawesome';
+@import './fortawesome/fontawesome-pro/scss/brands';
+@import './fortawesome/fontawesome-pro/scss/regular';
+@import './fortawesome/fontawesome-pro/scss/solid';
+@import './fortawesome/fontawesome-pro/scss/light';
 
 // Bootstrap + Variables
 @import '_bootstrap_vars';
-@import './node_modules/bootstrap/scss/bootstrap';
+@import './bootstrap/scss/bootstrap';
 @import '_bootstrap_mods';
 
 // Select2
-@import './node_modules/select2/src/scss/core';
+@import './select2/scss/core';
 @import 'vendor_mods/_select2_mods';
 
 // Bootstrap Slider
@@ -39,8 +39,8 @@ $fa-font-path: '../fonts';
 @import 'vendor_mods/_hubspot_overrides.scss';
 
 //flag-icon-css
-$flag-icon-css-path: '../img/flags';
-@import  './node_modules/flag-icon-css/sass/flag-icon.scss';
+$flag-icon-css-path: './flag-icon-css/flags';
+@import  './flag-icon-css/sass/flag-icon.scss';
 
 // Reusable Utilities & Components
 @import '_utils';
