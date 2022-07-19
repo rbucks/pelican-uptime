@@ -1,0 +1,17 @@
+{% macro free_tools_top(note, title, desc, content, img) -%}
+<div class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="font-12 pt-5 pb-2">{{note}}</div>
+        <h1 class="font-32 mb-4" style="max-width: 380px;">{{title}}</h1>
+        <p class="mb-5">{{desc}}</p>
+        {{content}}
+      </div>
+      <div class="col">
+        <img loading="lazy" src="{{ img }}" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</div>
+{%- endmacro %}

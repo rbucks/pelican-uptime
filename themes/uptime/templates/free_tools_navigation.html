@@ -1,0 +1,10 @@
+{% macro free_tools_navigation(active) %}
+<div class="bg-primary pt-4 d-none d-md-block">
+  <div class="container">
+    <nav class="nav nav-tabs nav-tabs-gray">
+      <a class="nav-item nav-link {% if active == 'health'%}active{% endif %}" href="/domain-health">Domain Health Check</a>
+      <a class="nav-item nav-link {% if active == 'speed'%}active{% endif %}" href="/freetools/website-speed-test">Website Speed Test</a>
+      <a class="nav-item nav-link  {% if active == 'test'%}active{% endif %}" href="/freetools/global-uptime-test">Global Uptime Test</a>
+  </nav></div>
+</div>
+{%- endmacro %}
