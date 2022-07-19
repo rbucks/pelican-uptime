@@ -1,0 +1,26 @@
+{% macro table_compare(company, rows) -%}
+<table class="table subheading w-75 mx-auto">
+  <thead class="bg-success text-white">
+    <tr>
+      <th scope="col">Functionality</th>
+      <th scope="col" class="text-center">Uptime.com</th>
+      <th scope="col" class="text-center">{{ company }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in rows %}
+      {% if row[0] == "G2" %}
+      <tr class="bg-success text-white text-center">
+        <td colspan="3">G2 User Ratings</td>
+      </tr>
+      {% else %}
+      <tr>
+        <td>{{ row[0] }}</td>
+        <td class="text-center">{{ row[1] }}</td>
+        <td class="text-center">{{ row[2] }}</td>
+      </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
+{%- endmacro %}

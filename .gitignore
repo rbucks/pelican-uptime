@@ -1,0 +1,19 @@
+.DS_Store
+.npmrc
+
+__pycache__
+
+# pelican related
+lib
+output
+output/*
+bin
+.bin
+docs/theme/scss
+
+.sass-cache
+.webassets-cache
+node_modules
+
+# python
+venv

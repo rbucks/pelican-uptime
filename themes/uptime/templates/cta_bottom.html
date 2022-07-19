@@ -1,0 +1,29 @@
+{% macro cta_bottom(title, bullets, bg_color='bg-success') -%}
+<div class="container-fluid mt-5 bg-white">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col-5">
+        <h2 class="text-success">{{ title }}</h2>
+        <ul class="subheading">
+          {% for bullet in bullets %}
+          <li>{{ bullet }}</li>
+          {% endfor %}
+        </ul>
+        <hr class="mt-5 ml-0 {{ bg_color }}">
+      </div>
+      <div class="col my-auto">
+        <script>
+          hbspt.forms.create({
+            region: "na1",
+            portalId: "5040532",
+            formId: "8aa882ff-3c16-4f7c-b426-44d05e3ddbd4",
+            redirectUrl: "https://uptime.com/accounts/register",
+            cssClass: "form-group cta-full",
+            submitButtonClass: "btn btn-success btn-lg mt-2",
+          });
+        </script>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endmacro %}

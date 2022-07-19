@@ -1,0 +1,22 @@
+{% macro image_block(direction, src, label='', title='', sub='', color='', image_class='') -%}
+<div class="container bg-white py-5 mt-5">
+  <div class="row">
+    {% if direction == 'left' %}
+    <div class="col my-auto pr-5">
+      <img loading="lazy" src="{{ SITEURL }}{{ src }}" class="img-fluid {{ image_class }}">
+    </div>
+    {% endif %}
+    <div class="col my-auto">
+      <p class="label mb-0">{{ label }}</p>
+      <h2 class="mb-4 leader">{{ title }}</h2>
+      <p class="subheading">{{ sub }}</p>
+      <hr class="mt-5 ml-0 {{ color }}">
+    </div>
+    {% if direction == 'right' %}
+    <div class="col my-auto pl-5">
+      <img loading="lazy" src="{{ SITEURL }}{{ src }}" class="img-fluid {{ image_class }}">
+    </div>
+    {% endif %}
+  </div>
+</div>
+{%- endmacro %}

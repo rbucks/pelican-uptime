@@ -1,0 +1,79 @@
+{% macro free_tools_recents_table(headers, rows) -%}
+<div class="white-block p-4" style="margin-top: -15px;">
+    <h4 class="mb-4">Recent Tests</h4>
+    
+<table class="table listing-table table-responsive-sm">
+<thead>
+<tr>
+  {% for header in headers %}
+    <th {% if loop.last %}class="text-center"{% endif %}>{{header}}</th>
+  {% endfor %}
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><a href="/domain-health/check/9a96a74b8bc9154e">www.spider.com</a></td>
+  <td>1&nbsp;hour, 11&nbsp;minutes ago</td>
+  <td class="text-center">4</td>
+</tr>
+
+<tr>
+  <td><a href="/domain-health/check/32958c449943c723">aomindfulness.org</a></td>
+  <td>1&nbsp;hour, 15&nbsp;minutes ago</td>
+  <td class="text-center">3</td>
+</tr>
+
+<tr>
+  <td><a href="/domain-health/check/73146949a4e5b8a0">lionbridge.com</a></td>
+  <td>3&nbsp;hours, 11&nbsp;minutes ago</td>
+  <td class="text-center">3</td>
+</tr>
+
+<tr>
+  <td><a href="/domain-health/check/1052644685a2f53e">fedfiling.com</a></td>
+  <td>3&nbsp;hours, 14&nbsp;minutes ago</td>
+  <td class="text-center">1</td>
+</tr>
+
+<tr>
+  <td><a href="/domain-health/check/fd77d540a65ea3df">hillventures.in</a></td>
+  <td>3&nbsp;hours, 36&nbsp;minutes ago</td>
+  <td class="text-center">2</td>
+</tr>
+
+<tr>
+  <td><a href="/domain-health/check/8cf5784f936f2bee">solarprotect.de</a></td>
+  <td>11&nbsp;hours, 28&nbsp;minutes ago</td>
+  <td class="text-center">1</td>
+</tr>
+
+<tr>
+  <td><a href="/domain-health/check/8258434f8e44e60f">solarprotect.d</a></td>
+  <td>11&nbsp;hours, 29&nbsp;minutes ago</td>
+  <td class="text-center">4</td>
+</tr>
+
+<tr>
+  <td><a href="/domain-health/check/a48030428c6b8b20">walmart.com</a></td>
+  <td>14&nbsp;hours, 41&nbsp;minutes ago</td>
+  <td class="text-center">2</td>
+</tr>
+
+<tr>
+  <td><a href="/domain-health/check/a9bdef488d313366">fernandez.com.mx</a></td>
+  <td>15&nbsp;hours, 25&nbsp;minutes ago</td>
+  <td class="text-center">2</td>
+</tr>
+
+<tr>
+  <td><a href="/domain-health/check/9452e647843f90de">cviewministries.org</a></td>
+  <td>16&nbsp;hours, 3&nbsp;minutes ago</td>
+  <td class="text-center">2</td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+{%- endmacro %}

@@ -1,0 +1,6 @@
+{% macro title(title, subtitle, text_color='text-dark', size=1 ) -%}
+<div class="container-fluid p-5">
+  <h{{size}} class="text-center {{ text_color }}">{{ title }}</h{{size}}>
+  <p class="subheading text-center {{ text_color }}">{{ subtitle }}</p>
+</div>
+{%- endmacro %}

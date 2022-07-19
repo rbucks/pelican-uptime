@@ -1,0 +1,501 @@
+$statuspage-up: $green;
+$statuspage-down: #eb5757;
+$statuspage-warning: #f2994a;
+$statuspage-operational: $statuspage-up;
+$statuspage-major-outage: $statuspage-down;
+$statuspage-partial-outage: $statuspage-warning;
+$statuspage-degraded-performance: #f2c94c;
+$statuspage-under-maintenance: #bbb;
+$statuspage-notification: $light-blue;
+
+#statuspagesListing, #statuspagesManage, #statuspagesDisplay {
+    .text-success { color: $statuspage-up; }
+    .text-warning { color: $statuspage-warning; }
+    .text-danger { color: $statuspage-down; }
+
+    .status-icon::before {
+        @extend .fas;
+        @extend .fa-fw;
+        margin-right: $spacer-2;
+    }
+    .status-icon.operational::before { color: $statuspage-operational; content: fa-content($fa-var-check-circle); }
+    .status-icon.major-outage::before { color: $statuspage-major-outage; content: fa-content($fa-var-times-circle); }
+    .status-icon.partial-outage::before { color: $statuspage-partial-outage; content: fa-content($fa-var-exclamation-triangle); }
+    .status-icon.degraded-performance::before { color: $statuspage-degraded-performance; content: fa-content($fa-var-chart-line); }
+    .status-icon.under-maintenance::before { color: $statuspage-under-maintenance; content: fa-content($fa-var-wrench); }
+
+    .incident-icon::before {
+        @extend .fas;
+        @extend .fa-fw;
+        width: 24px;
+        height: 24px;
+        border-radius: 12px;
+        margin-right: $spacer-2;
+        padding-top: 5px;
+        color: $body-color;
+        background-color: $grey;
+    }
+    .incident-icon.investigating::before { content: fa-content($fa-var-exclamation); }
+    .incident-icon.identified::before { content: fa-content($fa-var-flag); }
+    .incident-icon.monitoring::before { content: fa-content($fa-var-binoculars); }
+    .incident-icon.resolved::before { content: fa-content($fa-var-check); }
+    .incident-icon.notification::before { content: fa-content($fa-var-info); }
+    .incident-icon.maintenance::before { content: fa-content($fa-var-wrench); }
+
+    .component-list {
+        @extend .font-14;
+
+        &.overflow-x-auto {
+            overflow-x: auto;
+        }
+
+        .component-list-scroller {
+            width: 100%;
+            min-width: 600px;
+        }
+
+        .component-header {
+            padding: $spacer-1 2rem;
+        }
+
+        .component {
+            position: relative;
+            padding: 10px 2rem 9px 2rem;
+            border: 1px solid $border-color;
+            border-bottom-width: 0;
+            &:last-child { border-bottom-width: 1px; }
+
+            &.component-group {
+                &.open { box-shadow: 0 2px 5px 0 rgba(24,37,45,0.04); }
+                .row > div:first-child {
+                    font-weight: bold;
+                    cursor: pointer;
+                }
+            }
+
+            .indicator {
+                position: absolute;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                width: 4px;
+                z-index: 1;
+
+                &.up { background-color: $statuspage-up; }
+                &.down { background-color: $statuspage-down; }
+                &.operational { background-color: $statuspage-operational; }
+                &.major-outage { background-color: $statuspage-major-outage; }
+                &.partial-outage { background-color: $statuspage-partial-outage; }
+                &.degraded-performance { background-color: $statuspage-degraded-performance; }
+                &.under-maintenance { background-color: $statuspage-under-maintenance; }
+                &.notification { background-color: $statuspage-notification; }
+            }
+
+            .group-expander {
+                position: absolute;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                z-index: 2;
+                width: 2rem;
+                text-align: center;
+                cursor: pointer;
+
+                &::after {
+                    @extend .fas;
+                    @extend .fa-fw;
+                    content: fa-content($fa-var-caret-right);
+                    position: absolute;
+                    top: 50%;
+                    left: 0.75rem;
+                    margin-top: -7px;
+                }
+            }
+            &.open .group-expander::after { content: fa-content($fa-var-caret-down); }
+
+            .component-name {
+                display: inline-block;
+
+                > a, > span { display: block; }
+
+                > small {
+                    display: block;
+                    color: $text-muted;
+                }
+            }
+        }
+
+        .sub-component-list {
+            display: none;
+            margin-bottom: 10px;
+
+            .component {
+                &:not(:first-child) { border-top-color: $white; }
+
+                .row > div:first-child::before {
+                    content: '';
+                    padding-left: $spacer-3;
+                }
+            }
+        }
+
+        .component-end { border-top: 1px solid $border-color; }
+        .component-group.open + .sub-component-list { display: block; }
+        .component-group.open + .sub-component-list + .component-end  { display: none; }
+    }
+
+    .incident-updates {
+        @extend .font-14;
+        margin-bottom: $spacer-2;
+        padding: 0 0 0 1rem;
+
+        .update {
+            position: relative;
+            padding: 0 0 $spacer-4 0;
+            border-left: 2px solid $border-color;
+
+            &:last-child {
+                padding-bottom: 0;
+                border-left: 0;
+            }
+
+            .update-heading {
+                margin-bottom: $spacer-2;
+
+                .edit {
+                    float: right;
+                    margin-top: $spacer-1;
+                    color: $grey;
+                }
+
+                .name {
+                    font-weight: bold;
+                    margin-right: $spacer-3;
+                }
+
+                .date {
+                    @extend .font-12;
+                    color: $text-muted;
+                }
+            }
+
+            .update-description {
+                color: $text-muted;
+            }
+
+            @include media-breakpoint-up(lg) {
+                .update-heading { margin-left: -7px; }
+                .update-description { margin-left: 25px; }
+            }
+
+        }
+    }
+
+    .incident-list {
+        @extend .font-14;
+
+        .incident {
+            position: relative;
+            padding: 12px 2rem 11px 2rem;
+            border: 1px solid $border-color;
+            border-bottom-width: 0;
+            &.open { box-shadow: 0 2px 5px 0 rgba(24,37,45,0.04); }
+
+            .indicator {
+                position: absolute;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                width: 6px;
+                z-index: 1;
+
+                &.up { background-color: $statuspage-up; }
+                &.down { background-color: $statuspage-down; }
+                &.operational { background-color: $statuspage-operational; }
+                &.major-outage { background-color: $statuspage-major-outage; }
+                &.partial-outage { background-color: $statuspage-partial-outage; }
+                &.degraded-performance { background-color: $statuspage-degraded-performance; }
+                &.under-maintenance { background-color: $statuspage-under-maintenance; }
+                &.notification { background-color: $statuspage-notification; }
+            }
+
+            .incident-expander {
+                position: absolute;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                z-index: 2;
+                width: 4rem;
+                text-align: center;
+                cursor: pointer;
+
+                &::after {
+                    @extend .fas;
+                    @extend .fa-fw;
+                    content: fa-content($fa-var-caret-right);
+                    position: absolute;
+                    top: 50%;
+                    left: 1.25rem;
+                    margin-top: -7px;
+                }
+            }
+            &.open .incident-expander::after { content: fa-content($fa-var-caret-down); }
+
+            .incident-heading {
+                display: inline-block;
+                max-width: 80%;
+                margin: 0 1rem;
+                cursor: pointer;
+
+                .name {
+                    display: inline-block;
+                    max-width: 80%;
+                    margin-right: $spacer-3;
+                    vertical-align: top;
+                    font-weight: bold;
+                }
+
+                .date {
+                    @extend .font-12;
+                    color: $text-muted;
+                }
+            }
+        }
+
+        .incident-details {
+            @extend .incident-updates;
+            position: relative;
+            display: none;
+            padding: 1rem 1.5rem;
+            border: 1px solid $border-color;
+            &:last-child { border-bottom-width: 1px; }
+
+            @include media-breakpoint-up(lg) {
+                .affected-components { border-left: 1px solid $border-color; }
+            }
+        }
+        .incident.open + .incident-details { display: block; }
+
+        .incident-end { border-top: 1px solid $border-color; }
+        .incident.open + .incident-details + .incident-end  { display: none; }
+    }
+}
+
+
+#statuspagesManage {
+    .status-select-box {
+        > a[data-toggle=dropdown] {
+            @extend .font-14;
+            @extend .dropdown-toggle;
+            display: inline-block;
+            width: 100%;
+            max-width: 210px;
+            margin: -0.25rem 0 -0.25rem -0.55rem;
+            padding: 0.25rem 0.5rem;
+            color: $body-color;
+            border: 1px solid $border-color;
+            border-radius: $border-radius;
+
+            &::after {
+                float: right;
+                margin-top: 9px;
+            }
+        }
+
+        > .dropdown-menu {
+            @extend .font-14;
+        }
+    }
+
+    .incident-form {
+        .select2-dropdown { font-size: 14px; }
+        .select2-results__options { max-height: 216px; }
+    }
+
+    .incident-updates {
+        .preview {
+            position: relative;
+            margin: 1.5rem -0.5rem 1.5rem -1.5rem;
+            padding: 0.75rem 1.75rem 0.75rem 1.5rem;
+            border: 1px dashed $grey;
+
+            .preview-label {
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                right: 0;
+                width: 16px;
+                color: $light-4;
+                background-color: $light-2;
+                font-size: 10px;
+                font-weight: $font-weight-semibold;
+                line-height: 16px;
+                text-align: center;
+                text-transform: uppercase;
+                writing-mode: vertical-rl;
+                overflow: hidden;
+            }
+
+            .update {
+                border: none;
+            }
+        }
+
+        .select2-container {
+            font-size: 14px;
+        }
+
+        textarea {
+            font-size: 14px;
+        }
+    }
+}
+
+
+#statuspagesDisplay {
+    .header {
+        img {
+            display: inline-block;
+            height: 35px;
+            padding-right: 16px;
+            border-right: 1px solid $border-color;
+            margin-right: 16px;
+        }
+
+        > h1 {
+            display: inline-block;
+            margin: 0;
+            vertical-align: middle;
+            font-size: 30px;
+            line-height: 35px;
+            font-weight: bold;
+        }
+
+        > .description {
+            @extend .font-14;
+            margin: $spacer-3 0 0 0;
+            color: $text-muted;
+        }
+    }
+
+    #section-content-tab-status, #section-content-tab-history {
+        .status-buttons {
+            position: absolute;
+            top: -60px;
+            right: 0;
+
+            @include media-breakpoint-down(sm) {
+                position: static;
+                margin-bottom: $spacer-3;
+            }
+
+            &.no-tabs {
+                top: -80px;
+            }
+
+            .btn {
+                @extend .btn-sm;
+            }
+        }
+
+        .global-status {
+            @extend .font-18;
+            @extend .text-white;
+            padding: 10px;
+            border-radius: $border-radius;
+            text-align: center;
+
+            &.up { background-color: $statuspage-up; }
+            &.down { background-color: $statuspage-down; }
+        }
+    }
+
+    #section-content-tab-history {
+        .history-date-range-snake {
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: space-between;
+            align-items: center;
+
+            .day {
+                transition: none;
+                display: inline-block;
+                height: 33px;
+                background-color: $statuspage-operational;
+                cursor: pointer;
+
+                &:hover {
+                    border: 2px solid lighten($primary, 10%);
+                }
+
+                &.operational { background-color: $statuspage-operational; }
+                &.major-outage { background-color: $statuspage-major-outage; }
+                &.partial-outage { background-color: $statuspage-partial-outage; }
+                &.degraded-performance { background-color: $statuspage-degraded-performance; }
+                &.under-maintenance { background-color: $statuspage-under-maintenance; }
+                &.notification { background-color: $statuspage-notification; }
+            }
+
+            .snake-popup {
+                position: absolute;
+                top: 30px;
+                width: 260px;
+                z-index: 100;
+                background-color: transparent;
+
+                > .caret {
+                    position: absolute;
+                    top: 8px;
+                    z-index: 99;
+                    width: 10px;
+                    height: 10px;
+                    border: 1px solid $border-color;
+                    border-width: 1px 0 0 1px;
+                    background-color: white;
+                    transform: rotateZ(45deg);
+                }
+
+                &.left {
+                    left: -22px;
+                    > .caret { left: 20px; }
+                }
+
+                &.right {
+                    right: -22px;
+                    > .caret { right: 20px; }
+                }
+
+                > .content {
+                    @extend .font-14;
+                    margin-top: 13px;
+                    border-radius: $border-radius;
+                    box-shadow: 0 5px 10px 0 rgba(24, 37, 45, 0.2);
+
+                    .up { color: $statuspage-up; }
+                    .down { color: $statuspage-down; }
+                }
+            }
+        }
+
+        .history-global-metrics {
+            > div > div {
+                padding: $spacer-4;
+                background-color: $light-2;
+                height: 100%;
+
+                > h6 {
+                    margin: 0 0 $spacer-1 0;
+                    color: $light-4;
+                    font-size: 14px;
+                    font-weight: normal;
+                    text-transform: uppercase;
+                }
+
+                > span {
+                    font-size: 18px;
+                    font-weight: 600;
+                }
+            }
+        }
+    }
+}

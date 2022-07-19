@@ -1,0 +1,29 @@
+
+#sla-report-view {
+    .global-metrics {
+        > div > div {
+            padding: $spacer-4;
+            background-color: $light-2;
+            height: 100%;
+
+            > h6 {
+                margin: 0 0 $spacer-1 0;
+                color: $light-4;
+                font-size: 14px;
+                font-weight: normal;
+                text-transform: uppercase;
+            }
+
+            > span {
+                font-size: 24px;
+                font-weight: 600;
+            }
+        }
+    }
+
+    .checks-table {
+        th:not(:first-child), td:not(:first-child) {
+            text-align: center;
+        }
+    }
+}

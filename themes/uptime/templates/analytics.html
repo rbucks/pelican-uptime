@@ -1,0 +1,120 @@
+<!-- Google Tag Manager -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58186296-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-58186296-1', {
+      'custom_map': {'dimension1': 'user_agent'}
+  });
+  gtag('event', 'send_user_agent', {'user_agent': window.navigator.userAgent});
+</script>
+
+<!-- Global site tag (UET) - Microsoft Ads -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"17522746"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+
+<!--  LinkedIn Analytics -->
+<script type="text/javascript">
+_linkedin_partner_id = "3614292";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3614292&amp;fmt=gif">
+</noscript>
+
+<!-- Reddit Pixel -->
+<script>!function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','t2_gdn4ob1f');rdt('track', 'PageVisit');</script><!-- DO NOT MODIFY --><!-- End Reddit Pixel -->
+
+<!-- StackOverflow Pixel -->
+<script>
+  (function() {
+    var a = String(Math.floor(Math.random() * 10000000000000000));
+    new Image().src = 'https://pubads.g.doubleclick.net/activity;xsp=4869949;ord='+ a +'?';
+  })();
+</script>
+<noscript>
+  <img src="https://pubads.g.doubleclick.net/activity;xsp=4869949;ord=1?" width="1" height="1" border="0">
+</noscript>
+
+<!-- RUM -->
+<script>(function(w,d,s){w._uptime_rum={};w._uptime_rum.uuid='72S7-2FCD991A96C9060C';w._uptime_rum.url='https://rum.uptime.com/rum/record-data';s=document.createElement('script');s.async=1;s.src='https://uptime.com/static/rum/compiled/rum.js';d.getElementsByTagName('head')[0].appendChild(s);})(window,document);</script>
+<script>(function(w,d,s){w._uptime_rum2={};w._uptime_rum2.errors=[];w._uptime_rum2.uuid='NAOP-AD7104F1986BAE0E';w._uptime_rum2.url='https://rumcollector.uptime.com';s=document.createElement('script');s.async=1;s.src='https://rum.uptime.com/static/rum/compiled/v2/rum.js';d.getElementsByTagName('head')[0].appendChild(s);w.addEventListener('error',function(e){w._uptime_rum2.errors.push({t:new Date(),err:e})});})(window,document);</script>
+
+
+<!--
+/**
+ * This is a Javascript snippet for use inside Hubspot CMS templates, which
+ * makes an Ajax call to the Django platform with any ad tracking parameters
+ * (e.g. utm_source, gclid etc) so they can be saved by `SignupAnalyticsMiddleware`.
+ *
+ * Add this to the HEADER sections of the relevant base templates in Hubspot CMS:
+ * <script src="https://uptime.com/static/js/hubspot/uptime-hubspot-cms-analytics.js" async></script>
+ */
+-->
+ <script>
+(function() {
+    var fields = [
+        'source',
+        'referer',
+        'keyword',
+        'placement',
+        'gclid',
+        'msclkid',
+        'fbclid',
+        'utm_campaign',
+        'utm_source'
+    ];
+    var baseURL = window.location.protocol + '//' + window.location.host;
+    var qs = window.location.search.substr(1).split('&');
+    var matches = qs.filter(function(param) { return fields.indexOf(param.split('=')[0]) >= 0; });
+    var hasReferrer = document.referrer && !document.referrer.startsWith(baseURL);
+    if (!matches.length && !hasReferrer) {
+        return;
+    }
+    var url = (baseURL + '/accounts/login?referer=' +
+                 encodeURIComponent(document.referrer) +
+                 '&' + window.location.search.substr(1));
+    var r = new XMLHttpRequest();
+    r.open('GET', url);
+    r.setRequestHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+    r.send();
+}());
+</script>
+
+<!--
+ * This is a Javascript snippet for use inside Hubspot CMS templates, copies
+ * submitted form parameters (email, name, etc) to a cookie for transfer to
+ * the main platform's register page.
+ *
+ * Add this to the FOOTER sections of the relevant base templates in Hubspot CMS:
+ * <script src="https://uptime.com/static/js/hubspot/uptime-hubspot-cms-forms.js" defer></script>
+ */
+ -->
+<script>
+$(window).on('load', function() {
+    $('form.hs-form').on('submit.uptime', function(e) {
+        var formData = $(this).serializeArray();
+        var objData = {};
+        formData.forEach(function(kvp) {
+            if (kvp.name.indexOf('hs_') !== 0) {
+                objData[kvp.name] = kvp.value;
+            }
+        });
+        var date = new Date();
+        date.setTime(date.getTime() + 5 * 60 * 1000);
+        var cookie = 'hubspot_cms_form_submission=' + encodeURIComponent(JSON.stringify(objData)) + '; expires=' + date.toGMTString() + '; path=/; SameSite=Lax';
+        //console.log(cookie);
+        document.cookie = cookie;
+    });
+});
+</script>
