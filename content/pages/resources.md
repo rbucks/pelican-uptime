@@ -77,6 +77,6 @@ css: resources.css
       "User Stories",
       "Read the web monitoring stories and wins of users just like you."
     )}}
-    <div class="col p-3 m-1"/>
+    <div class="col p-3 m-1"></div>
   </div>
 </div>
