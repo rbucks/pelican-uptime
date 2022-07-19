@@ -1,13 +1,14 @@
 Title: Products
 
-{% from 'banner.html' import banner %} 
+{% from 'banner.html' import banner %}
 {{ banner("Uptime Monitoring Products",
   "Explore our top-rated website performance monitoring tools.",
   "bg-white",
   "bg-success"
 )}}
 
-{% from 'product.html' import product %} 
+{% from 'product.html' import product %}
+
 <div class="container bg-white mb-5">
   <div class="row mb-5">
     {{ product("{filename}monitoring.md",
@@ -26,7 +27,8 @@ Title: Products
       "{static}/images/Website_Performance_Monitoring_Reporting_and_Analytics_with_Uptime.com.png",
       "Reporting",
       "Custom dashboards and scheduled uptime performance reports."
-    )}}  
+    )}}
+
   </div>
   <div class="row mb-5">
     {{ product("{filename}real-user-monitoring.md",
@@ -45,17 +47,16 @@ Title: Products
       "{static}/images/Website_Uptime_Performance_Monitoring_Integrations_Uptime.com.png",
       "Integrations",
       "Integrate with dozens of DevOps tools like Slack and PagerDuty."
-    )}}  
+    )}}
+
   </div>
 </div>
-
 
 {{ banner("Uptime Monitoring Alternatives",
   "Compare Uptime.com to website monitoring software alternatives.",
   "bg-white",
   "bg-success"
 )}}
-
 
 <div class="container bg-white mb-5">
   <div class="row mb-5">
@@ -75,7 +76,8 @@ Title: Products
       "{static}/images/Datadog_vs_Uptime.com_Top_Monitoring_Alternative.png",
       "DataDog Alternative",
       "Why us? Lower costs, user friendly tools, less false alarms."
-    )}}  
+    )}}
+
   </div>
   <div class="row mb-5">
     {{ product("{filename}pingdom-alternative.md",
@@ -88,13 +90,14 @@ Title: Products
       "{static}/images/Site24x7_vs_Uptime.com_Top_Monitoring_Alternative.png",
       "Site24x7 Alternative",
       "Why us? Easier setup, less false alarms, more responsive support."
-    )}} 
+    )}}
 
     {{ product("{filename}uptime-robot-alternative.md",
       "{static}/images/UptimeRobot_vs_Uptime.com_Top_Monitoring_Alternative.png",
       "Uptime Robot Alternative",
       "Why us? Advanced tools, better support, less false alarms."
-    )}}  
+    )}}
+
   </div>
   <div class="row mb-5">
     {{ product("{filename}uptrends-alternative.md",
@@ -104,20 +107,19 @@ Title: Products
     )}}
 
      <div class="col p-3 m-1">
-     </div> 
+     </div>
 
      <div class="col p-3 m-1">
-     </div> 
+     </div>
+
   </div>
 </div>
-
 
 {{ banner("Uptime Monitoring For Industries",
   "Learn how Uptime.com helps various industries with website performance.",
   "bg-white",
   "bg-success"
 )}}
-
 
 <div class="container bg-white mb-5">
   <div class="row mb-5">
@@ -137,7 +139,8 @@ Title: Products
       "{static}/images/Financial_Industries_Trust_Uptime.com_Monitoring.png",
       "Financial Services Website Monitoring",
       "Trusted to securely check website speed, errors, and performance."
-    )}}  
+    )}}
+
   </div>
   <div class="row mb-5">
     {{ product("{filename}it-services-uptime.md",
@@ -150,9 +153,10 @@ Title: Products
       "{static}/images/Software_SAAS_B2B_Industries_Trust_Uptime.com_Monitoring.png",
       "SaaS Website Monitoring",
       "Trusted by SaaS brands to monitor website speed and performance."
-    )}} 
+    )}}
 
      <div class="col p-3 m-1">
-     </div> 
+     </div>
+
   </div>
 </div>
