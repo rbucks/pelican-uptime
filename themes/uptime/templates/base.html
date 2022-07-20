@@ -14,6 +14,10 @@
     <meta name="twitter:description" content="No more 404. Top-rated website performance monitor for thousands of businesses to check downtime, optimize site speed, and improve domain health. Try free.">
     <meta name="twitter:title" content="Website Performance Monitoring | Check Site Uptime | Uptime.com">
 
+    {% assets output="js/packed.js", "js/jquery-3.2.1.slim.min.js", "js/popper.min.js", "js/bootstrap.min.js", "js/owl.carousel.js" %}
+      <script src="{{SITEURL}}/{{ASSET_URL}}"></script>
+    {% endassets %}
+
     {% assets filters="libsass", output="css/style.min.css", "scss/uptime.scss" %}
       <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
     {% endassets %}
@@ -24,10 +28,6 @@
 
     {% assets filters="libsass", output="css/main.min.css", "css/main.css" %}
       <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
-    {% endassets %}
-
-    {% assets output="js/packed.js", "js/jquery-3.2.1.slim.min.js", "js/popper.min.js", "js/bootstrap.min.js", "js/owl.carousel.js" %}
-      <script src="{{SITEURL}}/{{ASSET_URL}}"></script>
     {% endassets %}
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js" integrity="sha512-QZ+mUfNQgm67TvXzdTUqUEiGY44dE5TvXRgZe6RdjkjRL8mVltp/vHUw7CP29GyBcGwnQ5cXJCANqPP0PJrwpA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -44,7 +44,6 @@
   <div class="page-surface">
     <div class="site-container">
       {% include 'header.html' %}
-      <!-- {% include 'header2.html' %} -->
 
       {% block content %}
       {% endblock %}  

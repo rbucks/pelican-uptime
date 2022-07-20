@@ -295,8 +295,7 @@ footer.footer .atmc-footer .footer__copyright::after {
 }
 table.pricing-table {
  border:3px solid #cccade;
- border-radius:10px;
- !important;
+ border-radius:10px !important;
  background-color:#fff;
  text-align:left;
  border-collapse:collapse;
