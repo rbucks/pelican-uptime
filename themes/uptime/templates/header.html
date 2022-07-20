@@ -1,5 +1,6 @@
-<header class="site-header-new sticky-top">
-  <nav class="navbar navbar-light navbar-expand-lg">
+<header 
+class="site-header-new sticky-top atmc-header atmc-header_absolute_sticky atmc-header-default atmc-header-dark">
+  <nav class="navbar navbar-light navbar-expand-lg atmc-header_container">
     <div class="container">
       <a class="navbar-brand" href="https://uptime.com"><img class="img-fluid" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/global/logo-uptime-dark.svg" width="203" height="28" style="margin: -6px 6px 0 6px;" alt="Uptime.com Logo"></a>
       <div class="d-lg-none text-nowrap">
@@ -8,12 +9,18 @@
         <img class="opened" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/global/header-menu-toggle-close.svg" width="26" height="24" alt="Toggle Menu">
         </button>
       </div>
-      <div class="d-none d-lg-block" style="margin-left: -22px;">
-        <ul class="navbar-nav mx-auto">
-          <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/products">Products</a></li>
-          <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/pricing">Pricing</a></li>
-          <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/resources">Resources</a></li>
-          <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/enterprise">Enterprise</a></li>
+      <div class="d-none d-lg-block atmc-header_menu" style="margin-left: -22px;">
+        <ul class="navbar-nav mx-auto" role="menu">
+          <li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/products">Products</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/pricing">Pricing</a></li>
+          <li class="nav-item has-mega-menu" id="resources" >
+            <a
+              class="nav-link" 
+              href="{{ SITEURL }}/resources"
+            >Resources</a>
+            {% include 'resources_menu.html' %}
+          </li>
+          <li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/enterprise">Enterprise</a></li>
         </ul>
       </div>
       <div class="d-none d-lg-block">

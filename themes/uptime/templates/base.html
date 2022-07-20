@@ -18,6 +18,14 @@
       <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
     {% endassets %}
 
+    {% assets filters="libsass", output="css/Atomic_Uptime.min.css", "css/Atomic_Uptime.min.css" %}
+      <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
+    {% endassets %}
+
+    {% assets filters="libsass", output="css/main.min.css", "css/main.css" %}
+      <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
+    {% endassets %}
+
     {% assets output="js/packed.js", "js/jquery-3.2.1.slim.min.js", "js/popper.min.js", "js/bootstrap.min.js", "js/owl.carousel.js" %}
       <script src="{{SITEURL}}/{{ASSET_URL}}"></script>
     {% endassets %}
@@ -36,6 +44,7 @@
   <div class="page-surface">
     <div class="site-container">
       {% include 'header.html' %}
+      <!-- {% include 'header2.html' %} -->
 
       {% block content %}
       {% endblock %}  
