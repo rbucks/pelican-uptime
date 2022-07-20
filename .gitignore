@@ -9,7 +9,7 @@ output
 output/*
 bin
 .bin
-docs/theme/scss
+build
 
 .sass-cache
 .webassets-cache
@@ -17,3 +17,4 @@ node_modules
 
 # python
 venv
+
