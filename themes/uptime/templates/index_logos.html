@@ -63,22 +63,20 @@
 
 {% block javascripts %}
   <script type="text/javascript">
-  $(document).ready(function() {
+    $(document).ready(function() {
+      if ($('.brands_slider').length) {
+          var brandsSlider = $('.brands_slider');
 
-  if ($('.brands_slider').length) {
-      var brandsSlider = $('.brands_slider');
-
-      brandsSlider.owlCarousel({
-          loop: true,
-          autoplay: true,
-          nav: false,
-          dots: false,
-          autoWidth: true,
-          items: 4,
-          margin: 42
-      });
-  }
-
-  });
+          brandsSlider.owlCarousel({
+              loop: true,
+              autoplay: true,
+              nav: false,
+              dots: false,
+              autoWidth: true,
+              items: 4,
+              margin: 42
+          });
+      }
+    });
   </script>
 {% endblock %}

@@ -14,7 +14,7 @@
     <meta name="twitter:description" content="No more 404. Top-rated website performance monitor for thousands of businesses to check downtime, optimize site speed, and improve domain health. Try free.">
     <meta name="twitter:title" content="Website Performance Monitoring | Check Site Uptime | Uptime.com">
 
-    {% assets output="js/packed.js", "js/jquery-3.2.1.slim.min.js", "js/popper.min.js", "js/bootstrap.min.js", "js/owl.carousel.js" %}
+    {% assets output="js/packed.js", "js/popper.min.js", "js/jquery-3.2.1.slim.min.js", "js/bootstrap.min.js", "js/owl.carousel.js" %}
       <script src="{{SITEURL}}/{{ASSET_URL}}"></script>
     {% endassets %}
 
@@ -36,8 +36,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Barlow:regular,500|Roboto:regular,700|Rubik:regular,500&amp;display=swap">
                 
-    {% block extra_head %}{% endblock extra_head %}
-  {% endblock head %}
+    {% block extra_head %}{% endblock %}
+  {% endblock %}
 </head>
 
 <body class="body-white marketing">
@@ -55,7 +55,8 @@
 
 {% include 'analytics.html' %}
 
-{% block javascripts %}
-{% endblock %}
+<!-- body end -->
+{% block javascripts %}{% endblock %}
+<!-- body end -->
 </body>
 </html>
