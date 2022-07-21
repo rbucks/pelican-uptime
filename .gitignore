@@ -10,6 +10,7 @@ output/*
 bin
 .bin
 build
+plugins
 
 .sass-cache
 .webassets-cache
