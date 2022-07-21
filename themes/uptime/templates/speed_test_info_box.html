@@ -1,0 +1,9 @@
+{% macro speed_test_info_box(icon, title, subtitle) -%}
+<div class="success header-block d-flex" style="">
+	<i class="far {{icon}} text-primary bg-primary-fade" style=""></i>
+	<div style="">
+		<span class="label" style="">{{title}}</span>
+		<span class="value" style="">{{subtitle}}</span>
+	</div>
+</div>
+{%- endmacro %}
