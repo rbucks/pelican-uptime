@@ -57,4 +57,5 @@ save_as:freetools/website-speed-test/result.html
 			</div>
 		</div>
 	</div>
+	{% include 'cta_trial_banner_bottom.html' %}
 </div>

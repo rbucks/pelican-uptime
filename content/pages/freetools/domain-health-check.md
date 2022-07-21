@@ -61,4 +61,5 @@ save_as: domain-health/check.html
 		</div>
 	</div>
 </div>
+{% include 'cta_trial_banner_bottom.html' %}
 </div>
