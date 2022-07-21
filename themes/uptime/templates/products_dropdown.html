@@ -1,0 +1,43 @@
+<ul class="nav-dropdown dropdown-menu" style="left:240%;">
+    <div class="row mt-3 mb-3">
+        <div class="col p-3 pl-4">
+            {% from 'dropdown_row.html' import dropdown_row %}
+            {{ dropdown_row(
+                {"title": "Products", "link": "/products#products"}, 
+                [
+                 {"title": "Uptime Monitoring", "link": "/monitoring"},
+                 {"title": "Alerting", "link": "/alerting"},
+                 {"title": "Reporting", "link": "/reporting"},
+                 {"title": "Real User Monitoring", "link": "/real-user-monitoring"},
+                 {"title": "Status Pages", "link": "/status-pages"},
+                 {"title": "Integrations", "link": "/integrations"},
+                ],
+                )}}
+        </div>
+        <div class="col p-3">
+            {{ dropdown_row(
+                {"title": "Compare", "link": "/solutions#compare"}, 
+                [
+                 {"title": "Datadog", "link": "/datadog-compare"},
+                 {"title": "Pingdom", "link": "/pingdom-compare"},
+                 {"title": "Site24x7", "link": "/site24x7-compare"},
+                 {"title": "UptimeRobot", "link": "/uptimerobot-compare"},
+                 {"title": "Uptrends", "link": "/uptrends-compare"},
+                 {"title": "See More", "link": "/solutions#compare"},
+                ],
+                )}}
+        </div>
+        <div class="col pr-4 p-3">
+            {{ dropdown_row(
+                {"title": "Insights", "link": "/products#industries"}, 
+                [
+                 {"title": "Ecommerce", "link": "/ecommerce-website-uptime"},
+                 {"title": "Education", "link": "/edu-website-uptime"},
+                 {"title": "Financial", "link": "/financial"},
+                 {"title": "IT Services", "link": "/it-services-uptime"},
+                 {"title": "Software (SaaS)", "link": "/saas-website-uptime"},
+                ],
+                )}}
+        </div>
+    </div>
+</ul>

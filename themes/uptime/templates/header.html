@@ -1,5 +1,5 @@
-<header 
-class="site-header-new sticky-top atmc-header atmc-header_absolute_sticky atmc-header-default atmc-header-dark">
+<header
+  class="site-header-new sticky-top atmc-header atmc-header_absolute_sticky atmc-header-default atmc-header-dark">
   <nav class="navbar navbar-light navbar-expand-lg atmc-header_container">
     <div class="container">
       <a class="navbar-brand" href="https://uptime.com"><img class="img-fluid" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/global/logo-uptime-dark.svg" width="203" height="28" style="margin: -6px 6px 0 6px;" alt="Uptime.com Logo"></a>
@@ -11,14 +11,24 @@ class="site-header-new sticky-top atmc-header atmc-header_absolute_sticky atmc-h
       </div>
       <div class="d-none d-lg-block atmc-header_menu" style="margin-left: -22px;">
         <ul class="navbar-nav mx-auto" role="menu">
-          <li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/products">Products</a></li>
+          <li class="nav-item dropdown">
+            <a 
+              class="nav-link dropdown-toggle"
+              data-toggle="dropdown"
+              aria-expanded="true" aria-haspopup="true"
+              href="{{ SITEURL }}/products"
+            >Products</a>
+            {% include 'products_dropdown.html' %}
+          </li>
           <li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/pricing">Pricing</a></li>
-          <li class="nav-item has-mega-menu" id="resources" >
+          <li class="nav-item dropdown" >
             <a
-              class="nav-link" 
+              class="nav-link dropdown-toggle"
+              data-toggle="dropdown"
+              aria-expanded="true" aria-haspopup="true"
               href="{{ SITEURL }}/resources"
             >Resources</a>
-            {% include 'resources_menu.html' %}
+            {% include 'resources_dropdown.html' %}
           </li>
           <li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/enterprise">Enterprise</a></li>
         </ul>
@@ -32,13 +42,19 @@ class="site-header-new sticky-top atmc-header atmc-header_absolute_sticky atmc-h
   <div class="collapse navbar-collapse d-lg-none" id="header-navbar">
     <div class="container pb-4">
       <ul class="navbar-nav mx-auto mb-4">
-        <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/go/products">Products</a></li>
-        <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/go/pricing">Pricing</a></li>
-        <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/go/resources">Resources</a></li>
-        <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/go/enterprise">Enterprise</a></li>
+        <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/products">Products</a></li>
+        <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/pricing">Pricing</a></li>
+        <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/resources">Resources</a></li>
+        <li class="nav-item dropdown"><a class="nav-link" href="{{ SITEURL }}/enterprise">Enterprise</a></li>
       </ul>
       <a class="btn btn-outline-success" style="margin-right: 0.75rem;" href="https://uptime.com/login">Sign In</a>
       <a class="btn btn-success" href="https://uptime.com/accounts/register">Try For Free</a>
     </div>
   </div>
 </header>
+{% block javascripts %}
+  <script>
+  $('[data-toggle="dropdown"]').bootstrapDropdownHover({});
+  console.log('hello')
+  </script>
+{% endblock %}

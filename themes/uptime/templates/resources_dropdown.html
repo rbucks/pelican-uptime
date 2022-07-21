@@ -1,0 +1,34 @@
+<ul class="nav-dropdown dropdown-menu">
+    <div class="row mt-3 mb-3">
+        <div class="col p-3 pl-4">
+            {% from 'dropdown_row.html' import dropdown_row %}
+            {{ dropdown_row(
+                {"title": "Support", "link": "/resources#support"}, 
+                [
+                 {"title": "Hello Desk", "link": "https://support.uptime.com/hc/en-us"},
+                 {"title": "API Documentation", "link": "/api/v1/docs"},
+                 {"title": "Quick Start Guide", "link": "/quickstart-guide"},
+                ],
+                )}}
+        </div>
+        <div class="col p-3">
+            {{ dropdown_row(
+                {"title": "Free Tools", "link": "/resources#freetools"}, 
+                [
+                 {"title": "Domain Health Test", "link": "/domain-health"},
+                 {"title": "Website Speed Test", "link": "/freetols/website-speed-test"},
+                 {"title": "Global Uptime Test", "link": "/freetols/global-uptime-test"},
+                ],
+                )}}
+        </div>
+        <div class="col pr-4 p-3">
+            {{ dropdown_row(
+                {"title": "Insights", "link": "/resources#insights"}, 
+                [
+                 {"title": "Blog", "link": "https://uptime.com/blog"},
+                 {"title": "Success Stories", "link": "/success-stories"},
+                ],
+                )}}
+        </div>
+    </div>
+</ul>

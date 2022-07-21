@@ -35,6 +35,7 @@ css: resources.css
   "Test your website's domain health, speed, and global uptime.",
   "brand-black",
   2,
+  "freetools",
 )}}
 
 <div class="container bg-white mb-5">

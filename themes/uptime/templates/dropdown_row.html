@@ -1,0 +1,10 @@
+{% macro dropdown_row(title, items) -%}
+<a class="title" href="{{title.link}}">{{title.title}}</a>
+<ul class="mt-3">
+	{% for item in items %}
+	    <li>
+	        <a href="{{item.link}}">{{item.title}}</a>
+	    </li>
+	{% endfor %}
+</ul>
+{%- endmacro %}
