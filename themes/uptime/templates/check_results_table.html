@@ -1,0 +1,24 @@
+{% macro check_results_table(title, icon, rows) -%}
+<div class="results-table">
+	<div class="d-flex align-items-center mb-4">
+		<div class="icon text-primary bg-primary-fade">
+			<i class="fal {{icon}}"></i>
+		</div>
+	<h4 class="mb-0">{{title}}</h4></div>
+<div class="white-block p-4">
+	<table class="table listing-table table-valign-middle table-responsive-lg">
+		<thead>
+			<tr>
+				<th style="width: 40px;"></th>
+				<th style="width: 25px;"></th>
+				<th>Type</th>
+				<th>Test</th>
+				<th>Result</th>
+				<th style="width: 115px;"></th>
+			</tr>
+		</thead>
+	</table>
+</div>
+
+</div>
+{%- endmacro %}

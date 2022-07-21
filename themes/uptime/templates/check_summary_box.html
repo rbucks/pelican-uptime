@@ -1,0 +1,36 @@
+{% macro check_summary_box(title, icon, errors=0, warnings=0, passed=0) -%}
+<div class="userpanel-panel-block">
+	<div class="white-block border-color-primary">
+		<div class="d-flex align-items-center py-3 px-3">
+			<i class="fal {{icon}} fa-lg text-primary mr-2"></i>
+			<h5 class="mb-0" style="margin-top: 1px;">{{title}}</h5>
+		</div><div class="pt-2 pb-4 px-3">
+		<div class="d-flex justify-content-between align-items-center">
+			<div class="font-14 font-weight-semibold">
+			Errors</div>
+			<div>
+				<span class="badge badge-danger">{{errors}}
+				</span>
+			</div>
+		</div>
+		<div class="pt-2 pb-1">
+		</div>
+		<div class="d-flex justify-content-between align-items-center">
+			<div class="font-14 font-weight-semibold">Warnings</div>
+			<div>
+				<span class="badge badge-warning">{{warnings}}</span>
+			</div>
+		</div>
+		<div class="pt-2 pb-1">
+			
+		</div>
+		<div class="d-flex justify-content-between align-items-center">
+			<div class="font-14 font-weight-semibold">Passed
+			</div>
+			<div>
+				<span class="badge badge-success">{{passed}}</span>
+			</div></div>
+		</div>
+	</div>
+</div>
+{%- endmacro %}

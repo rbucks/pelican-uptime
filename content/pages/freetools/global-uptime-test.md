@@ -1,5 +1,6 @@
 Title: Global Uptime Test
-slug: freetools/global-uptime-test
+slug: global-uptime-test
+save_as: freetools/global-uptime-test.html
 
 <div class="body-marketing">
 {% from 'free_tools_navigation.html' import free_tools_navigation %}
