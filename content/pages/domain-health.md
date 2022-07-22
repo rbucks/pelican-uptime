@@ -1,19 +1,5 @@
 Title: Domain Health
 
-<script type="module">
-  import { h, Component, render } from 'https://unpkg.com/preact?module';
-  import htm from 'https://unpkg.com/htm?module';
-
-  // Initialize htm with Preact
-  const html = htm.bind(h);
-
-  function App (props) {
-    return html`<h1>Hello World!</h1>`;
-  }
-
-  render(html`<${App} />`, document.getElementById('dcontent'));
-</script>
-
 <div class="body-marketing">
 {% from 'free_tools_navigation.html' import free_tools_navigation %}
 {{
