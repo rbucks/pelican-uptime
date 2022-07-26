@@ -1,9 +1,10 @@
-Title: Site 24x7 Alternative
+Title: Top Uptrends Monitoring Alternative
+slug: uptrends-compare
 
 {% from 'cta_top.html' import cta_top %} 
-{{ cta_top("Uptime.com is a top Site24x7 alternative",
-  'Choose Uptime.com over Site24x7 for better uptime software, top-rated support, and no false downtime alarms.',
-  "{static}/images/Site24x7_Alternative_1150x920.gif"
+{{ cta_top("Uptime.com is a top Uptrends alternative",
+  'Choose Uptime.com over Uptrends for better uptime software, top-rated support, and no false alarms -- while paying less for website monitoring.',
+  "{static}/images/uptrends_Alternative_1150x920.gif"
 )}}
 
 
@@ -33,7 +34,7 @@ Title: Site 24x7 Alternative
       ("System Status Pages", "✓", "✓"),
       ("Customizable Dashboard", "✓", "✓"),
       ("Integrations", "✓", "✓"),
-      ("Subaccounts", "✓", ""),
+      ("Subaccounts", "✓", "✓"),
       ("G2", "", ""),
       ("Ease of Use", "✓", ""),
       ("Ease of Setup", "✓", ""),
@@ -58,28 +59,28 @@ Title: Site 24x7 Alternative
 <br/><br/>By industry experts like G2 and TechRadar who have named us one of the world’s best web monitoring solutions.",
 "bg-success") }}
 
-{{ image_block("right", "{static}/images/Add_HTTP(S)_Check_400x508.gif",
-"WEBSITE PERFORMANCE CHECKS",
-"Leverage more robust web monitoring",
-"Your uptime is only as good as your monitor. Choose domains to immediately check global website speed, performance, and availability, while private probe servers monitor intranet apps or internal sites behind firewalls. ",
+{{ image_block("right", "{static}/images/Best_Customer_Support_Website_Uptime_Performance_Monitoring_Uptime.com1160x684.webp",
+"UPTIME MONITORING SUPPORT",
+"Count on top-rated technical support",
+"Products alone don't solve problems -- people do. Our 100% human support team is rated web monitoring's best and available 24/7, so you spend less time finding help and more time resolving downtime ASAP.",
+"bg-success") }}
+
+{{ image_block("left", "{static}/images/Add_HTTP(S)_Check_400x508.gif",
+"WEBSITE MONITORING CHECKS",
+"Get used to ease of use",
+"We easily beat Uptrends in anything having to do with ease of use. Count on dozens of checks, synthetic monitoring, and RUM from the solution awarded the top usability rating of any web monitoring provider on G2.",
+"bg-success") }}
+
+{{ image_block("right", "{static}/images/Website_Downtime_Alert_Notification_Setup_Uptime.com_900x814.webp",
+"DOWNTIME ALERT ESCALATIONS",
+"Customize your monitoring, your way",
+"Customize alerts across call, text, email, and DevOps tools and set contacts and escalations your way. Designate main contacts and teams, all while deciding when (and who) gets notified based on severity.",
 "bg-success") }}
 
 {{ image_block("left", "{static}/images/Reduce_False_Website_Downtime_Outage_False_Positives_with_Uptime.webp",
-"WEBSITE DOWNTIME ALERTS",
-"Count on accurate incident alerting",
+"ACCURATE DOWNTIME MONITORING",
+"Only get alerted when something's wrong",
 "We're positive you'll see less false positives. We double-check everything from multiple locations and won’t alert during maintenance windows to ensure when you’re notified -- it's for good reason.",
-"bg-success") }}
-
-{{ image_block("right", "{static}/images/Best_Customer_Support_Website_Uptime_Performance_Monitoring_Uptime.com1160x684.webp",
-"UPTIME MONITORING SUPPORT",
-"Trust our top-rated technical support team",
-"Products alone don't solve problems, people do. Our 100% human support team is rated web monitoring's best and available 24/7 to help you resolve downtime incidents ASAP.",
-"bg-success") }}
-
-{{ image_block("left", "{static}/images/Enterprise_Multiple_Subaccounts.gif",
-"À LA CARTE MONITORING SUBSCRIPTIONS",
-"Don't pay more for less monitoring",
-"Better known doesn’t mean better value. Get the tooling you need at the price you want. Our à la carte model means you'll spend more time monitoring infrastructure and less time monitoring plan restrictions.",
 "bg-success") }}
 
 {{ image_block("right", "{static}/images/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp",
@@ -91,12 +92,12 @@ Title: Site 24x7 Alternative
 
 {% from 'testimonial_compare.html' import testimonial_compare %}
 {{ testimonial_compare(
-  ("{static}/images/Uptime.com_User_Review_for_Website_Uptime_Performance_Monitoring.webp",
-  "Excellent service with responsive support",
-  "Uptime.com has a clean and intuitive web UI, and a well-documented API for programmatic access. The Product and Support teams have been attentive and responsive to our needs, and actively work to improve the service."),
-  ("{static}/images/Site24x7_User_Review_for_Website_Uptime_Performance_Monitoring.webp",
-  "Horrible -- confusing and filled with issues",
-  "This app has given us a lot of false positives and has woken me up throughout the night for stupid reasons. The support team is EXTREMELY SLOW to respond. We have had to open tons of tickets and simultaneously call them before we got a response from them.")
+  ("{static}/images/Uptime.com_User_Review_Website_Uptime_Performance_Monitoring_Philippe.webp",
+  "Good straightforward monitoring for websites",
+  "Uptime.com's support team is easy to reach and team members react promptly. I had an issue with an SSL certificate monitor and they addressed it quickly."),
+  ("{static}/images/Uptrends_User_Review_Website_Uptime_Performance_Monitoring_Lasha.webp",
+  "Support average response time is 24 hours",
+  "Which is quite a significant time when having some issues and needing help. They have notification issues as well.")
   )}}
 
 

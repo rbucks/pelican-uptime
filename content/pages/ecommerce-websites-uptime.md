@@ -1,4 +1,5 @@
-Title: Ecommerce Websites Uptime
+Title: Website Monitoring for Ecommerce
+slug: ecommerce-websites-uptime
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for Ecommerce Websites",

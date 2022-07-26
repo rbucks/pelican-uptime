@@ -1,4 +1,5 @@
-Title: Uptime Robot Alternative
+Title: Uptime Robot Monitoring Alternative
+slug: uptimerobot-compare
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime.com is a top Uptime Robot alternative",

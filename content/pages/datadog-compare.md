@@ -1,4 +1,5 @@
-Title: Datadog Alternative
+Title: Top Datadog Monitoring Alternative
+slug: datadog-compare
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime.com is a top Datadog alternative",

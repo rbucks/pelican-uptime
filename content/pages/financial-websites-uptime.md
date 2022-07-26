@@ -1,4 +1,5 @@
-Title: Financial Websites Uptime
+Title: Website Monitoring For Banks | Check Site Speed & Uptime
+slug: financial-websites-uptime
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for Financial Services Websites",

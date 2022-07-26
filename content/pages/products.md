@@ -1,4 +1,5 @@
-Title: Products
+Title: Website Monitoring Products
+slug: products
 
 {% from 'banner.html' import banner %}
 {{ banner("Uptime Monitoring Products",

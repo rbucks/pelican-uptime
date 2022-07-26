@@ -1,4 +1,5 @@
-Title: SaaS Websites Uptime
+Title: Website Monitoring for SaaS Brands | Check Speed & Uptime
+slug: saas-websites-uptime
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for SaaS Websites",

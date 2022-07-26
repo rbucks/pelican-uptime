@@ -1,4 +1,5 @@
-Title: Edu Websites Uptime
+Title: Website Monitoring for Schools | Check Speed & Time
+slug: edu-websites-uptime
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for Education Websites",
@@ -25,6 +26,8 @@ Title: Edu Websites Uptime
 "Test institutional infrastructure",
 "Monitor the performance of marketing sites, registration pages, and critical portals for tuition and knowledge sharing between students and staff.",
 "bg-success") }}
+
+
 
 {{ image_block("right", "{static}/images/Uptime_University_API_Check_1100x1194.gif",
 "API MONITORING CHECKS",

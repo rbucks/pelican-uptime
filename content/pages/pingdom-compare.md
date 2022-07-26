@@ -1,4 +1,5 @@
-Title: Pingdom Alternative
+Title: Top Pingdom Monitoring Alternative
+slug: pingdom-compare
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime.com is a top Pingdom alternative",
