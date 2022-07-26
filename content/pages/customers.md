@@ -543,7 +543,7 @@ css: customers.css
                 <div class="row-fluid ">
                   <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_module_16343248437439" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                      <div id="" class="atmc-content atmc-content-01 text-left   -mb-8">
+                      <div id="" class="atmc-content atmc-content-01 text-left-mb-8">
                         <div class="atmc-intro fadeInBottom" data-sr-id="8" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
                           <h2>Try before you buy, 100% free</h2>
                         </div>
