@@ -73,7 +73,7 @@ slug: products
       "Why us? Minimal false alarms, less clutter, more savings."
     )}}
 
-    {{ product("{filename}datadog-alternative.md",
+    {{ product("{filename}datadog-compare.md",
       "{static}/images/Datadog_vs_Uptime.com_Top_Monitoring_Alternative.png",
       "DataDog Alternative",
       "Why us? Lower costs, user friendly tools, less false alarms."
@@ -81,19 +81,19 @@ slug: products
 
   </div>
   <div class="row mb-5">
-    {{ product("{filename}pingdom-alternative.md",
+    {{ product("{filename}pingdom-compare.md",
       "{static}/images/Pingdom_vs_Uptime.com_Top_Monitoring_Alternative.png",
       "Pingdom Alternative",
       "Why us? Better monitoring, alerts, support, and affordability."
     )}}
 
-    {{ product("{filename}site24x7-alternative.md",
+    {{ product("{filename}site24x7-compare.md",
       "{static}/images/Site24x7_vs_Uptime.com_Top_Monitoring_Alternative.png",
       "Site24x7 Alternative",
       "Why us? Easier setup, less false alarms, more responsive support."
     )}}
 
-    {{ product("{filename}uptime-robot-alternative.md",
+    {{ product("{filename}uptimerobot-compare.md",
       "{static}/images/UptimeRobot_vs_Uptime.com_Top_Monitoring_Alternative.png",
       "Uptime Robot Alternative",
       "Why us? Advanced tools, better support, less false alarms."
@@ -101,7 +101,7 @@ slug: products
 
   </div>
   <div class="row mb-5">
-    {{ product("{filename}uptrends-alternative.md",
+    {{ product("{filename}uptrends-compare.md",
       "{static}/images/Uptrends_vs_Uptime.com_Top_Monitoring_Alternative.png",
       "Uptrends Alternative",
       "Why us? Easier setup, less false alarms, top-rated support."
