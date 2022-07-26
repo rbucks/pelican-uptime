@@ -125,7 +125,7 @@ Title: SocketLabs
               externally.
           </li>
           <li>
-              <a href="https://uptime.com/go/integrations?hsLang=en">
+              <a href="https://uptime.com/integrations?hsLang=en">
                   Monitoring Integrations
               </a>
               : Of uptime monitoring data and alerts into popular DevOps tools for
