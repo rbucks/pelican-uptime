@@ -13,7 +13,7 @@ css: team.css
                   <div class="span12 widget-span widget-type-custom_widget widget_1631072296680-hidden dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_widget_1631072296680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center fadeInBottom ">
-                        <div>
+                        <div class="text-center">
                           <img loading="lazy" src="{static}/images/Uptime.com_Leadership_Team_Website_Uptime_Performance_Monitoring_Strategy_Solutions.webp" alt="Uptime.com Leadership Team For Website Uptime Performance Monitoring Strategy and Solutions " width="100%" style="max-width: 800px; max-height: 285px">
                         </div>
                       </div>
@@ -41,6 +41,7 @@ css: team.css
                         <div class="atmc-intro fadeInBottom">
                           <h1>Uptime.com <span style="color: #00aa66;">leadership</span></h1>
                           <p>Our mission is uptime, all the time. Meet the leaders dedicated to helping us grow.</p>
+                          <hr class="mt-5 bg-success">
                         </div>
                       </div>
                     </div>
@@ -78,7 +79,8 @@ css: team.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget widget_1634843146918-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_widget_1634843146918" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_widget_1634843146918_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Mike_Welsh_CEO_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Mike Welsh, CEO of Uptime.com Website Performance Monitoring Solution" title="Mike Welsh, CEO of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_widget_1634843146918_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image">
+                              <img src="{static}/images/Mike_Welsh_CEO_Uptime.com_Website_Performance_Monitoring_Solution.webp" class="hs-image-widget " width="250" height="250" style="max-width: 100%; height: auto;" alt="Mike Welsh, CEO of Uptime.com Website Performance Monitoring Solution" title="Mike Welsh, CEO of Uptime.com Website Performance Monitoring Solution" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -612,7 +614,7 @@ css: team.css
                   <div class="span12 widget-span widget-type-custom_widget module_16310804433605-vertical-alignment dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   ">
-                        <div>      
+                        <div class="text-center">      
                           <img loading="lazy" src="{static}/images/User_Review_Uptime.com_Website_Performance_Monitoring_Downtime_Outage_Checks.webp" alt="Uptime.com Glassdoor Employee Review of Website Uptime Performance Monitoring Company" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
