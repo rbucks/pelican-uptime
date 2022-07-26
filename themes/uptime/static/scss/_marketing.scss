@@ -280,20 +280,6 @@ body {
 }
 
 .marketing {
-    
-    h1.heading {
-        font-size: 44px;
-        font-weight: $font-weight-medium;
-        color: black;
-
-        > small {
-            @extend .text-muted;
-            display: block;
-            margin-top: $spacer-2;
-            font-size: 20px;
-            font-weight: $font-weight-normal;
-        }
-    }
 
     h2.lead {
         line-height: 44px;

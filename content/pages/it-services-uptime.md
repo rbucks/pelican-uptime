@@ -1,4 +1,5 @@
 Title: Website Monitoring for IT Services | Check Speed & Uptime
+slug: it-services-uptime
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for IT Service Providers",
