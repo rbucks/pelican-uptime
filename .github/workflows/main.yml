@@ -24,4 +24,4 @@ jobs:
           path: build/
       - uses: ncipollo/release-action@v1
         with:
-          artifacts: "build.zip"
+          artifacts: "build"
