@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <title>{% block title %}{%endblock%} | {{ SITENAME }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="shortcut icon" href="{{ SITEURL }}/favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
     <meta name="generator" content="Pelican" />
 
     <meta name="description" content="No more 404. Top-rated website performance monitor for thousands of businesses to check downtime, optimize site speed, and improve domain health. Try free.">
@@ -15,15 +15,15 @@
     <meta name="twitter:title" content="Website Performance Monitoring | Check Site Uptime | Uptime.com">
 
     {% assets output="js/packed.js", "js/popper.min.js", "js/jquery-3.2.1.slim.min.js", "js/bootstrap.min.js", "js/owl.carousel.js", "js/jquery.bootstrap-dropdown-hover.min.js" %}
-      <script src="{{SITEURL}}/{{ASSET_URL}}"></script>
+      <script src="/{{ASSET_URL}}"></script>
     {% endassets %}
 
     {% assets filters="libsass", output="css/style.min.css", "scss/uptime.scss" %}
-      <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
+      <link rel="stylesheet" href="/{{ ASSET_URL }}">
     {% endassets %}
 
     {% assets filters="libsass", output="css/main.min.css", "css/main.css" %}
-      <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
+      <link rel="stylesheet" href="/{{ ASSET_URL }}">
     {% endassets %}
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js" integrity="sha512-QZ+mUfNQgm67TvXzdTUqUEiGY44dE5TvXRgZe6RdjkjRL8mVltp/vHUw7CP29GyBcGwnQ5cXJCANqPP0PJrwpA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
