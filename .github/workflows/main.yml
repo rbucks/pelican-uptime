@@ -20,4 +20,4 @@ jobs:
               pelican content -s publishconf.py
       - uses: ncipollo/release-action@v1
         with:
-          artifacts: "build/*"
+          artifacts: "build"
