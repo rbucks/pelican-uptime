@@ -22,3 +22,6 @@ jobs:
         with:
           name: build
           path: build/
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: "build"
