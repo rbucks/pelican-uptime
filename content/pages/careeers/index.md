@@ -1,5 +1,7 @@
 title: Career Opportunities | Join The Uptime.com Team!
 slug: careers
+status: draft
+
 <div class="careers body-marketing">
 	<div class="hero bg-image-1 text-light-4" style="background-color: #19262d;">
 		<div class="container">
