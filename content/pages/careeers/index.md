@@ -73,35 +73,35 @@ slug: careers
 						</div>
 						<div class="col-12 col-lg-6 mb-4 mb-lg-5 pr-lg-5">
 							<div class="d-flex align-items-center mb-3">
-								<img src="{{ THEME_STATIC_DIR }}/theme/img/icons2/Uptime_GreenCheckBox_Icon.svg" class="mr-3" alt="" width="24" height="24">
+								<img src="{{ THEME_STATIC_DIR }}/theme/img/icons2/Uptime_GreenCheckBox_Icon.svg" class="mr-3" width="24" height="24">
 								<h4>Generous Vacation Bank</h4>
 							</div>
 							<p>Take the time you need. Plus, we meet up once each year.</p>
 						</div>
 						<div class="col-12 col-lg-6 mb-4 mb-lg-5 pr-lg-5">
 							<div class="d-flex align-items-center mb-3">
-								<img src="{{ THEME_STATIC_DIR }}/theme/img/icons2/Uptime_GreenCheckBox_Icon.svg" class="mr-3" alt="" width="24" height="24">
+								<img src="{{ THEME_STATIC_DIR }}/theme/img/icons2/Uptime_GreenCheckBox_Icon.svg" class="mr-3" width="24" height="24">
 								<h4>Make an Impact</h4>
 							</div>
 							<p>Your voice and ideas matter. Help shape the future of Uptime.com.</p>
 						</div>
 						<div class="col-12 col-lg-6 mb-4 mb-lg-5 pr-lg-5">
 							<div class="d-flex align-items-center mb-3">
-								<img src="{{ THEME_STATIC_DIR }}/theme/img/icons2/Uptime_GreenCheckBox_Icon.svg" class="mr-3" alt="" width="24" height="24">
+								<img src="{{ THEME_STATIC_DIR }}/theme/img/icons2/Uptime_GreenCheckBox_Icon.svg" class="mr-3" width="24" height="24">
 								<h4>Mentors and Support</h4>
 							</div>
 							<p>We see challenge as motivation, and support those who share knowledge and experience.</p>
 						</div>
 						<div class="col-12 col-lg-6 mb-4 mb-lg-0 pr-lg-5">
 							<div class="d-flex align-items-center mb-3">
-								<img src="{{ THEME_STATIC_DIR }}/theme/img/icons2/Uptime_GreenCheckBox_Icon.svg" class="mr-3" alt="" width="24" height="24">
+								<img src="{{ THEME_STATIC_DIR }}/theme/img/icons2/Uptime_GreenCheckBox_Icon.svg" class="mr-3" width="24" height="24">
 								<h4>High Profile Clients</h4>
 							</div>
 							<p>Our clients have high expectations of us. Will you help us deliver?</p>
 						</div>
 						<div class="col-12 col-lg-6 pr-lg-5">
 							<div class="d-flex align-items-center mb-3">
-								<img src="{{ THEME_STATIC_DIR }}/theme/img/icons2/Uptime_GreenCheckBox_Icon.svg" class="mr-3" alt="" width="24" height="24">
+								<img src="{{ THEME_STATIC_DIR }}/theme/img/icons2/Uptime_GreenCheckBox_Icon.svg" class="mr-3" width="24" height="24">
 								<h4>Build New Tech</h4>
 							</div>
 							<p>Your insights will help us serve a sophisticated and highly technical userbase.</p>
