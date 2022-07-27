@@ -2,18 +2,18 @@
 <div class="container bg-white py-5 mt-5">
   <div class="row">
     {% if direction == 'left' %}
-    <div class="col my-auto pr-5">
+    <div class="col-md-6 col-lg-6 col-xs-12 mb-2 pr-5">
       <img loading="lazy" src="{{ src }}" class="img-fluid {{ image_class }}">
     </div>
     {% endif %}
-    <div class="col my-auto">
+    <div class="col-md-6 col-lg-6 col-xs-12 ">
       <p class="label mb-0">{{ label }}</p>
       <h2 class="mb-4 leader">{{ title }}</h2>
       <p class="subheading">{{ sub }}</p>
       <hr class="mt-5 ml-0 {{ color }}">
     </div>
     {% if direction == 'right' %}
-    <div class="col my-auto pl-5">
+    <div class="col-md-6 col-lg-6 col-xs-12 mt-2 pl-5">
       <img loading="lazy" src="{{ src }}" class="img-fluid {{ image_class }}">
     </div>
     {% endif %}
