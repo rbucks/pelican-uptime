@@ -1,6 +1,8 @@
 title: Website Speed Test Result
-slug: website-speed-test-result
-save_as:freetools/website-speed-test/result.html
+<!-- slug: website-speed-test-result
+save_as: freetools/website-speed-test/result.html -->
+status: draft
+
 {% from 'speed_test_info_box.html' import speed_test_info_box %}
 <div class="body-marketing">
 	<div id="domain-health-page-header" class="container my-4" style="">

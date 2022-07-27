@@ -1,6 +1,8 @@
 title: Domain Health Check
-slug: domain-health-check
-save_as: domain-health/check.html
+<!-- slug: domain-health-check
+save_as: domain-health/check.html -->
+status: draft
+
 {% from 'check_summary_box.html' import check_summary_box %}
 {% from 'check_results_table.html' import check_results_table %}
 <div class="body-marketing">

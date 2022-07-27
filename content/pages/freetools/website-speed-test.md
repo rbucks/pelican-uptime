@@ -1,6 +1,7 @@
 Title: Free Website Speed Test - Try our Page Speed Tool
-slug: website-speed-test
-save_as: freetools/website-speed-test.html
+<!-- slug: website-speed-test
+save_as: freetools/website-speed-test.html -->
+status: draft
 
 <div class="body-marketing">
 
