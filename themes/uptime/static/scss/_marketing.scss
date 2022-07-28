@@ -258,7 +258,6 @@ body {
     max-height: 150px;
 }
 
-
 //
 // Headings
 //
@@ -330,6 +329,51 @@ body {
 
     .card-deck {
         min-height: 100px;
+    }
+
+    .floating-upbob {
+        position: absolute;
+        top: -135px;
+        right: -115px;
+        width: 30%;
+        z-index: 1;
+    }   
+
+    .pricing li {
+        background: url('../images/UptimeDot_BulletIcon.png') no-repeat 7px 7px transparent;
+        list-style-type: none;
+        padding: 0px 30px;
+        vertical-align: middle;
+        text-align: left;
+        font-size: 20px;
+        color: #000;
+        padding-bottom: 7px;
+    }
+
+    table.pricing-table {
+        border: 3px solid #cccade;
+        border-radius: 10px;
+        background-color: #fff;
+        text-align: left;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    table.pricing-table thead {
+        background: #0a6 !important;
+    }
+
+    table.pricing-table td, table.pricing-table th {
+        border: 3px solid #cccade;
+        padding: 10px !important;
+        white-space: normal;
+        vertical-align: middle !important;
+        font-size: .9rem;
+        text-align: center;
+        color: #000;
+        padding: 3px;
+        margin: 0px;
+        font-size: 1.2rem;
     }
 }
 
