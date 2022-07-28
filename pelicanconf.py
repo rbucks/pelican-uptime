@@ -48,6 +48,10 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = False
+
+# Please keep this setting enabled. Clean up prevents from SCSS caching
+# SCSS files are imported hierarchically from uptime.scss and build system cannot notice any SCSS file change unless it's an entry point
+# A solution to this is one by one import of all SCSS files in the correct order which is challenging to acomplish
 DELETE_OUTPUT_DIRECTORY = True
 
 # Jinja2content plugin
