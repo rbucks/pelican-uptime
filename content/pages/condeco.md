@@ -23,7 +23,7 @@ Title: Condeco
       <h3>Challenge</h3>
       <p>Gain increased observability over a growing infrastructure, proactively resolving downtime events and maintaining the development pipeline.</p>
       <h3>Solution</h3>
-      <p><a href="https://uptime.com/domain-health">Automated monitoring</a> reduces the time to respond and leads to a more actionable outcome. With Uptime.com, Condeco's team benefits from a robust server monitoring toolset that will grow alongside their business needs.</p>
+      <p><a href="/domain-health">Automated monitoring</a> reduces the time to respond and leads to a more actionable outcome. With Uptime.com, Condeco's team benefits from a robust server monitoring toolset that will grow alongside their business needs.</p>
       <h3>Results</h3>
       <p>Uptime.com successfully helped Condeco to reduce support tickets related to downtime, and gain observability and rapid response time capabilities during outage events.</p>
     </div>
@@ -61,12 +61,12 @@ Title: Condeco
           and works
         </li>
         <li>
-          <a href="https://uptime.com/api/v1/docs/?hsLang=en">API access</a>
+          <a href="/api/v1/docs/?hsLang=en">API access</a>
           to implement auto-heal logic, create checks and expedite monitoring at
           scale
         </li>
         <li>
-          <a href="https://uptime.com/status-page?hsLang=en">
+          <a href="/status-page?hsLang=en">
           Shareable reports
           </a>
           for distribution to customers and executives as needed

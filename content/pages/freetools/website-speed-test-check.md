@@ -23,7 +23,7 @@ status: draft
 		<div id="speedTestResultsDisplay">
 			<div id="speed-test-header" class="row">
 				<div class="col-xl-3 mb-3">
-					<img class="mx-auto mb-4 mb-lg-0" style="max-width: 100%;" src="https://uptime.com/media/freetools/screenshots/2022/07/21/www.spider.com_iFKu1VY.png" width="300" height="168">
+					<img class="mx-auto mb-4 mb-lg-0" style="max-width: 100%;" src="/media/freetools/screenshots/2022/07/21/www.spider.com_iFKu1VY.png" width="300" height="168">
 				</div>
 				<div class="col-xl-9">
 					<div class="row">

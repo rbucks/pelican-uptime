@@ -6,7 +6,7 @@ Title: Quickstart Guide
   <hr class="my-5 bg-success w-50">
 
   <p class="subheading text-center">This guide covers the basics of our monitoring platform's functionality, and offers specifics for testing website performance.</p>
-  <p class="subheading text-center">See our <a href="https://support.uptime.com/" target="_blank"> support articles</a> or <a href="https://uptime.com/contact?hsLang=en" target="_blank"> contact us </a> directly with questions.</p>
+  <p class="subheading text-center">See our <a href="https://support.uptime.com/" target="_blank"> support articles</a> or <a href="/contact?hsLang=en" target="_blank"> contact us </a> directly with questions.</p>
 
   <h2 class="mb-4 mt-5">Table of Contents</h4>
   <img class="float-right" title="Website Uptime Monitoring Software Onboarding Guide" src="/images/Website_Uptime_Monitoring_Software_Onboarding_Guide.webp" alt="Website Uptime Monitoring Software Onboarding Guide" width="300" height="300" />
@@ -123,7 +123,7 @@ Title: Quickstart Guide
   
   <img src="/images/Add_Users_Uptime.com_Website_Uptime_Performance_Monitoring_Software_Platform.webp" alt="Add Users to Uptime.com Website Uptime Performance Monitoring Software Platform" width="100%" />
   <p class="subheading"><a href="https://support.uptime.com/hc/en-us/articles/115002535909-Managing-User-Accounts" target="_blank"> <strong> Users </strong> </a> generally have access to reports, and can log into the platform to: view checks (those with higher permission levels can edit/create new checks), receive emailed invoices, and <a href="https://support.uptime.com/hc/en-us/articles/360006291539-Uptime-com-Reporting" target="_blank"> reports </a> .</p>
-  <p class="subheading">Click <strong> New User </strong> from the <a href="https://uptime.com/accounts/account-users?hsLang=en" target="_blank">  <strong> Users Page </strong> </a> . Add the user&rsquo;s first/last name, email, and time zone. Then, choose that user&rsquo;s account Access Level, and opt in/out of Two-Factor Authentication and hit <strong> Save </strong> .</p>
+  <p class="subheading">Click <strong> New User </strong> from the <a href="/accounts/account-users?hsLang=en" target="_blank">  <strong> Users Page </strong> </a> . Add the user&rsquo;s first/last name, email, and time zone. Then, choose that user&rsquo;s account Access Level, and opt in/out of Two-Factor Authentication and hit <strong> Save </strong> .</p>
   <p class="subheading">Uptime.com will then send a verification email to the user to create a password.</p>
   
   <a id="Understanding_Check_Failures" data-hs-anchor="true"></a>
@@ -137,11 +137,11 @@ Title: Quickstart Guide
   <a id="Using_Reporting" data-hs-anchor="true"></a>
   <h2>Use Web Monitoring Reports</h2>
   
-  <p class="subheading">Use the <a href="https://uptime.com/alerting/alert-history?hsLang=en" target="_blank"> Alert History Screen </a> for a quick or detailed view of alerts issued when a monitoring check fails.</p>
+  <p class="subheading">Use the <a href="/alerting/alert-history?hsLang=en" target="_blank"> Alert History Screen </a> for a quick or detailed view of alerts issued when a monitoring check fails.</p>
   <img src="/images/Website_Downtime_Failed_Check_Alert_History_Uptime.com.webp" alt="Website Downtime Failed Check Alert History with Uptime.com" width="100%" />
-  <p class="subheading">You can <a href="https://support.uptime.com/hc/en-us/articles/360016256820-Setup-Instructions-for-your-Uptime-com-Status-Page" target="_blank"> build status pages </a> (see <a href="https://uptime.com/s/samplepsp?hsLang=en" target="_blank"> example </a> ), or create and schedule an SLA report for any number of checks.</p>
+  <p class="subheading">You can <a href="https://support.uptime.com/hc/en-us/articles/360016256820-Setup-Instructions-for-your-Uptime-com-Status-Page" target="_blank"> build status pages </a> (see <a href="/s/samplepsp?hsLang=en" target="_blank"> example </a> ), or create and schedule an SLA report for any number of checks.</p>
   <p class="subheading">If you have added a <a href="https://support.uptime.com/hc/en-us/articles/4415869187346-RUM-Setup-and-Basics" target="_blank"> Real User Monitoring </a> (RUM) check, <a href="https://support.uptime.com/hc/en-us/articles/4415874052242-RUM-Data-and-Reports" target="_blank"> you can view RUM reports </a> as well. <strong> NOTE: </strong> RUM Checks do require adding HTML code to your website. <a href="https://support.uptime.com/hc/en-us/articles/360006595219-Why-am-I-Not-Seeing-My-RUM-Data-" target="_blank"> See instructions here </a> .</p>
-  <p class="subheading">Finally, showcase uptime monitoring performance to visitors by adding the <a href="https://uptime.com/devices/services/widget?hsLang=en" target="_blank"> Uptime.com widget </a> to your website.</p>
+  <p class="subheading">Finally, showcase uptime monitoring performance to visitors by adding the <a href="/devices/services/widget?hsLang=en" target="_blank"> Uptime.com widget </a> to your website.</p>
   <img src="/images/Customize_Reporting_Dashboards_Website_Uptime_Performance_Uptime.com.webp" alt="Customize Reporting Dashboards for Website Uptime Performance with Uptime.com" width="100%" />
   <p class="subheading">Once checks have been added to your account, you will notice check cards appearing on your dashboard.</p>
   <p class="subheading"><a href="https://support.uptime.com/hc/en-us/articles/115002557925-Overview-of-Dashboard#customizing-your-dashboard" target="_blank"> Customize your dashboard </a> to filter which check cards appear, in what order, and other settings tailored to your preference.</p>
