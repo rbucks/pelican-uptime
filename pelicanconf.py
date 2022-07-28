@@ -48,7 +48,7 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = False
-# DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = True
 
 # Jinja2content plugin
 JINJA2CONTENT_TEMPLATES = ['content']
