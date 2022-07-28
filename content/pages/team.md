@@ -13,7 +13,7 @@ css: team.css
                     <div id="hs_cos_wrapper_widget_1631072296680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center fadeInBottom ">
                         <div class="text-center">
-                          <img loading="lazy" src="{static}/images/Uptime.com_Leadership_Team_Website_Uptime_Performance_Monitoring_Strategy_Solutions.webp" alt="Uptime.com Leadership Team For Website Uptime Performance Monitoring Strategy and Solutions " width="100%" style="max-width: 800px; max-height: 285px">
+                          <img loading="lazy" src="/images/Uptime.com_Leadership_Team_Website_Uptime_Performance_Monitoring_Strategy_Solutions.webp" alt="Uptime.com Leadership Team For Website Uptime Performance Monitoring Strategy and Solutions " width="100%" style="max-width: 800px; max-height: 285px">
                         </div>
                       </div>
                     </div>
@@ -134,7 +134,7 @@ css: team.css
           </div>
         </div>
         {% from 'testimonial.html' import testimonial %}
-        {{ testimonial("{static}/images/User_Review_Uptime.com_Website_Performance_Monitoring_Downtime_Outage_Checks.webp",
+        {{ testimonial("/images/User_Review_Uptime.com_Website_Performance_Monitoring_Downtime_Outage_Checks.webp",
           "bg-success",
           "Top Notch Team & Exciting Product",
           "Huge pool of collective knowledge and industry experience/success among very accessible company leadership. Company is fully remote, but communication, inclusivity, and organization are on point. The flexibility of working from anywhere is great.")

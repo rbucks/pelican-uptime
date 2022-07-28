@@ -14,7 +14,7 @@ css: about.css
                     <div id="hs_cos_wrapper_widget_1631072296680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default flex justify-center fadeInBottom ">
                         <div>
-                          <img loading="lazy" src="{static}/images/Learn_More_Uptime.com_Website_Uptime_Performance_Monitoring_Services.webp" alt="Learn More Uptime.com for Website Uptime Performance Monitoring Services" width="100%" style="max-width: 730px; max-height: 260px">
+                          <img loading="lazy" src="/images/Learn_More_Uptime.com_Website_Uptime_Performance_Monitoring_Services.webp" alt="Learn More Uptime.com for Website Uptime Performance Monitoring Services" width="100%" style="max-width: 730px; max-height: 260px">
                         </div>
                       </div>
                     </div>
@@ -77,7 +77,7 @@ css: about.css
                     <div id="hs_cos_wrapper_widget_1631098187687" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/Founding_Team_for_Uptime.com_Website_Uptime_Performance_Monitoring_Platform.webp" alt="Founding_Team_for_Uptime.com_Website_Uptime_Performance_Monitoring_Platform" width="100%" style="max-width: 575px; max-height: 293px">
+                          <img loading="lazy" src="/images/Founding_Team_for_Uptime.com_Website_Uptime_Performance_Monitoring_Platform.webp" alt="Founding_Team_for_Uptime.com_Website_Uptime_Performance_Monitoring_Platform" width="100%" style="max-width: 575px; max-height: 293px">
                         </div>
                       </div>
                     </div>
@@ -163,7 +163,7 @@ css: about.css
                     <div id="hs_cos_wrapper_module_16310982122473" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default  fadeInBottom uptime-drop-shadow">
                         <div>
-                          <img loading="lazy" src="{static}/images/Best_Website_Uptime_Monitoring_Services_with_Uptime.com_890x750.webp" alt="Top Rated Uptime Monitoring Provider for Website Performance with Uptime.com" width="100%" style="max-width: 445px; max-height: 375px">
+                          <img loading="lazy" src="/images/Best_Website_Uptime_Monitoring_Services_with_Uptime.com_890x750.webp" alt="Top Rated Uptime Monitoring Provider for Website Performance with Uptime.com" width="100%" style="max-width: 445px; max-height: 375px">
                         </div>
                       </div>
                     </div>
@@ -266,7 +266,7 @@ css: about.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget dnd-module module_1634833364859-flexbox-positioning" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_module_1634833364859" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_module_1634833364859_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Customer_First_Approach_Website_Uptime_Performance_Monitoring.svg" class="hs-image-widget " width="100" height="100" style="max-width: 100%; height: auto;" alt="Customer First Approach to Website Uptime Performance Monitoring" title="Customer First Approach to Website Uptime Performance Monitoring" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_module_1634833364859_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="/images/Customer_First_Approach_Website_Uptime_Performance_Monitoring.svg" class="hs-image-widget " width="100" height="100" style="max-width: 100%; height: auto;" alt="Customer First Approach to Website Uptime Performance Monitoring" title="Customer First Approach to Website Uptime Performance Monitoring" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -313,7 +313,7 @@ css: about.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget module_1634833347940-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_module_1634833347940" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_module_1634833347940_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Comprehensive_Approach_Website_Uptime_Performance_Downtime_Monitoring.svg" class="hs-image-widget " width="100" height="100" style="max-width: 100%; height: auto;" alt="Comprehensive Approach to Website Uptime Performance and Downtime Monitoring" title="Comprehensive Approach to Website Uptime Performance and Downtime Monitoring" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_module_1634833347940_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="/images/Comprehensive_Approach_Website_Uptime_Performance_Downtime_Monitoring.svg" class="hs-image-widget " width="100" height="100" style="max-width: 100%; height: auto;" alt="Comprehensive Approach to Website Uptime Performance and Downtime Monitoring" title="Comprehensive Approach to Website Uptime Performance and Downtime Monitoring" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -366,7 +366,7 @@ css: about.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget module_1634833382776-flexbox-positioning dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_module_1634833382776" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_module_1634833382776_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Immediate_Technical_Customer_Support_Website_Uptime_Performance_Monitoring.svg" class="hs-image-widget " width="100" height="100" style="max-width: 100%; height: auto;" alt="Immediate Technical Customer Support for Website Uptime Performance Monitoring" title="Immediate Technical Customer Support for Website Uptime Performance Monitoring" loading="lazy"></span>
+                            <span id="hs_cos_wrapper_module_1634833382776_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="/images/Immediate_Technical_Customer_Support_Website_Uptime_Performance_Monitoring.svg" class="hs-image-widget " width="100" height="100" style="max-width: 100%; height: auto;" alt="Immediate Technical Customer Support for Website Uptime Performance Monitoring" title="Immediate Technical Customer Support for Website Uptime Performance Monitoring" loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -413,7 +413,7 @@ css: about.css
                       <div class="row-fluid ">
                         <div class="span12 widget-span widget-type-custom_widget dnd-module module_1634833386944-flexbox-positioning" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
                           <div id="hs_cos_wrapper_module_1634833386944" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                            <span id="hs_cos_wrapper_module_1634833386944_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="{static}/images/Reliable_Website_Uptime_Monitoring_Less_False_Downtime_Outage_Alerts.svg" class="hs-image-widget " width="100" height="100" style="max-width: 100%; height: auto;" alt="Reliable Website Uptime Monitoring Less False Downtime Outage Alert " title="Reliable Website Uptime Monitoring Less False Downtime Outage Alert " loading="lazy"></span>
+                            <span id="hs_cos_wrapper_module_1634833386944_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="/images/Reliable_Website_Uptime_Monitoring_Less_False_Downtime_Outage_Alerts.svg" class="hs-image-widget " width="100" height="100" style="max-width: 100%; height: auto;" alt="Reliable Website Uptime Monitoring Less False Downtime Outage Alert " title="Reliable Website Uptime Monitoring Less False Downtime Outage Alert " loading="lazy"></span>
                           </div>
                         </div>
                         <!--end widget-span -->
@@ -499,7 +499,7 @@ css: about.css
                     <div id="hs_cos_wrapper_module_16310804433605" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                       <div id="" class="atmc-image-default   ">
                         <div>      
-                          <img loading="lazy" src="{static}/images/User_Review_Uptime.com_Website_Performance_Monitoring_Downtime_Outage_Checks.webp" alt="User_Review_Uptime.com_Website_Performance_Monitoring_Downtime_Outage_Checks" width="100%" style="max-width: 1000px; max-height: 419px">
+                          <img loading="lazy" src="/images/User_Review_Uptime.com_Website_Performance_Monitoring_Downtime_Outage_Checks.webp" alt="User_Review_Uptime.com_Website_Performance_Monitoring_Downtime_Outage_Checks" width="100%" style="max-width: 1000px; max-height: 419px">
                         </div>
                       </div>
                     </div>

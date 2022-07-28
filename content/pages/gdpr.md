@@ -63,6 +63,6 @@ Title: GDPR
 
   <p>Uptime.com is firmly committed to protecting the data you entrust to us. Uptime.com products and services meet the principles of privacy by design and default as outlined in&nbsp;<a href="https://gdpr-info.eu/art-25-gdpr/" target="_blank" rel="noopener">Article 25</a>&nbsp;of the General Data Protection Regulation (GDPR). Adherence to these standards means our products have appropriate privacy and security features embedded within their design, and that Uptime.com capably supports the data subject rights called out in the&nbsp;<a href="https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens/my-rights/what-are-my-rights_en" target="_blank" rel="noopener">GDPR</a>.</p>
   <h3>Data Processing Agreement</h3>
-  <p>You may download &amp; execute our&nbsp;<a href="{static}/pdf/UptimeDotCom_Data_Processing_Agreement.pdf" target="_blank" rel="noopener">presigned data processing agreement</a>&nbsp;if necessary for your organization.</p>
+  <p>You may download &amp; execute our&nbsp;<a href="/pdf/UptimeDotCom_Data_Processing_Agreement.pdf" target="_blank" rel="noopener">presigned data processing agreement</a>&nbsp;if necessary for your organization.</p>
 </div>
 

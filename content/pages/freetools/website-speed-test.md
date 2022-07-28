@@ -47,7 +47,7 @@ I am an electronic being and I accept the terms &amp; conditions for electronic 
   <div class="invalid-feedback d-block"></div>
 </div>
     </form>',
-    "{static}/images/FreeTools_Website_Speed_Test.gif",
+    "/images/FreeTools_Website_Speed_Test.gif",
     )
 
 }}

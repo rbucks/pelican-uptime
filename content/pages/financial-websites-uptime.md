@@ -4,7 +4,7 @@ slug: financial-websites-uptime
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for Financial Services Websites",
   "Because in your world, uptime is money.",
-  "{static}/images/Finance_Banking_Industries_Trust_Uptime.com_Monitoring_Uptime_1150.webp"
+  "/images/Finance_Banking_Industries_Trust_Uptime.com_Monitoring_Uptime_1150.webp"
 )}}
 
 
@@ -21,7 +21,7 @@ slug: financial-websites-uptime
  </div>
 
 {% from 'image_block.html' import image_block %}
-{{ image_block("left", "{static}/images/Add_Website_Monitoring_Checks_HTTP(S)_SSL_Uptime.webp",
+{{ image_block("left", "/images/Add_Website_Monitoring_Checks_HTTP(S)_SSL_Uptime.webp",
 "UPTIME MONITORING CHECKS",
 "Test institutional infrastructure",
 "Monitor the performance of marketing sites, registration pages, and critical portals for tuition and knowledge sharing between students and staff.",
@@ -32,7 +32,7 @@ slug: financial-websites-uptime
 
 
 {% from 'testimonial.html' import testimonial %}
-{{ testimonial("{static}/images/Uptime.com_User_Review_for_Website_Uptime_Performance_Monitoring.webp",
+{{ testimonial("/images/Uptime.com_User_Review_for_Website_Uptime_Performance_Monitoring.webp",
   "bg-success",
   "Excellent monitoring service",
   "Monitoring public services is critical to proactive service delivery. Uptime has already enabled us to detect outages in near real-time so we can respond quickly and restore services before impact occurs.")}}
