@@ -14,15 +14,15 @@
     <meta name="twitter:description" content="No more 404. Top-rated website performance monitor for thousands of businesses to check downtime, optimize site speed, and improve domain health. Try free.">
     <meta name="twitter:title" content="Website Performance Monitoring | Check Site Uptime | Uptime.com">
 
-    {% assets output="js/packed.js", "js/popper.min.js", "js/jquery-3.2.1.slim.min.js", "js/bootstrap.min.js", "js/owl.carousel.js", "js/jquery.bootstrap-dropdown-hover.min.js" %}
+    {% assets output="js/packed-%(version)s.js", "js/popper.min.js", "js/jquery-3.2.1.slim.min.js", "js/bootstrap.min.js", "js/owl.carousel.js", "js/jquery.bootstrap-dropdown-hover.min.js" %}
       <script src="/{{ASSET_URL}}"></script>
     {% endassets %}
 
-    {% assets filters="libsass", output="css/style.min.css", "scss/uptime.scss" %}
+    {% assets filters="libsass,cssmin", output="css/style-%(version)s.min.css", "scss/uptime.scss" %}
       <link rel="stylesheet" href="/{{ ASSET_URL }}">
     {% endassets %}
 
-    {% assets filters="libsass", output="css/main.min.css", "css/main.css" %}
+    {% assets filters="libsass,cssmin", output="css/main-%(version)s.min.css", "css/main.css" %}
       <link rel="stylesheet" href="/{{ ASSET_URL }}">
     {% endassets %}
 
