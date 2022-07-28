@@ -31,7 +31,7 @@ Title: Reporting
 {{ image_block("left", "/images/Page_Speed_Real_User_Monitoring_RUM_1150x748_2.webp",
 "REAL USER MONITORING (RUM)",
 "Go deeper with RUM",
-"Don’t report on website performance without understanding website experience. Analyze real user website sessions to optimize site code, elements, and uptime. <a href='{filename}real-user-monitoring.md' target='_blank'>Learn more</a>.",
+"Don’t report on website performance without understanding website experience. Analyze real user website sessions to optimize site code, elements, and uptime. <a href='/real-user-monitoring' target='_blank'>Learn more</a>.",
 "bg-info") }}
 
 {{ image_block("right", "/images/Custom_Status_Pages_1160x834.webp",
@@ -43,7 +43,7 @@ Title: Reporting
 {{ image_block("left", "/images/Group_Monitoring_Checks_Uptime_Performance_Tracking_Uptime.png",
 "GROUP MONITORING CHECKS",
 "Associate individual checks into groups",
-"Group monitoring checks by services, customers, and geographies to report on the true state of your system’s uptime for SLA accountability. <a href='{filename}group-checks.md' target='_blank'>Learn more</a>",
+"Group monitoring checks by services, customers, and geographies to report on the true state of your system’s uptime for SLA accountability. <a href='/group-checks' target='_blank'>Learn more</a>",
 "bg-info") }}
 
 

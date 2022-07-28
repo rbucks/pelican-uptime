@@ -42,7 +42,7 @@ Title: Monitoring
 {{ image_block("left", "/images/Add_Web_Monitoring_Checks_900x1020.webp",
 "WEBSITE PERFORMANCE REPORTING",
 "Associate individual checks into groups",
-"Get a bird’s-eye-view into the state of your system-wide uptime performance. Group monitoring checks by services and more to alert on the status of your systems. <a href='{filename}group-checks.md' target='_blank'>Learn more</a>.",
+"Get a bird’s-eye-view into the state of your system-wide uptime performance. Group monitoring checks by services and more to alert on the status of your systems. <a href='/group-checks' target='_blank'>Learn more</a>.",
 "bg-warning") }}
 
 {{ image_block("right", "/images/Uptime_Monitoring_Customer_Support_1160x684.webp",

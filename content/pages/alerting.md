@@ -43,7 +43,7 @@ Title: Alerting
 {{ image_block("left", "/images/Group_Monitoring_Checks_Uptime_Performance_Tracking_Uptime.png",
 "GROUP WEB MONITORING ALERTS",
 "Associate Individual Checks into Groups",
-"Customize grouped monitoring checks with alert conditions. Easily structure alerts and escalations for teams and contacts. <a href='{filename}group-checks.md' target='_blank'>Learn more</a>.",
+"Customize grouped monitoring checks with alert conditions. Easily structure alerts and escalations for teams and contacts. <a href='/group-checks' target='_blank'>Learn more</a>.",
 "bg-danger") }}
 
 {{ image_block("right", "/images/Award_Winning_Web_Monitoring_Tools_890x750.webp",

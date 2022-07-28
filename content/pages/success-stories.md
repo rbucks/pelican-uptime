@@ -6,45 +6,45 @@ Title: Success Stories
 
   {% from 'product.html' import product %} 
   <div class="row mb-5">
-    {{ product("{filename}guild-education.md",
+    {{ product("/guild-education",
       "/images/Customer_Success_Guild.png",
       "Guild",
       "Improving visibility into web app performance and experience"
     )}}
 
-    {{ product("{filename}condeco.md",
+    {{ product("/condeco",
       "/images/Customer_Success_Condeco.png",
       "Condeco",
       "Helping provide the best possible website user experience"
     )}}
 
-    {{ product("{filename}newswire.md",
+    {{ product("/newswire",
       "/images/Customer_Success_Newswire.png",
       "Newswire",
       "Partnering to deliver website performance and reliability"
     )}}
   </div>
   <div class="row mb-5">
-    {{ product("{filename}800.md",
+    {{ product("/800",
       "/images/Customer_Success_800.com.png",
       "800.com",
       "Improving observability with web performance monitoring "
     )}}
 
-    {{ product("{filename}epurple.md",
+    {{ product("/epurple",
       "/images/Customer_Success_Epurple.png",
       "Epurple",
       "Reliably monitoring and reporting on website performance"
     )}}
 
-    {{ product("{filename}transcepta.md",
+    {{ product("/transcepta",
       "/images/Customer_Success_Transcepta.png",
       "Transcepta",
       "Resolving incidents before customers are impacted"
     )}}
   </div>
   <div class="row mb-5">
-    {{ product("{filename}socketlabs.md",
+    {{ product("/socketlabs",
       "/images/SocketLabs_Trusts_Uptime.com_CaseStudy.png",
       "SocketLabs",
       "Offering accurate and reliable external uptime monitoring "

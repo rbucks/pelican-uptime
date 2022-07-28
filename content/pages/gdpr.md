@@ -14,7 +14,7 @@ Title: GDPR
     <li>We have appointed a Data Protection Officer (DPO) to govern our compliance with GDPR, and have instituted a Personal Data Protection system to document our collection and usage of data customers have entrusted to us.</li>
     <li>We have assessed our third-party providers, sub-contractors, and partners to ensure we are working with partners who actively address the security and privacy needs outlined here.</li>
     <li>We have appointed privacy champions for all teams, and have created internal communication channels to facilitate continued knowledge building and training.</li>
-    <li>We have revised the&nbsp;<a href="{filename}privacy-policy.md">Uptime.com Privacy Policy</a>&nbsp;to reflect our commitment to GDPR privacy laws and data handling practices.</li>
+    <li>We have revised the&nbsp;<a href="/privacy-policy">Uptime.com Privacy Policy</a>&nbsp;to reflect our commitment to GDPR privacy laws and data handling practices.</li>
   </ul>
 
   <table class="table w-75">
