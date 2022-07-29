@@ -256,6 +256,11 @@ body {
 
 .trust-image-home {
     max-height: 150px;
+
+
+    @media(max-width: 767px) {
+        max-width: 350px;
+    }
 }
 
 //

@@ -18,11 +18,11 @@
       <script src="/{{ASSET_URL}}"></script>
     {% endassets %}
 
-    {% assets filters="libsass,cssmin", output="css/style-%(version)s.min.css", "scss/uptime.scss" %}
+    {% assets filters="libsass", output="css/style-%(version)s.min.css", "scss/uptime.scss" %}
       <link rel="stylesheet" href="/{{ ASSET_URL }}">
     {% endassets %}
 
-    {% assets filters="libsass,cssmin", output="css/main-%(version)s.min.css", "css/main.css" %}
+    {% assets filters="libsass", output="css/main-%(version)s.min.css", "css/main.css" %}
       <link rel="stylesheet" href="/{{ ASSET_URL }}">
     {% endassets %}
 
