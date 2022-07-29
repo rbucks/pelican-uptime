@@ -266,7 +266,7 @@ Title: Pricing
   )}}
 
 <div class="container">
-  <h2 class="text-center mb-4">Frequently Asked Questions</h2>
+  <h2 class="text-center mb-5">Frequently Asked Questions</h2>
   <div id="accordion">
     {% from 'faq.html' import faq %} 
     {{ faq("1",
@@ -280,5 +280,31 @@ Title: Pricing
           '<p>SaaS plans involve multiple fixed package options that vary by features and price. The fixed nature of these plans require users to upgrade to a higher tier if they’ve reached their maximum feature or volume limits.</p>
            <p>Our subscription levels are preset with starting features + volume minimums. Users select a level with the base price, features, and volume they need and add features/capacity from there.</p>'
     )}}
+    {{ faq("3",
+          "Are discounts available to annual subscribers at any level?",
+          '<p>Yes. 15% discounts are applied to accounts on annual subscriptions. Users who select our Premium subscription level when signing up for the first time receive 20% off future à la carte usage.</p>'
+    )}}
+    {{ faq("4",
+          "Can I add-on your $449/mo Premium level after my initial subscription?",
+          '<p>Yes, this will grant you access to more advanced features like Audit Log, SSO, Private Locations, and Subaccounts.</p>
+           <p>However, adding Premium monitoring at a later date means your account is ineligible for the 20% à la carte discount or higher usage minimums. We strongly encourage users anticipating incremental usage to start at the Premium level when first subscribing to lock-in future savings as needs grow.</p>'
+    )}}
+    {{ faq("5",
+          "Do you enable à la carte downgrades as well as upgrades?",
+          '<p>Downgrades must be managed by our <a href="mailto:support@uptime.com">Support staff</a> to protect against system abuse and violations. Submit a <a href="https://uptime.com/contact?">support ticket</a> to get started.</p>'
+    )}}
+    {{ faq("6",
+          "Any features not available à la carte via the Subscription Tool?",
+          '<p>Uptime.com subaccounts and Private Monitoring Locations require <a href="mailto:support@uptime.com">Support</a> configuration and aren’t available self-serve at this time. Both are set up within 24 business hours of a ticketed request.</p>'
+    )}}
+    {{ faq("7",
+          "What about existing customers on a legacy fixed plan?",
+          '<p>They have the same flexibility and self-serve access that new users have, and can add incremental website monitoring features as their uptime needs grow.</p>'
+    )}}
+    {{ faq("8",
+          "Where can I find the self-serve Subscription Tool?",
+          '<p>It’s easily found within Uptime.com’s website monitoring user panel, under: Billing → Subscription.</p>'
+    )}}
+    <br/><br/>
   </div>
 </div>
