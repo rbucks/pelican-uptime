@@ -53,9 +53,10 @@ Title: Monitoring
 
 {% from 'testimonial.html' import testimonial %}
 {{ testimonial("/images/Uptime.com_User_Review_for_Website_Uptime_Performance_Monitoring_Mike.webp",
-  "bg-success",
+  "bg-warning",
   "Clean and simple yet robust set of monitoring tools - from a very happy user!",
-  "Don’t mistake their simplicity for lack of features. Their platform is extremely robust and they have features that allow monitoring on items I didn’t even know was possible.")}}
+  "Don’t mistake their simplicity for lack of features. Their platform is extremely robust and they have features that allow monitoring on items I didn’t even know was possible.",
+ )}}
 
 {% from 'cta_bottom.html' import cta_bottom %}
 {{ cta_bottom("Check website performance now",
