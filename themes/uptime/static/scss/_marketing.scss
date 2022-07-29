@@ -361,6 +361,25 @@ body {
         margin: 0px;
         font-size: 1.2rem;
     }
+
+    .faq {
+        border-radius: 0.25rem;
+        border-width: 1px;
+        border-color: #fff;
+        background-color: #fff;
+        filter: drop-shadow(0 0.2rem 0.25rem rgba(0,0,0,0.2));
+        opacity: 1;
+        transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        transition: opacity 0.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.5s cubic-bezier(0.5, 0, 0, 1) 0s;
+        font-family: Barlow;
+        font-size: 20px;
+        color: #000;
+        line-height: 34px;
+    }
+
+    .hs-form-booleancheckbox {
+        list-style-type: none;
+    }
 }
 
 //
