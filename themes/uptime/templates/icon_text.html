@@ -1,0 +1,9 @@
+{% macro icon_text(icon, title, text, bg_color='bg-light-gray') -%}
+<div class="text-center p-5 {{ bg_color }}">
+  <div>
+  	<img loading="lazy" src="{{ icon }}" class="w-25 img-fluid">
+  </div>
+  <h2>{{title}}</h2>
+  <p>{{text}}</p>
+</div>
+{%- endmacro %}
