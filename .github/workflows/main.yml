@@ -35,3 +35,4 @@ jobs:
           files: build.zip
           name: "${{ github.run_number }}"
           draft: true
+          prerelease: true
