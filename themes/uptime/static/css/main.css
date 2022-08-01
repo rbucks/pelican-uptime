@@ -126,3 +126,7 @@ input[type=radio]:checked {
 .uptime-drop-shadow {
  filter:drop-shadow(0 .2rem .25rem rgba(0,0,0,0.2));
 }
+
+.dnd_area-row-0-background-color {
+    background-color:  rgba(233, 231, 243, 1);
+}

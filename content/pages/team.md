@@ -1,10 +1,10 @@
 Title: Team
 css: team.css
-<div class="container-fluid body-container">
+<div class="body-container">
   <div class="row-fluid-wrapper">
     <div class="row-fluid">
       <div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
-        <div class="row-fluid-wrapper row-depth-1 row-number-1 dnd_area-row-0-vertical-alignment dnd_area-row-0-background-color dnd-section dnd_area-row-0-padding">
+        <div class="row-fluid-wrapper row-depth-1 row-number-1 dnd_area-row-0-vertical-alignment dnd_area-row-0-background-color p-5 dnd-section dnd_area-row-0-padding">
           <div class="row-fluid ">
             <div class="span12 widget-span widget-type-cell cell_16310722971862-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
               <div class="row-fluid-wrapper row-depth-1 row-number-2 dnd-row">
@@ -29,7 +29,7 @@ css: team.css
           <!--end row-->
         </div>
         <!--end row-wrapper -->
-        <div class="row-fluid-wrapper row-depth-1 row-number-3 dnd_area-row-1-padding dnd-section">
+        <div class="row-fluid-wrapper mt-5 pb-4 row-depth-1 row-number-3 dnd_area-row-1-padding dnd-section">
           <div class="row-fluid ">
             <div class="span12 widget-span widget-type-cell dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
               <div class="row-fluid-wrapper row-depth-1 row-number-4 dnd-row">
@@ -69,7 +69,7 @@ css: team.css
         </div>
         <!--end row-wrapper -->
         {% from 'team_member.html' import team_member %}
-        <div class="row mt-4">
+        <div class="row mt-5">
           <div class="col-md-4 col-lg-4 col-xs-12 text-center">
             {{team_member(
             "images/Mike_Welsh_CEO_Uptime.com_Website_Performance_Monitoring_Solution.webp",
