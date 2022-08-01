@@ -31,7 +31,7 @@ jobs:
       - uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/heads/main')
         name: Pre-Release
-        prerelease: true
         with:
           files: build.zip
           name: {{ github.run_id }}
+          prerelease: true
