@@ -34,4 +34,4 @@ jobs:
         with:
           files: build.zip
           name: "${{ github.run_id }}"
-          prerelease: true
+          draft: true
