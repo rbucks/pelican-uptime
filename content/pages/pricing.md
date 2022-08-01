@@ -6,7 +6,7 @@ Title: Pricing
     <p class="subheading">Add à la carte website monitoring features at any level.</p>
     <div class="card pricing mt-5">
       <div class="card-body">
-        <img class="floating-upbob" src="{static}/images/Save_On_Annual_Subscription_UptimeLogo.png">
+        <img class="floating-upbob" src="/images/Save_On_Annual_Subscription_UptimeLogo.png">
         <div class="row">
           <div class="col bg-white">
             <div class="text-center mb-4">
@@ -43,7 +43,7 @@ Title: Pricing
           </div>
         </div>
         <div class="text-center mt-5">
-          <a href="https://uptime.com/accounts/register" class="btn btn-lg btn-success mb-3">100% Free Trial</a>
+          <a href="/accounts/register" class="btn btn-lg btn-success mb-3">100% Free Trial</a>
           <p class="py-2 subheading">Try Premium free for 21 days. No credit card required -- cancel anytime.</p>
         </div>
       </div>
@@ -70,7 +70,7 @@ Title: Pricing
             </ul>
           </div>
           <div class="col my-auto text-center">
-            <a href="https://uptime.com/request-demo" class="btn btn-lg btn-info">Let's Talk</a>
+            <a href="/request-demo" class="btn btn-lg btn-info">Let's Talk</a>
           </div>
         </div>
       </div>
@@ -107,7 +107,7 @@ Title: Pricing
           <td style="text-align: left;"><strong>Basic Monitoring Checks</strong><br>Continuously test website, network, and email server performance.</td>
           <td>30+</td>
           <td>200+</td>
-          <td style="background: #cccade;" rowspan="7"><img style="width: 30px; height: 30px;" src="{static}/images/Customize_Pricing_Icon.png" alt="Customize Your Plan"><br><strong><span style="color: #fff;">Customize</span></strong></td>
+          <td style="background: #cccade;" rowspan="7"><img style="width: 30px; height: 30px;" src="/images/Customize_Pricing_Icon.png" alt="Customize Your Plan"><br><strong><span style="color: #fff;">Customize</span></strong></td>
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Transaction Checks</strong><br>Mimic user actions to test flows and forms via synthetic monitoring.</td>
@@ -138,8 +138,8 @@ Title: Pricing
         </tr>
         <tr>
           <td style="text-align: left;"><strong>REST API</strong><br>Manage your monitoring account without logging in.</td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/CheckMark_Icon.png" alt="checkmark icon"></td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/CheckMark_Icon.png" alt="checkmark icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/CheckMark_Icon.png" alt="checkmark icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/CheckMark_Icon.png" alt="checkmark icon"></td>
         </tr>
         <tr>
           <td style="background: #e9e7f3; font-weight: 900; text-align: left;" colspan="4"><strong>Downtime &amp; Site Performance Alerts</strong></td>
@@ -148,7 +148,7 @@ Title: Pricing
           <td style="text-align: left;"><strong>Monthly SMS Credits</strong><br>Get text message alert notifications.</td>
           <td>180+</td>
           <td>800+</td>
-          <td style="background: #cccade;" rowspan="4"><img style="width: 30px; height: 30px;" src="{static}/images/Customize_Pricing_Icon.png" alt="Customize Your Plan"><br><strong><span style="color: #fff;">Customize</span></strong></td>
+          <td style="background: #cccade;" rowspan="4"><img style="width: 30px; height: 30px;" src="/images/Customize_Pricing_Icon.png" alt="Customize Your Plan"><br><strong><span style="color: #fff;">Customize</span></strong></td>
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Monthly Phone Credits</strong><br>Get automated call alert notifications.</td>
@@ -162,8 +162,8 @@ Title: Pricing
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Third-Party Integrations</strong><br>Use Uptime.com with popular DevOps tools.</td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/CheckMark_Icon.png" alt="checkmark icon"></td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/CheckMark_Icon.png" alt="checkmark icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/CheckMark_Icon.png" alt="checkmark icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/CheckMark_Icon.png" alt="checkmark icon"></td>
         </tr>
         <tr>
           <td style="background: #e9e7f3; font-weight: 900; text-align: left;" colspan="4"><strong>Uptime Reports &amp; Monitoring Dashboards</strong></td>
@@ -172,7 +172,7 @@ Title: Pricing
           <td style="text-align: left;"><strong>Dashboards</strong><br>Customize for downtime, alerts, and check reporting.</td>
           <td>2+</td>
           <td>10+</td>
-          <td style="background: #cccade;" rowspan="2"><img style="width: 30px; height: 30px;" src="{static}/images/Customize_Pricing_Icon.png" alt="Customize Your Plan"><br><strong><span style="color: #fff;">Customize</span></strong></td>
+          <td style="background: #cccade;" rowspan="2"><img style="width: 30px; height: 30px;" src="/images/Customize_Pricing_Icon.png" alt="Customize Your Plan"><br><strong><span style="color: #fff;">Customize</span></strong></td>
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Scheduled SLA Reports</strong><br>Deliver checks, systems, and SLA response reports to designated contacts.</td>
@@ -186,7 +186,7 @@ Title: Pricing
           <td style="text-align: left;"><strong>System Status Pages</strong><br>Create external and internal pages for incident communication.</td>
           <td>1+</td>
           <td>5+</td>
-          <td style="background: #cccade;" rowspan="2"><img style="width: 30px; height: 30px;" src="{static}/images/Customize_Pricing_Icon.png" alt="Customize Your Plan"><br><strong><span style="color: #fff;">Customize</span></strong></td>
+          <td style="background: #cccade;" rowspan="2"><img style="width: 30px; height: 30px;" src="/images/Customize_Pricing_Icon.png" alt="Customize Your Plan"><br><strong><span style="color: #fff;">Customize</span></strong></td>
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Status Page Subscribers</strong><br>The total available subscriber seats across status pages.</td>
@@ -198,9 +198,9 @@ Title: Pricing
         </tr>
         <tr>
           <td style="text-align: left;"><strong>20% off à la carte usage</strong><br>Available with Premium subscription only, <a href="#pricing-discount" rel="noopener">learn more</a>.</td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/X_Icon.png" alt="X icon"></td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/CheckMark_Icon.png" alt="checkmark icon"></td>
-          <td style="background: #cccade;" rowspan="10"><img style="width: 30px; height: 30px;" src="{static}/images/Customize_Pricing_Icon.png" alt="Customize Your Plan"><br><strong><span style="color: #fff;">Customize</span></strong></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/X_Icon.png" alt="X icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/CheckMark_Icon.png" alt="checkmark icon"></td>
+          <td style="background: #cccade;" rowspan="10"><img style="width: 30px; height: 30px;" src="/images/Customize_Pricing_Icon.png" alt="Customize Your Plan"><br><strong><span style="color: #fff;">Customize</span></strong></td>
         </tr>
         <tr>
           <td style="text-align: left;"><strong>User Accounts</strong><br>The total number of available platform login seats.</td>
@@ -214,38 +214,38 @@ Title: Pricing
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Subaccounts</strong><br>Segment monitoring accounts for different users and teams.</td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/X_Icon.png" alt="X icon"></td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/CheckMark_Icon.png" alt="checkmark icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/X_Icon.png" alt="X icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/CheckMark_Icon.png" alt="checkmark icon"></td>
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Private Monitoring Locations</strong><br>Test intranet apps or sites behind firewalls.</td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/X_Icon.png" alt="X icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/X_Icon.png" alt="X icon"></td>
           <td>Add-on</td>
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Single Sign-On</strong><br>Unify and manage user permissions at scale.</td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/X_Icon.png" alt="X icon"></td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/CheckMark_Icon.png" alt="checkmark icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/X_Icon.png" alt="X icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/CheckMark_Icon.png" alt="checkmark icon"></td>
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Audit Log</strong><br>View your account’s history and changes.</td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/X_Icon.png" alt="X icon"></td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/CheckMark_Icon.png" alt="checkmark icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/X_Icon.png" alt="X icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/CheckMark_Icon.png" alt="checkmark icon"></td>
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Traceroute</strong><br>Detect anomalies between an Uptime.com probe server and your website.</td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/X_Icon.png" alt="X icon"></td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/CheckMark_Icon.png" alt="checkmark icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/X_Icon.png" alt="X icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/CheckMark_Icon.png" alt="checkmark icon"></td>
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Premium Support</strong><br>Get fast response and resolution with our technical experts.</td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/CheckMark_Icon.png" alt="checkmark icon"></td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/CheckMark_Icon.png" alt="checkmark icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/CheckMark_Icon.png" alt="checkmark icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/CheckMark_Icon.png" alt="checkmark icon"></td>
         </tr>
         <tr>
           <td style="text-align: left;"><strong>Enterprise Account Management</strong><br>Get custom support, QBRs, strategy and more.</td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/X_Icon.png" alt="X icon"></td>
-          <td><img style="width: 30px; height: 30px;" src="{static}/images/X_Icon.png" alt="X icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/X_Icon.png" alt="X icon"></td>
+          <td><img style="width: 30px; height: 30px;" src="/images/X_Icon.png" alt="X icon"></td>
         </tr>
       </tbody>
     </table>
@@ -253,7 +253,7 @@ Title: Pricing
 </div>
 
 {% from 'testimonial.html' import testimonial %}
-{{ testimonial("{static}/images/Uptime.com_UserReview_G2_Verified_fivestars.webp",
+{{ testimonial("/images/Uptime.com_UserReview_G2_Verified_fivestars.webp",
   "bg-success",
   "Monitoring made easy",
   "Easy to use but intuitive interface on the website. Very well priced and the customer support team is outstanding. Responsive, knowledgeable, and swift to resolve your issues.")}}
@@ -291,7 +291,7 @@ Title: Pricing
     )}}
     {{ faq("5",
           "Do you enable à la carte downgrades as well as upgrades?",
-          '<p>Downgrades must be managed by our <a href="mailto:support@uptime.com">Support staff</a> to protect against system abuse and violations. Submit a <a href="https://uptime.com/contact?">support ticket</a> to get started.</p>'
+          '<p>Downgrades must be managed by our <a href="mailto:support@uptime.com">Support staff</a> to protect against system abuse and violations. Submit a <a href="/contact?">support ticket</a> to get started.</p>'
     )}}
     {{ faq("6",
           "Any features not available à la carte via the Subscription Tool?",
