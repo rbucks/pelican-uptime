@@ -1,6 +1,11 @@
 Title: Website Monitoring Products
 slug: products
 
+
+{% block description %}
+<meta name="description" content="Uptime monitoring products and alternatives. Explore our top-rated performance monitoring tools, and compare us to other popular web monitoring services.">
+{%endblock%}
+
 {% from 'banner.html' import banner %}
 {{ banner("Uptime Monitoring Products",
   "Explore our top-rated website performance monitoring tools.",

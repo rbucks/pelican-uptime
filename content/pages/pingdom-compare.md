@@ -1,5 +1,10 @@
-Title: Top Pingdom Monitoring Alternative
+Title: Top Pingdom Monitoring Alternative | Check Website Uptime
 slug: pingdom-compare
+
+
+{% block description %}
+<meta name="description" content="#1 Pingdom Monitoring Alternative: Trust the top-rated downtime monitor with better site checking tools, IT support, and no false alarms. 100% free trial.">
+{%endblock%}
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime.com is a top Pingdom alternative",

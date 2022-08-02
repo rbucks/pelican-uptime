@@ -1,5 +1,11 @@
 Title: Customers
 css: customers.css
+
+
+{% block description %}
+<meta name="description" content="Our customers choose peace of mind. Meet the global brands and websites that trust Uptime.com with their downtime and performance monitoring.">
+{%endblock%}
+
 {% from 'banner.html' import banner %}
 {{ banner("<span>Our customers choose <span class='text-success'>peace of mind</span></span>",
 "Meet some of the websites who trust us with their uptime monitoring.",

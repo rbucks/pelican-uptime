@@ -1,5 +1,9 @@
 Title: Reporting
 
+{% block description %}
+<meta name="description" content="Website monitoring service. Display alerts, checks, and SLA data with the industry's most customizable uptime reports and performance monitoring dashboards">
+{%endblock%}
+
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Reporting & Analytics",
   "Report on website uptime, page speed, and SLA performance with anyone, anywhere, anytime. ",

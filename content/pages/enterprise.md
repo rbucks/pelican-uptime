@@ -1,4 +1,9 @@
-Title: Enterprise
+Title: Website Uptime Monitoring for Enterprises
+
+
+{% block description %}
+<meta name="description" content="Enterprise uptime and performance monitoring services. The world's largest companies trust Uptime.com to monitor their websites. Try free for 21-days.">
+{%endblock%}
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Enterprise Uptime Monitoring",

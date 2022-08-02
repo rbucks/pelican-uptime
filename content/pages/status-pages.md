@@ -1,4 +1,9 @@
-Title: Status Pages
+Title: Site Status Pages | Website Uptime Performance Monitoring
+
+
+{% block description %}
+<meta name="description" content="Website monitoring service. Build branded, customizable, and subscribable website status pages with the same tool used to monitor site uptime performance.">
+{%endblock%}
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Website &amp; System Status Pages",

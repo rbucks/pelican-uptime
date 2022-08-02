@@ -1,6 +1,10 @@
 Title: Website Monitoring for IT Services | Check Speed & Uptime
 slug: it-services-uptime
 
+{% block description %}
+<meta name="description" content="Website monitoring software. Check HTTP(S), SSL, Real User Monitoring, & synthetics performance. Configure downtime alerts, create status pages. Try free.">
+{%endblock%}
+
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for IT Service Providers",
   'Because more uptime means better infrastructure performance.',

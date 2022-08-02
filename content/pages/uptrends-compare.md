@@ -1,5 +1,10 @@
-Title: Top Uptrends Monitoring Alternative
+Title: Top Uptrends Monitoring Alternative | Check Website Uptime
 slug: uptrends-compare
+
+
+{% block description %}
+<meta name="description" content="#1 Uptrends Alternative: Trust the website monitor with better uptime tools, customer support, no false downtime positives with Uptime.com. No more 404.">
+{%endblock%}
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime.com is a top Uptrends alternative",

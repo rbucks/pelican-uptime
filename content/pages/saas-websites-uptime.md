@@ -1,6 +1,10 @@
 Title: Website Monitoring for SaaS Brands | Check Speed & Uptime
 slug: saas-websites-uptime
 
+{% block description %}
+<meta name="description" content="Website monitoring for B2B software companies. Test uptime, deliver alerts, monitor real user sessions, and create branded status pages. 100% free trial.">
+{%endblock%}
+
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for SaaS Websites",
   'Because improving uptime increases pipeline and revenue.',

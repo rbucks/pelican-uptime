@@ -1,7 +1,10 @@
 Title: Monitoring
 
-{% from 'cta_top.html' import cta_top %}
+{% block description %}
+<meta name="description" content="Website monitoring service. Configure dozens of checks such as HTTP(S), SSL, and synthetics without sacrificing simplicity or peace of mind with Uptime.com">
+{%endblock%}
 
+{% from 'cta_top.html' import cta_top %}
 {{ cta_top("Website Monitoring Checks",
   "Configure sophisticated uptime monitoring checks without sacrificing simplicity.",
   "/images/Web_Monitoring_Software_1150x920.gif"

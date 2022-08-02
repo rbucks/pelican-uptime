@@ -1,6 +1,10 @@
 Title: Website Monitoring for Schools | Check Speed & Time
 slug: edu-websites-uptime
 
+{% block description %}
+<meta name="description" content="Monitoring software for edu websites. Check HTTP(S), APIs, and Synthetics; create alerts and status pages when downtime strikes. No credit card free trial">
+{%endblock%}
+
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for Education Websites",
   'Because you want to earn an "A" in uptime performance.',
@@ -25,34 +29,28 @@ slug: edu-websites-uptime
 "UPTIME MONITORING CHECKS",
 "Test institutional infrastructure",
 "Monitor the performance of marketing sites, registration pages, and critical portals for tuition and knowledge sharing between students and staff.",
-"bg-success") }}
-
-
-
+"bg-success") 
+}}
 {{ image_block("right", "/images/Uptime_University_API_Check_1100x1194.gif",
 "API MONITORING CHECKS",
 "Monitor 3rd party services",
 "Check the reliability of API-driven systems and services used to support student life, including campus safety, meal planning, and more.",
 "bg-success") }}
-
 {{ image_block("left", "/images/Deliver_Website_Outage_Alerts_via_SMS_Call_Email_University_IT_Admins_SREs.webp",
 "WEBSITE DOWNTIME ALERTS",
 "Know when checks fail tests",
 "Mitigate confusion and accelerate resolution. Deliver accurate downtime alerts via SMS, phone call, email, and popular tools like Slack, PagerDuty and Microsoft Teams.",
 "bg-success") }}
-
 {{ image_block("right", "/images/Use_Real_User_Monitoring_RUM_to_monitor_speed_errors_and_availability_University_resources_around_world.webp",
 "REAL USER MONITORING (RUM)",
 "Monitor speed and user experience",
 "Optimize code, elements, and website performance by monitoring real user session data from students and staff accessing systems from around the world.",
 "bg-success") }}
-
 {{ image_block("left", "/images/Create_branded_website_status_pages_downtime_incident_scheduled_website_maintenance_windows.webp",
 "WEBSITE STATUS PAGES",
 "Update students and staff",
 "Reduce pressure on IT admins during downtime or maintenance windows with branded, subscribable website status pages.",
 "bg-success") }}
-
 {{ image_block("right", "/images/Best_Technical_Support_Team_for_Website_Uptime_Performance_Monitoring_with_Uptime.com_1100x796.webp",
 "UPTIME CUSTOMER SUPPORT",
 "Count on top-rated support",
