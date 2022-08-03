@@ -1,8 +1,5 @@
-Title: Alerting
-
-{% block description %}
-<meta name="description" content="Website monitoring service. Deliver downtime alerts with the most reliable IT notification system to minimize false alarms and improve website performance.">
-{%endblock%}
+title: Alerting
+description: Website monitoring service. Deliver downtime alerts with the most reliable IT notification system to minimize false alarms and improve website performance.
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Website Downtime Alerts",

@@ -1,10 +1,7 @@
 Title: Top Datadog Monitoring Alternative | Check Website Uptime
 slug: datadog-compare
+description: #1 Datadog Alternative: Trust the top-rated website monitoring service with easier setup, better support, and no false alarms for 15% less with Uptime.com.
 
-
-{% block description %}
-<meta name="description" content="#1 Datadog Alternative: Trust the top-rated website monitoring service with easier setup, better support, and no false alarms for 15% less with Uptime.com.">
-{%endblock%}
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime.com is a top Datadog alternative",

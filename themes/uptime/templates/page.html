@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block html_lang %}{{ page.lang }}{% endblock %}
 
-{% block title %}{{ SITENAME }} - {{ page.title|striptags }}{%endblock%}
+{% block title %} {{ page.title|striptags }} | {{ SITENAME }}{%endblock%}
 
 {% block head %}
   {{ super() }}
@@ -13,6 +13,13 @@
 
   {% if page.css %}
   <link rel="stylesheet" href="/{{ THEME_STATIC_DIR }}/css/{{ page.css }}" />
+  {% endif %}
+
+
+  {% if page.description %}
+  <meta name="description" content="{{page.description}}">
+  {% else %}
+  <meta name="description" content="No more 404. Top-rated website performance monitor for thousands of businesses to check downtime, optimize site speed, and improve domain health. Try free.">
   {% endif %}
 {% endblock %}
 

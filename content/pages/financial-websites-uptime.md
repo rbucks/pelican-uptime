@@ -1,9 +1,6 @@
 Title: Website Monitoring For Banks | Check Site Speed & Uptime
 slug: financial-websites-uptime
-
-{% block description %}
-<meta name="description" content="Website uptime monitoring software. Banking and financial websites use Uptime.com to check downtime, test speed, & monitor performance. 100% Free trial.">
-{%endblock%}
+description: Website uptime monitoring software. Banking and financial websites use Uptime.com to check downtime, test speed, & monitor performance. 100% Free trial.
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for Financial Services Websites",
@@ -17,7 +14,7 @@ slug: financial-websites-uptime
   "is the cost to companies impacted by unplanned outages.",
   "bg-dark",
   "bg-success",
-  "text-white"
+  "text-white",
 )}}
 
  <div class="container bg-white my-5">
@@ -33,7 +30,6 @@ slug: financial-websites-uptime
   "bg-success",
 ) 
 }}
-
 
 
 {% from 'testimonial.html' import testimonial %}

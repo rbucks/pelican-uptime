@@ -1,8 +1,5 @@
-Title: Site Uptime Integrations | Website Performance Monitoring
-
-{% block description %}
-<meta name="description" content="Website monitoring service. Easily deliver downtime alerts, response time metrics, and more website uptime and performance data to DevOps tools you trust.">
-{%endblock%}
+title: Site Uptime Integrations | Website Performance Monitoring
+description: Website monitoring service. Easily deliver downtime alerts, response time metrics, and more website uptime and performance data to DevOps tools you trust.
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring Integrations",

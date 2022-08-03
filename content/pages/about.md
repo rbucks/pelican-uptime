@@ -1,9 +1,5 @@
-Title: About
-css: about.css
-
-{% block description %}
-<meta name="description" content="Our passion is peace of mind. Meet the company trusted by thousands of websites to monitor downtime, performance, and domain health with Uptime.com.">
-{%endblock%}
+title: About
+description: Our passion is peace of mind. Meet the company trusted by thousands of websites to monitor downtime, performance, and domain health with Uptime.com.
 
 <div class="body-container">
   <div class="row-fluid-wrapper">

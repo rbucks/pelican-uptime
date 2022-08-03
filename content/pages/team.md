@@ -1,9 +1,5 @@
-Title: Team
-css: team.css
-
-{% block description %}
-<meta name="description" content="Website Uptime and Performance Monitoring: Meet the Uptime.com leadership team behind one of the world's top site speed and monitoring software solutions.">
-{%endblock%}
+title: Team
+description: Website Uptime and Performance Monitoring: Meet the Uptime.com leadership team behind one of the world's top site speed and monitoring software solutions.
 
 <div class="body-container">
   <div class="row-fluid-wrapper">

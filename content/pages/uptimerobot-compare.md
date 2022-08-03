@@ -1,10 +1,6 @@
-Title: Uptime Robot Monitoring Alternative | Check Website Uptime
+title: Uptime Robot Monitoring Alternative | Check Website Uptime
 slug: uptimerobot-compare
-
-
-{% block description %}
-<meta name="description" content="#1 UptimeRobot Alternative: Trust the site downtime and availability service with better monitoring tools, support, no false positives with Uptime.com.">
-{%endblock%}
+description: #1 UptimeRobot Alternative: Trust the site downtime and availability service with better monitoring tools, support, no false positives with Uptime.com.
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime.com is a top Uptime Robot alternative",

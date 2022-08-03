@@ -1,8 +1,5 @@
-Title: Real User Monitoring
-
-{% block description %}
-<meta name="description" content="Website uptime performance monitoring. Use user session data to optimize site speed, performance, and experience. Try Uptime.com RUM 100% free for 21-days.">
-{%endblock%}
+t itle: Real User Monitoring
+description: Website uptime performance monitoring. Use user session data to optimize site speed, performance, and experience. Try Uptime.com RUM 100% free for 21-days.
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Real User Monitoring (RUM)",

@@ -1,9 +1,6 @@
-Title: Website Monitoring for Schools | Check Speed & Time
+title: Website Monitoring for Schools | Check Speed & Time
 slug: edu-websites-uptime
-
-{% block description %}
-<meta name="description" content="Monitoring software for edu websites. Check HTTP(S), APIs, and Synthetics; create alerts and status pages when downtime strikes. No credit card free trial">
-{%endblock%}
+description: Monitoring software for edu websites. Check HTTP(S), APIs, and Synthetics; create alerts and status pages when downtime strikes. No credit card free trial.
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for Education Websites",

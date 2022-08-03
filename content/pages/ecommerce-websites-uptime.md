@@ -1,9 +1,7 @@
-Title: Website Monitoring for Ecommerce
+title: Website Monitoring for Ecommerce
 slug: ecommerce-websites-uptime
+description: Website monitoring software. Trusted by leading ecommerce brands and online sellers to test uptime, real user experience and transactions. 100% free trial
 
-{% block description %}
-<meta name="description" content="Website monitoring software. Trusted by leading ecommerce brands and online sellers to test uptime, real user experience and transactions. 100% free trial">
-{%endblock%}
 
 {% from 'cta_top.html' import cta_top %} 
 {{ cta_top("Uptime Monitoring for Ecommerce Websites",

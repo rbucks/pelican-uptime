@@ -1,8 +1,5 @@
-Title: Monitoring
-
-{% block description %}
-<meta name="description" content="Website monitoring service. Configure dozens of checks such as HTTP(S), SSL, and synthetics without sacrificing simplicity or peace of mind with Uptime.com">
-{%endblock%}
+title: Monitoring
+description: Website monitoring service. Configure dozens of checks such as HTTP(S), SSL, and synthetics without sacrificing simplicity or peace of mind with Uptime.com.
 
 {% from 'cta_top.html' import cta_top %}
 {{ cta_top("Website Monitoring Checks",
