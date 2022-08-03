@@ -21,9 +21,7 @@ description: #1 Uptrends Alternative: Trust the website monitor with better upti
   "bg-success"
 )}}
 
-
 {% from 'table_compare.html' import table_compare %} 
-<div class="container bg-white my-5">
   {{ table_compare("Better Uptime",
     (
       ("Global External Monitoring", "✓", "✓"),
