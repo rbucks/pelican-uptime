@@ -1,4 +1,5 @@
 title: Website Uptime Monitoring for Enterprises
+slug: enterprise
 description: Enterprise uptime and performance monitoring services. The world's largest companies trust Uptime.com to monitor their websites. Try free for 21-days.
 
 
