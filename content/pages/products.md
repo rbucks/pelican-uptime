@@ -107,13 +107,6 @@ description: Uptime monitoring products and alternatives. Explore our top-rated 
       "Uptrends Alternative",
       "Why us? Easier setup, less false alarms, top-rated support."
     )}}
-
-     <div class="col p-3 m-1">
-     </div>
-
-     <div class="col p-3 m-1">
-     </div>
-
   </div>
 </div>
 

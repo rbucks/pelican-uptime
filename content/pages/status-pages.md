@@ -1,4 +1,5 @@
 title: Site Status Pages | Website Uptime Performance Monitoring
+slug: status-pages
 description: Website monitoring service. Build branded, customizable, and subscribable website status pages with the same tool used to monitor site uptime performance.
 
 {% from 'cta_top.html' import cta_top %} 

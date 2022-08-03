@@ -1,4 +1,5 @@
 title: Site Uptime Integrations | Website Performance Monitoring
+slug: integrations
 description: Website monitoring service. Easily deliver downtime alerts, response time metrics, and more website uptime and performance data to DevOps tools you trust.
 
 {% from 'cta_top.html' import cta_top %} 
