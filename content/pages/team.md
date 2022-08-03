@@ -134,14 +134,15 @@ description: Website Uptime and Performance Monitoring: Meet the Uptime.com lead
             )}}
           </div>
         </div>
-        {% from 'testimonial.html' import testimonial %}
-        {{ testimonial("/images/User_Review_Uptime.com_Website_Performance_Monitoring_Downtime_Outage_Checks.webp",
-          "bg-success",
-          "Top Notch Team & Exciting Product",
-          "Huge pool of collective knowledge and industry experience/success among very accessible company leadership. Company is fully remote, but communication, inclusivity, and organization are on point. The flexibility of working from anywhere is great.")
-        }}
       </div>
       <!--end widget-span -->
     </div>
   </div>
 </div>
+
+{% from 'testimonial.html' import testimonial %}
+{{ testimonial("/images/User_Review_Uptime.com_Website_Performance_Monitoring_Downtime_Outage_Checks.webp",
+  "bg-success",
+  "Top Notch Team & Exciting Product",
+  "Huge pool of collective knowledge and industry experience/success among very accessible company leadership. Company is fully remote, but communication, inclusivity, and organization are on point. The flexibility of working from anywhere is great.")
+}}
