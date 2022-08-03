@@ -1,4 +1,5 @@
 title: Uptime Pricing | Website Performance & Speed Monitoring
+slug: pricing
 description: Pricing for Uptime.com website monitoring services. 100% free trial. Top-rated by thousands of sites to monitor downtime, performance, and domain health.
 
 <div class="container-fluid bg-light-gray pt-5">
