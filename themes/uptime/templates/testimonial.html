@@ -1,15 +1,11 @@
 {% macro testimonial(src, bg_color, big_quote, small_quote) -%}
-<div class="{{ bg_color }}">
-  <div class="py-5">
-    <div class="row">
-      <div class="col-md-6 col-lg-6 col-xs-12">
-        <img loading="lazy" src="{{ src }}" class="img-fluid">
-      </div>
-      <div class="col-md-6 col-lg-6 col-xs-12 my-auto">
-        <p class="quote text-white font-weight-medium mb-2">"{{ big_quote }}"</p>
-        <p class="subheading mt-4">"{{ small_quote }}"</p>
-      </div>
-    </div>
+<div class="row p-4 {{ bg_color }}">
+  <div class="col-md-6 col-lg-6 col-xs-12">
+    <img loading="lazy" src="{{ src }}" class="img-fluid">
+  </div>
+  <div class="col-md-6 col-lg-6 col-xs-12">
+    <p class="quote text-white font-weight-medium">"{{ big_quote }}"</p>
+    <p class="subheading mt-4">"{{ small_quote }}"</p>
   </div>
 </div>
 {%- endmacro %}
