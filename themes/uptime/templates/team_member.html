@@ -1,13 +1,15 @@
 {% macro team_member(image, alt, title, subtitle, linkedin ) -%}
-<img src="/{{image}}" width="250" height="250" alt="{{alt}}" title="{{alt}}" loading="lazy">
-<h2 class="mb-4 atmc-headline-default fadeInBottom">
- {{title}}
-</h2>
-<p class="atmc-intro">{{subtitle}}
-	<br>
-	<a href="{{linkedin}}"
-		rel="noopener"
-		target="_blank">LinkedIn
-	</a>
-</p>
+<div class="card border-0">
+	<div class="card-body">
+		<img src="/{{image}}" width="250" height="250" alt="{{alt}}" title="{{alt}}" loading="lazy">
+		<h2>{{title}}</h2>
+		<p class="atmc-intro">{{subtitle}}
+			<br>
+			<a href="{{linkedin}}"
+				rel="noopener"
+				target="_blank">LinkedIn
+			</a>
+		</p>
+	</div>
+</div>
 {%- endmacro %}
