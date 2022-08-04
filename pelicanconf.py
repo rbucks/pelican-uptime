@@ -28,8 +28,6 @@ EXTRA_PATH_METADATA = {
 }
 
 PATH_METADATA = '(?P<dirname>.*)/(?P<basename>.*)\..*'
-#PAGE_SAVE_AS= '{dirname}/{basename}.html'
-#PAGE_URL= '{dirname}/{basename}.html'
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}.html'
 
