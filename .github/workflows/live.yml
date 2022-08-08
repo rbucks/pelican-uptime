@@ -1,0 +1,31 @@
+name: Main
+on:
+  push:
+    tags:
+      - "*"
+
+jobs:
+  build:
+    if:      "!contains(github.event.commits[0].message, '[skip ci]')"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.9.x"
+          architecture: "x64"
+      - run:  |
+              pip install -r requirements.txt
+              pelican content -s publishconf.py
+      - uses: montudor/action-zip@v1
+        with:
+          args: zip -9 -qq -r build.zip build
+      - uses: softprops/action-gh-release@v1
+        name: Release
+        with:
+          files: build.zip
+      - uses: actions/upload-artifact@v3
+        with:
+          name: build.zip
+          path: build.zip
