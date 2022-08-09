@@ -1,0 +1,8 @@
+{% macro table_pricing(th, essential, premium, custom) -%}
+<tr>
+  <th scope="row" class="heading text-left">{{ th }}</th>
+  <td>{{ essential }}</td>
+  <td>{{ premium }}</td>
+  <td>{{ custom }}</td>
+</tr>
+{%- endmacro %}
